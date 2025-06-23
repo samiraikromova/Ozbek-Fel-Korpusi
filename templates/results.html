@@ -1,0 +1,121 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>"{{ query }}" natijalari</title>
+    <link rel="stylesheet" href="{% static 'style.css' %}">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+<div class="container">
+    <header>
+        <h1>
+            {% if search_type == 'suffix' %}
+                "{{ query }}" qoʻshimchasi boʻyicha natijalar
+            {% else %}
+                "{{ query }}" soʻzi boʻyicha natijalar
+            {% endif %}
+            {% if style_filter %}
+                ({{ style_categories.style_filter }} uslubida)
+            {% endif %}
+        </h1>
+        <a href="{% url 'index' %}" class="btn-back">← Bosh sahifa</a>
+    </header>
+
+    
+    <div class="results-summary">
+        <p>Jami <strong>{{ found }}</strong> marta uchraydi</p>
+    </div>
+
+    <div class="results-container">
+        <h2>Hujjatlar</h2>
+        {% for document in per_doc %}
+        <div class="result-card">
+            <h3>{{ document.author }} - {{ document.title }}</h3>
+            <div class="result-meta">
+                <span class="badge">{{ document.count }} marta</span>
+                <span class="badge style-badge {{ document.style }}"></span>
+                <span class="badge">{{ document.style }}</span>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    <div class="detailed-results">
+        <h2>Batafsil soʻz uchrayotgan joylar ({{ found }} ta topildi)</h2>
+
+        <div class="table-container">
+            <table class="occurrence-table">
+                <thead>
+                    <tr>
+                        <th>Muallif - Asar</th>
+                        <th>Uslub</th>
+                        <th>Matndan parcha</th>
+{#                        <th>Takrorlanish</th>#}
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for doc in results %}
+                    <tr>
+                        <td class="filename-cell">
+                            {{ doc.0 }} - {{ doc.1 }}
+                        </td>
+                        <td class="style-cell">{{ doc.2 }}</td>
+                        <td class="excerpt-cell">
+                            <span >{{ doc.3 }}</span>
+{#                            <div class="full-excerpt">...{{ occ.excerpt|safe }}...</div>#}
+                        </td>
+{#                        <td class="count-cell">#}
+{#                            {% if occ.count %}{{ occ.count }}{% else %}1{% endif %}#}
+{#                        </td>#}
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+        {% if page_obj.paginator.num_pages > 1 %}
+<div class="pagination">
+
+        {% if page_obj.has_previous %}
+            <a href="?q={{ query }}&type={{ search_type }}&style={{ style_filter }}&page=1" class="page-link">&laquo; Birinchi</a>
+            <a href="?q={{ query }}&type={{ search_type }}&style={{ style_filter }}&page={{ page_obj.previous_page_number }}" class="page-link">&lsaquo; Oldingi</a>
+        {% endif %}
+    
+        {% for p in page_range %}
+            {% if p == page_obj.number %}
+                <span class="current-page">{{ p }}</span>
+            {% elif p == '...' %}
+                <span class="ellipsis">…</span>
+            {% else %}
+                <a href="?q={{ query }}&type={{ search_type }}&style={{ style_filter }}&page={{ p }}" class="page-link">{{ p }}</a>
+            {% endif %}
+        {% endfor %}
+    
+        {% if page_obj.has_next %}
+            <a href="?q={{ query }}&type={{ search_type }}&style={{ style_filter }}&page={{ page_obj.next_page_number }}" class="page-link">Keyingi &rsaquo;</a>
+            <a href="?q={{ query }}&type={{ search_type }}&style={{ style_filter }}&page={{ page_obj.paginator.num_pages }}" class="page-link">Oxirgi &raquo;</a>
+        {% endif %}
+    
+    </div>
+    {% endif %}
+    </div>
+  
+   {% if not results %}
+     <div class="no-results">
+        <p>
+            {% if search_type == 'suffix' %}
+                "{{ query }}" qoʻshimchasi korpusda uchramadi
+            {% else %}
+                "{{ query }}" soʻzi korpusda uchramadi
+            {% endif %}
+          
+        </p>
+    </div>
+   {% endif %}
+ 
+</div>
+</body>
+</html>

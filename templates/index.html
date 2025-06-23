@@ -1,0 +1,65 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oʻzbek Korpusi</title>
+    <link rel="stylesheet" href="{% static 'style.css' %}">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Oʻzbek Adabiyoti Korpusi</h1>
+            <p class="subtitle">1 million soʻzli matnlar bazasi</p>
+        </header>
+
+        <div class="stats-card">
+            <div class="stat-item">
+                <span class="stat-label">Soʻzlar</span>
+                <span class="stat-number">{{ total_word_count }}</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-label">Asarlar</span>
+                <span class="stat-number">{{ doc_count }}</span>
+
+            </div>
+            <div class="stat-item">
+                <span class="stat-label">Yangilangan</span>
+                <span class="stat-number">{% if last_updated %}
+                                            {{ last_updated|date:"Y-m-d H:i" }}
+                                            {% else %}
+                                                Nomaʼlum
+                                            {% endif %}</span>
+            </div>
+        </div>
+
+        <form action="" method="get" class="search-form">
+            <input type="text" name="q" placeholder="Soʻz yoki qoʻshimcha izlash..." required>
+            <select name="type">
+                <option value="word">Soʻz</option>
+                <option value="suffix">Qoʻshimcha</option>
+            </select>
+            <select name="style">
+                <option value="">Barcha uslublar</option>
+                {% for style, label in styles.items %}
+                    <option value="{{ style }}">{{ label }}</option>
+                {% endfor %}
+            </select>
+            <button type="submit">Izlash</button>
+        </form>
+        
+        {% if message %}
+        <div style="border: 1px solid red; background-color: #ffe5e5; padding: 10px; color: darkred;">
+            {{ message }}
+        </div>
+        {% endif %}
+    
+        <footer>
+            <p>© 2025 Oʻzbek Korpusi Loyihasi</p>
+        </footer>
+    </div>
+</body>
+</html>

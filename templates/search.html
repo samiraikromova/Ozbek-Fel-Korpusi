@@ -1,0 +1,40 @@
+<h2>Поиск по документам</h2>
+
+<p><strong>Word count:</strong> {{ total_word_count }}</p>
+
+<form method="get" style="margin-bottom: 20px;">
+    <input type="text" name="q" placeholder="Введите слово" value="{{ query|default:'' }}" required />
+    <select name="mode">
+        <option value="word" {% if mode == "word" or not mode %}selected{% endif %}>Точное слово</option>
+        <option value="suffix" {% if mode == "suffix" %}selected{% endif %}>Суффикс / часть слова</option>
+    </select>
+    <button type="submit">Поиск</button>
+</form>
+
+{% if query %}
+    <h3>Результаты для "{{ query }}" (режим: {{ mode }})</h3>
+    {% if results %}
+        <ul>
+            {% for line in results %}
+                <li>{{ line }}</li>
+            {% endfor %}
+        </ul>
+
+        <div class="pagination">
+            {% if page_obj.has_previous %}
+                <a href="?q={{ query }}&mode={{ mode }}&page=1">&laquo; В начало</a>
+                <a href="?q={{ query }}&mode={{ mode }}&page={{ page_obj.previous_page_number }}">← Назад</a>
+            {% endif %}
+
+            <span>Страница {{ page_obj.number }} из {{ paginator.num_pages }}</span>
+
+            {% if page_obj.has_next %}
+                <a href="?q={{ query }}&mode={{ mode }}&page={{ page_obj.next_page_number }}">Вперёд →</a>
+                <a href="?q={{ query }}&mode={{ mode }}&page={{ paginator.num_pages }}">В конец &raquo;</a>
+            {% endif %}
+        </div>
+
+    {% else %}
+        <p>Совпадений не найдено.</p>
+    {% endif %}
+{% endif %}
