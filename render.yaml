@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: ozbek-fel-korpusi
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn korpus.wsgi
+    runtime: python
+    plan: free
