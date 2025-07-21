@@ -1,0 +1,40 @@
+# Ignore Python cache files
+*.pyc
+__pycache__/
+
+
+# Ignore environment variables and settings
+.env
+local_settings.py # or any other file holding local/sensitive settings
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore logs and backups
+*.log
+*.bak
+
+# Ignore media and static files (if not managed by version control)
+media/
+static/ # if you collect static files to a local directory and don't want to commit them
+
+# Ignore IDE and editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore testing and coverage reports
+.tox/
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Ignore deployment files (e.g., compiled assets, archives)
+*.tar.gz
+*.zip
+
+# Operating System specific files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,193 @@
+{% load static humanize %}
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Korpus statistikasi - To'liq hisobot</title>
+  <link rel="stylesheet" href="{% static 'css/style.css' %}">
+  
+</head>
+<body>
+  <div class="background-pattern"></div>
+  <div class="container">
+  
+    <header>
+      <div class="logo-container">
+      <h1>Oʻzbek tili korpusi - Matnlar tarkibi</h1>
+      </div>
+      <div class="nav-links">
+        <a href="{% url 'index' %}#about">Korpus haqida</a>
+        <a href="{% url 'index' %}#guide">Foydalanish qoʻllanmasi</a>
+      </div>
+    </header>
+   
+      <a href="{% url 'index' %}" class="btn-back">← Bosh sahifa</a>
+      
+
+   
+
+    <!-- Overall Statistics -->
+    <h2>Umumiy ko'rsatkichlar</h2>
+    <div class="stats-grid">
+      <div class="stat-card">
+        <span class="stat-number">{{ total_texts|intcomma|default:"54" }}</span>
+        <div class="stat-label">Jami matnlar</div>
+        <div class="stat-description">Barcha janr va turlardan</div>
+      </div>
+      <div class="stat-card">
+        <span class="stat-number">{{ total_words|intcomma|default:"1.3M" }}</span>
+        <div class="stat-label">Jami so'zlar</div>
+        <div class="stat-description">Korpusdagi barcha so'zlar</div>
+      </div>
+      <div class="stat-card">
+        <span class="stat-number">{{ total_authors|intcomma|default:"44" }}</span>
+        <div class="stat-label">Mualliflar</div>
+        <div class="stat-description">Turli soha vakillari</div>
+      </div>
+      
+      <div class="stat-card">
+        <span class="stat-number">25</span>
+        <div class="stat-label">Yillik diapazoni</div>
+        <div class="stat-description">2000-2025 yillari</div>
+      </div>
+    </div>
+
+    <!-- Genre Breakdown -->
+        <h2>Matnlar turi bo'yicha taqsimot</h2>
+        <div class="genre-breakdown">
+          <div class="genre-item">
+            <div class="genre-info">
+              <div class="genre-name">Badiiy matnlar</div>
+              <div class="genre-desc">Nasriy va she'riy asarlar (quyida ro'yxatda)</div>
+              <div class="progress-bar">
+                <div class="progress-fill" style="width: {% widthratio badiiy_count total_texts 100 %}%"></div>
+              </div>
+            </div>
+            <div class="genre-stats">
+              <div><strong>{{ badiiy_count|intcomma }}</strong> matn</div>
+              <div><strong>{{ badiiy_words|intcomma }}</strong> so'z</div>
+            </div>
+          </div>
+          
+          <div class="genre-item">
+            <div class="genre-info">
+              <div class="genre-name">Publitsistik matnlar</div>
+              <div class="genre-desc">Gazeta va jurnal maqolalari</div>
+              <div class="genre-desc">"Guliston", "Oʻzbekiston", "Tong tuldūzi", "Xalq soʻzi", "XXI asr" gazetalari va "Yoshlik", "Saodat" jurnallari.</div>
+              <div class="progress-bar">
+                <div class="progress-fill" style="width: {% widthratio publitsistik_count total_texts 100 %}%"></div>
+              </div>
+            </div>
+            <div class="genre-stats">
+              <div><strong>{{ publitsistik_count|intcomma }}</strong> matn</div>
+              <div><strong>{{ publitsistik_words|intcomma }}</strong> so'z</div>
+            </div>
+          </div>
+          
+          <div class="genre-item">
+            <div class="genre-info">
+              <div class="genre-name">Ilmiy matnlar</div>
+              <div class="genre-desc">Dissertatsiya, maqola, darslik, o‘quv-uslubiy materiallar</div>
+              <div class="progress-bar">
+                <div class="progress-fill" style="width: {% widthratio ilmiy_count total_texts 100 %}%"></div>
+              </div>
+            </div>
+            <div class="genre-stats">
+              <div><strong>{{ ilmiy_count|intcomma }}</strong> matn</div>
+              <div><strong>{{ ilmiy_words|intcomma }}</strong> so'z</div>
+            </div>
+          </div>
+          
+          <div class="genre-item">
+            <div class="genre-info">
+              <div class="genre-name">Rasmiy matnlar</div>
+              <div class="genre-desc">Qonun, farmon, shartnomalar, tilxat/ariza hamda Konstitutsiya matnlari</div>
+              <div class="progress-bar">
+                <div class="progress-fill" style="width: {% widthratio rasmiy_count total_texts 100 %}%"></div>
+              </div>
+            </div>
+            <div class="genre-stats">
+              <div><strong>{{ rasmiy_count|intcomma }}</strong> matn</div>
+              <div><strong>{{ rasmiy_words|intcomma }}</strong> so'z</div>
+            </div>
+          </div>
+        </div>
+
+    <!-- Detailed Tables -->
+    <h2>Nasriy matnlar</h2>
+    <table class="stats-table">
+      <thead>
+        <tr>
+          <th>№</th>
+          <th>Muallif</th>
+          <th>Sarlavha</th>
+          <th>Yil</th>
+          <th>So'zlar</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for art in nasriy_list %}
+        <tr>
+          <td>{{ forloop.counter }}</td>
+          <td>{{ art.author }}</td>
+          <td>{{ art.title }}</td>
+          <td>{{ art.pub_year|default:"—" }}</td>
+          <td class="text-right">{{ art.word_count|intcomma }}</td>
+        </tr>
+        {% empty %}
+        <tr>
+          <td colspan="5">Nasriy matnlar topilmadi.</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+
+    <h2>She'riy matnlar</h2>
+    <table class="stats-table">
+      <thead>
+        <tr>
+          <th>№</th>
+          <th>Muallif</th>
+          <th>Sarlavha</th>
+          <th>Yil</th>
+          <th>So'zlar</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for art in sheriy_list %}
+        <tr>
+          <td>{{ forloop.counter }}</td>
+          <td>{{ art.author }}</td>
+          <td>{{ art.title }}</td>
+          <td>{{ art.pub_year|default:"—" }}</td>
+          <td class="text-right">{{ art.word_count|intcomma }}</td>
+        </tr>
+        {% empty %}
+        <tr>
+          <td colspan="5">She'riy matnlar topilmadi.</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+
+      
+        
+      
+    
+
+  <!-- FOOTER -->
+    <footer>
+      <div class="footer-content">
+        <p>© 2025 OʻzFeʼlKorpus Loyihasi</p>
+        <div class="footer-links">
+          <a href="https://t.me/Nasirdinova_O">Bogʻlanish</a>
+            <a href="{% url 'index' %}#about">Korpus haqida</a>
+        </div>
+      </div>
+    </footer>
+  
+    </div>
+
+</body>
+</html>

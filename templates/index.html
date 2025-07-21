@@ -1,65 +1,153 @@
 {% load static %}
-
 <!DOCTYPE html>
 <html lang="uz">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Oʻzbek Korpusi</title>
-    <link rel="stylesheet" href="{% static 'style.css' %}">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>OʻzFeʼlKorpus</title>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{% static 'css/style.css' %}">
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1>Oʻzbek Adabiyoti Korpusi</h1>
-            <p class="subtitle">1 million soʻzli matnlar bazasi</p>
-        </header>
+  <div class="background-pattern"></div>
+  <div class="container">
 
-        <div class="stats-card">
-            <div class="stat-item">
-                <span class="stat-label">Soʻzlar</span>
-                <span class="stat-number">{{ total_word_count }}</span>
-            </div>
-            <div class="stat-item">
-                <span class="stat-label">Asarlar</span>
-                <span class="stat-number">{{ doc_count }}</span>
+    <!-- HEADER -->
+    <header>
+      <div class="logo-container">
+        <h1>OʻzFeʼlKorpus</h1>
+      </div>
+      <div class="nav-links">
+        <a href="{% url 'index' %}#about">Korpus haqida</a>
+        <a href="{% url 'statistics' %}">Statistika</a>
+        <a href="{% url 'index' %}#guide">Foydalanish qoʻllanmasi</a>
+      </div>
+    </header>
 
-            </div>
-            <div class="stat-item">
-                <span class="stat-label">Yangilangan</span>
-                <span class="stat-number">{% if last_updated %}
-                                            {{ last_updated|date:"Y-m-d H:i" }}
-                                            {% else %}
-                                                Nomaʼlum
-                                            {% endif %}</span>
-            </div>
-        </div>
-
-        <form action="" method="get" class="search-form">
-            <input type="text" name="q" placeholder="Soʻz yoki qoʻshimcha izlash..." required>
-            <select name="type">
-                <option value="word">Soʻz</option>
-                <option value="suffix">Qoʻshimcha</option>
-            </select>
-            <select name="style">
-                <option value="">Barcha uslublar</option>
-                {% for style, label in styles.items %}
-                    <option value="{{ style }}">{{ label }}</option>
-                {% endfor %}
-            </select>
-            <button type="submit">Izlash</button>
-        </form>
-        
-        {% if message %}
-        <div style="border: 1px solid red; background-color: #ffe5e5; padding: 10px; color: darkred;">
-            {{ message }}
-        </div>
-        {% endif %}
-    
-        <footer>
-            <p>© 2025 Oʻzbek Korpusi Loyihasi</p>
-        </footer>
+    <!-- STATS -->
+    <div class="stats-card">
+      <div class="stat-item">
+        <span class="stat-label">Soʻzlar</span>
+        <span class="stat-number">{{ total_word_count }}</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-label">Matnlar</span>
+        <span class="stat-number">{{ doc_count }}</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-label">Yangilangan</span>
+        <span class="stat-number">
+          {% if last_updated %}
+            {{ last_updated|date:"Y-m-d" }}
+          {% else %}
+            Nomaʼlum
+          {% endif %}
+        </span>
+      </div>
     </div>
+
+    <!-- SEARCH BAR -->
+    <div class="search-section">
+      <form action="{% url 'search_results' %}" method="get" class="search-container">
+        <input
+          type="text"
+          name="q"
+          class="search-input"
+          placeholder="Soʻz yoki qoʻshimcha izlash…"
+          required
+        >
+        <select name="type" class="search-select">
+          <option value="word">Soʻz</option>
+          <option value="suffix">Qoʻshimcha</option>
+        </select>
+        <select name="style" class="search-select">
+          <option value="">Barcha uslublar</option>
+          <option value="badiiy">Badiiy uslub</option>
+          <option value="ilmiy">Ilmiy uslub</option>
+          <option value="publitsistik">Publitsistik uslub</option>
+          <option value="rasmiy">Rasmiy uslub</option>
+        </select>
+        <button type="submit" class="search-button">Izlash</button>
+      </form>
+    </div>
+
+    {% if message %}
+      <div class="error-message">{{ message }}</div>
+    {% endif %}
+
+    <!-- ABOUT -->
+    <div class="about-section" id="about">
+      <h2>Korpus haqida</h2>
+      <p>"OʻzFeʼlKorpus" — bu oʻzbek tilidagi 2000–2025-yillar orasida yaratilgan badiiy, ilmiy, publitsistik va rasmiy uslubdagi matnlar asosida tuzilgan 1 million soʻzli elektron matnlar korpusidir. Ushbu korpus oʻzbek tilida feʼl morfologik shakllarining nutqdagi qoʻllanish darajasini tizimli tahlil qilish maqsadida shakllantirilgan boʻlib, u zamonaviy lingvistik tadqiqotlar, uslubiy va grammatik izlanishlar uchun boy empirik manba hisoblanadi.</p>
+      <p>Korpusda turli uslub va janrlardagi matnlar toʻplangan boʻlib, ular orqali feʼlning zamon, mayl, nisbat, shaxs-son shakllari kabi grammatik koʻrsatkichlarning real nutqdagi ishlatilish chastotasi aniqlanadi.</p>
+      
+      <div class="founders-section">
+        <h3>Asoschilar</h3>
+        <ul class="founders-list">
+          <li><strong>Tilshunos</strong> – Nasirdinova Oydinniso Dagarovna (ToshDOʻTAU, Oʻzbek tili va adabiyoti kafedrasi, doktorant)</li>
+          <li><strong>Texnik dasturchilar</strong> – Samira Ikromova, Diyora Baxtiyorova</li>
+        </ul>
+        <p><strong>Yaratilgan yil:</strong> 2025</p>
+      </div>
+    </div>
+
+    <!-- USER GUIDE -->
+    <div class="user-guide" id="guide">
+      <h2>Foydalanish qoʻllanmasi</h2>
+      <div class="guide-content">
+        <h3>Korpus maqsadi</h3>
+        <p>OʻzFeʼlKorpus oʻzbek tilidagi feʼllarning turli shakllarining qoʻllanishini oʻrganish, ularning chastotasini aniqlash va grammatik tahlil qilish uchun yaratilgan. Korpus lingvistlar, tilshunoslar, talabalar va oʻzbek tilini oʻrganayotganlar uchun foydali manba hisoblanadi.</p>
+        
+        <h3>Korpus tuzilishi</h3>
+        <div class="guide-grid">
+          <div class="guide-item">
+            <h4>Badiiy uslub</h4>
+            <p>Sheʼrlar, romanlar, hikoyalar</p>
+          </div>
+          <div class="guide-item">
+            <h4>Ilmiy uslub</h4>
+            <p>Ilmiy maqolalar, dissertatsiyalar</p>
+          </div>
+          <div class="guide-item">
+            <h4>Publitsistik uslub</h4>
+            <p>Gazeta va jurnal maqolalari</p>
+          </div>
+          <div class="guide-item">
+            <h4>Rasmiy uslub</h4>
+            <p>Hujjatlar, qonunlar, shartnomalar</p>
+          </div>
+        </div>
+        
+        <h3>Qanday qidirish mumkin?</h3>
+        <div class="search-guide">
+          <div class="search-type">
+            <h4>Soʻz izlash</h4>
+            <p>Toʻliq soʻzni kiriting va korpusda qidiring</p>
+          </div>
+          <div class="search-type">
+            <h4>Qoʻshimcha izlash</h4>
+            <p>Soʻz oxiri qatnashgan qoʻshimchani kiriting</p>
+          </div>
+          <div class="search-type">
+            <h4>Uslub boʻyicha filtr</h4>
+            <p>Faqat maʼlum uslubda qidirish imkoniyati</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- FOOTER -->
+    <footer>
+      <div class="footer-content">
+        <p>© 2025 OʻzFeʼlKorpus Loyihasi</p>
+        <div class="footer-links">
+          <a href="https://t.me/Nasirdinova_O">Bogʻlanish</a>
+            <a href="{% url 'index' %}#about">Korpus haqida</a>
+        </div>
+      </div>
+    </footer>
+
+  </div>
+
 </body>
 </html>

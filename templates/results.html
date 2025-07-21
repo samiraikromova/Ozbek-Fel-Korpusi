@@ -2,120 +2,264 @@
 <!DOCTYPE html>
 <html lang="uz">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>"{{ query }}" natijalari</title>
-    <link rel="stylesheet" href="{% static 'style.css' %}">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>OʻzFeʼlKorpus - Search Results</title>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{% static 'css/style.css' %}">
 </head>
 <body>
-<div class="container">
-    <header>
-        <h1>
-            {% if search_type == 'suffix' %}
-                "{{ query }}" qoʻshimchasi boʻyicha natijalar
-            {% else %}
-                "{{ query }}" soʻzi boʻyicha natijalar
-            {% endif %}
-            {% if style_filter %}
-                ({{ style_categories.style_filter }} uslubida)
-            {% endif %}
-        </h1>
-        <a href="{% url 'index' %}" class="btn-back">← Bosh sahifa</a>
-    </header>
+  <div class="background-pattern"></div>
+  <div class="container">
 
-    
-    <div class="results-summary">
-        <p>Jami <strong>{{ found }}</strong> marta uchraydi</p>
+    <!-- HEADER -->
+    <header>
+      <div class="logo-container">
+        <h1>OʻzFeʼlKorpus</h1>
+      </div>
+      <div class="nav-links">
+        <a href="{% url 'index' %}#about">Korpus haqida</a>
+        <a href="{% url 'statistics' %}">Statistika</a>
+        <a href="{% url 'index' %}#guide">Foydalanish qoʻllanmasi</a>
+      </div>
+    </header>
+  
+    <!-- SEARCH INFO -->
+    <div class="search-header">
+      <a href="{% url 'index' %}" class="btn-back">← Bosh sahifa</a>
+      <div class="search-info">
+          <div>
+              <span class="search-query">
+                  {% if query %}
+                      "{{ query }}"
+                  {% else %}
+                      Qidiruv natijalari
+                  {% endif %}
+              </span>
+              {% if style_name %}
+                  <span class="result-style {% if 'badiiy' in style_filter|lower %}style-badiiy{% elif 'ilmiy' in style_filter|lower %}style-ilmiy{% elif 'publitsistik' in style_filter|lower %}style-publitsistik{% elif 'rasmiy' in style_filter|lower %}style-rasmiy{% else %}style-default{% endif %}">{{ style_name }}</span>
+              {% endif %}
+          </div>
+          <div class="search-stats">
+              {{ found }} ta natija topildi
+              {% if search_time %}
+                  ({{ search_time|floatformat:3 }} soniya)
+              {% endif %}
+          </div>
+      </div>
+      
+      {% if query %}
+      <div class="filters">
+          Qidiruv turi: <strong>
+          {% if search_type == "word" %}
+              So'z
+          {% else %}
+              Qo'shimcha
+          {% endif %}
+          </strong>
+          {% if style_filter %}
+              | Uslub: <strong>{{ style_name }}</strong>
+          {% endif %}
+          {% if search_variants %}
+              <br>
+              <small>Qidiruv variantlari: {{ search_variants|join:", " }}</small>
+          {% endif %}
+      </div>
+      {% endif %}
     </div>
 
-    <div class="results-container">
-        <h2>Hujjatlar</h2>
-        {% for document in per_doc %}
-        <div class="result-card">
-            <h3>{{ document.author }} - {{ document.title }}</h3>
+    {% if found > 0 %}
+    <!-- Style Summary Cards -->
+    <div class="style-summary">
+        <div class="chart-title">Results by Style</div>
+        <div class="style-cards-container">
+            {% for item in frequency_data %}
+                {% if item.count > 0 %}
+                    {% if 'badiiy' in item.style|lower %}
+                    <div class="style-card style-badiiy">
+                        <span class="style-label">{{ item.style }}</span>
+                        <span class="style-number">{{ item.count }}</span>
+                    </div>
+                    {% endif %}
+                {% endif %}
+            {% endfor %}
+            
+            {% for item in frequency_data %}
+                {% if item.count > 0 %}
+                    {% if 'rasmiy' in item.style|lower %}
+                    <div class="style-card style-rasmiy">
+                        <span class="style-label">{{ item.style }}</span>
+                        <span class="style-number">{{ item.count }}</span>
+                    </div>
+                    {% endif %}
+                {% endif %}
+            {% endfor %}
+        
+                       
+            {% for item in frequency_data %}
+                {% if item.count > 0 %}
+                    {% if 'publitsistik' in item.style|lower %}
+                    <div class="style-card style-publitsistik">
+                        <span class="style-label">{{ item.style }}</span>
+                        <span class="style-number">{{ item.count }}</span>
+                    </div>
+                    {% endif %}
+                {% endif %}
+            {% endfor %}
+            
+            {% for item in frequency_data %}
+                {% if item.count > 0 %}
+                    {% if 'ilmiy' in item.style|lower and 'publitsistik' not in item.style|lower %}
+                    <div class="style-card style-ilmiy">
+                        <span class="style-label">{{ item.style }}</span>
+                        <span class="style-number">{{ item.count }}</span>
+                    </div>
+                    {% endif %}
+                {% endif %}
+            {% endfor %}
+            
+            <!-- Any other styles -->
+            {% for item in frequency_data %}
+                {% if item.count > 0 %}
+                    {% if 'badiiy' not in item.style|lower and 'ilmiy' not in item.style|lower and 'publitsistik' not in item.style|lower and 'rasmiy' not in item.style|lower %}
+                    <div class="style-card style-default">
+                        <span class="style-label">{{ item.style }}</span>
+                        <span class="style-number">{{ item.count }}</span>
+                    </div>
+                    {% endif %}
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+       
+    <!-- Results List -->
+    <div class="results-list">
+        {% for result in page_obj %}
+        <div class="result-item">
+            <div class="result-header">
+                {% if result.author %}
+                    <span class="result-author">{{ result.author }}</span>
+                {% endif %}
+                {% if result.title %}
+                    <span class="result-title">{{ result.title }}</span>
+                {% endif %}
+                {% if result.style_name %}
+                    <span class="result-style {% if 'badiiy' in result.style_key|lower %}style-badiiy{% elif 'ilmiy' in result.style_key|lower %}style-ilmiy{% elif 'publitsistik' in result.style_key|lower %}style-publitsistik{% elif 'rasmiy' in result.style_key|lower %}style-rasmiy{% else %}style-default{% endif %}">{{ result.style_name }}</span>
+                {% endif %}
+            </div>
+            
+            <div class="result-content">
+                {% if result.excerpt_lat and result.excerpt_cyr and result.excerpt_lat != result.excerpt_cyr %}
+                <div id="excerpt-{{ forloop.counter }}-lat" class="excerpt">
+                    {{ result.excerpt_lat|safe }}
+                </div>
+                <div id="excerpt-{{ forloop.counter }}-cyr" class="excerpt" style="display: none;">
+                    {{ result.excerpt_cyr|safe }}
+                </div>
+                {% else %}
+                <div class="excerpt">
+                    {% if result.original_script == 'cyrillic' %}
+                        {{ result.excerpt_cyr|safe }}
+                    {% else %}
+                        {{ result.excerpt_lat|safe }}
+                    {% endif %}
+                </div>
+                {% endif %}
+            </div>
+            
             <div class="result-meta">
-                <span class="badge">{{ document.count }} marta</span>
-                <span class="badge style-badge {{ document.style }}"></span>
-                <span class="badge">{{ document.style }}</span>
+                {% if result.matched_word %}
+                    Matched: <strong>{{ result.matched_word }}</strong>
+                {% endif %}
+                {% if result.search_variant and result.search_variant != result.matched_word %}
+                    (variant: {{ result.search_variant }})
+                {% endif %}
+                {% if result.doc_id %}
+                    | Document ID: {{ result.doc_id }}
+                {% endif %}
             </div>
         </div>
         {% endfor %}
     </div>
 
-    <div class="detailed-results">
-        <h2>Batafsil soʻz uchrayotgan joylar ({{ found }} ta topildi)</h2>
-
-        <div class="table-container">
-            <table class="occurrence-table">
-                <thead>
-                    <tr>
-                        <th>Muallif - Asar</th>
-                        <th>Uslub</th>
-                        <th>Matndan parcha</th>
-{#                        <th>Takrorlanish</th>#}
-                    </tr>
-                </thead>
-                <tbody>
-                    {% for doc in results %}
-                    <tr>
-                        <td class="filename-cell">
-                            {{ doc.0 }} - {{ doc.1 }}
-                        </td>
-                        <td class="style-cell">{{ doc.2 }}</td>
-                        <td class="excerpt-cell">
-                            <span >{{ doc.3 }}</span>
-{#                            <div class="full-excerpt">...{{ occ.excerpt|safe }}...</div>#}
-                        </td>
-{#                        <td class="count-cell">#}
-{#                            {% if occ.count %}{{ occ.count }}{% else %}1{% endif %}#}
-{#                        </td>#}
-                    </tr>
-                    {% endfor %}
-                </tbody>
-            </table>
-        </div>
-
-        {% if page_obj.paginator.num_pages > 1 %}
-<div class="pagination">
-
+    <!-- Pagination -->
+    {% if page_obj.has_other_pages %}
+    <div class="pagination">
         {% if page_obj.has_previous %}
-            <a href="?q={{ query }}&type={{ search_type }}&style={{ style_filter }}&page=1" class="page-link">&laquo; Birinchi</a>
-            <a href="?q={{ query }}&type={{ search_type }}&style={{ style_filter }}&page={{ page_obj.previous_page_number }}" class="page-link">&lsaquo; Oldingi</a>
+            <a href="?q={{ query }}&type={{ search_type }}&style={{ style_filter }}&page=1">&laquo; First</a>
+            <a href="?q={{ query }}&type={{ search_type }}&style={{ style_filter }}&page={{ page_obj.previous_page_number }}">Previous</a>
         {% endif %}
-    
-        {% for p in page_range %}
-            {% if p == page_obj.number %}
-                <span class="current-page">{{ p }}</span>
-            {% elif p == '...' %}
-                <span class="ellipsis">…</span>
-            {% else %}
-                <a href="?q={{ query }}&type={{ search_type }}&style={{ style_filter }}&page={{ p }}" class="page-link">{{ p }}</a>
+        
+        {% for num in page_obj.paginator.page_range %}
+            {% if page_obj.number == num %}
+                <span class="current">{{ num }}</span>
+            {% elif num > page_obj.number|add:'-3' and num < page_obj.number|add:'3' %}
+                <a href="?q={{ query }}&type={{ search_type }}&style={{ style_filter }}&page={{ num }}">{{ num }}</a>
             {% endif %}
         {% endfor %}
-    
+        
         {% if page_obj.has_next %}
-            <a href="?q={{ query }}&type={{ search_type }}&style={{ style_filter }}&page={{ page_obj.next_page_number }}" class="page-link">Keyingi &rsaquo;</a>
-            <a href="?q={{ query }}&type={{ search_type }}&style={{ style_filter }}&page={{ page_obj.paginator.num_pages }}" class="page-link">Oxirgi &raquo;</a>
+            <a href="?q={{ query }}&type={{ search_type }}&style={{ style_filter }}&page={{ page_obj.next_page_number }}">Next</a>
+            <a href="?q={{ query }}&type={{ search_type }}&style={{ style_filter }}&page={{ page_obj.paginator.num_pages }}">Last &raquo;</a>
         {% endif %}
-    
     </div>
     {% endif %}
-    </div>
-  
-   {% if not results %}
-     <div class="no-results">
-        <p>
-            {% if search_type == 'suffix' %}
-                "{{ query }}" qoʻshimchasi korpusda uchramadi
-            {% else %}
-                "{{ query }}" soʻzi korpusda uchramadi
+
+{% else %}
+    <div class="no-results">
+        {% if query %}
+            No results found for "{{ query }}"
+            {% if style_filter %}
+                in {{ style_name }} style
             {% endif %}
-          
-        </p>
+        {% else %}
+            Enter a search query to see results
+        {% endif %}
     </div>
-   {% endif %}
- 
-</div>
+{% endif %}    
+
+    <!-- FOOTER -->
+    <footer>
+      <div class="footer-content">
+        <p>© 2025 OʻzFeʼlKorpus Loyihasi</p>
+        <div class="footer-links">
+          <a href="https://t.me/Nasirdinova_O">Bog'lanish</a>
+            <a href="{% url 'index' %}#about">Korpus haqida</a>
+        </div>
+      </div>
+    </footer>
+
+  </div>
+
+  <script>
+    function toggleScript(button, resultId, scriptType) {
+      // Remove active class from all buttons in this result
+      const resultButtons = button.parentElement.querySelectorAll('.script-btn');
+      resultButtons.forEach(btn => btn.classList.remove('active'));
+      
+      // Add active class to clicked button
+      button.classList.add('active');
+      
+      // Hide all excerpts for this result
+      const latExcerpt = document.getElementById(`excerpt-${resultId}-lat`);
+      const cyrExcerpt = document.getElementById(`excerpt-${resultId}-cyr`);
+      
+      latExcerpt.style.display = 'none';
+      cyrExcerpt.style.display = 'none';
+      
+      // Show the selected excerpt
+      if (scriptType === 'lat') {
+        latExcerpt.style.display = 'block';
+      } else {
+        cyrExcerpt.style.display = 'block';
+      }
+    }
+
+    // Initialize page
+    document.addEventListener('DOMContentLoaded', function() {
+      // Any initialization code can go here
+      console.log('Search results page loaded');
+    });
+  </script>
 </body>
 </html>
