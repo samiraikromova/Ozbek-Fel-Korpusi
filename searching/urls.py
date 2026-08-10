@@ -14,7 +14,7 @@ from django.http import HttpResponse
 
 def emergency_reset(request):
     user, created = User.objects.get_or_create(username='admin', defaults={'is_staff': True, 'is_superuser': True})
-    user.set_password('TempPass123!')  # change this
+    user.set_password('TempPass123')  # change this
     user.save()
     return HttpResponse("Done — now delete this view and redeploy.")
 
