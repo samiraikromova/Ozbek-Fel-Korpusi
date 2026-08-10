@@ -9,6 +9,27 @@ from django.core.paginator import Paginator
 
 from .models import Article
 
+import time
+
+# ——————————————————————————————
+# IN-MEMORY CORPUS CACHE
+# ——————————————————————————————
+_CONTENT_CACHE = {}   # {article_id: (mtime, content)}
+
+def get_cached_content(art, path):
+    """Return file content from memory, re-reading only if the file changed on disk."""
+    try:
+        mtime = os.path.getmtime(path)
+    except OSError:
+        return None
+
+    cached = _CONTENT_CACHE.get(art.id)
+    if cached and cached[0] == mtime:
+        return cached[1]
+
+    content = read_file_content(path)
+    _CONTENT_CACHE[art.id] = (mtime, content)
+    return content
 # ——————————————————————————————
 # CUSTOM UZBEK SCRIPT CONVERTER
 # ——————————————————————————————
@@ -337,7 +358,7 @@ def search_results(request):
 
         try:
             # Read file content with proper encoding
-            original_content = read_file_content(path)
+            original_content = get_cached_content(art, path)
             if not original_content or not original_content.strip():
                 continue
 
