@@ -1,0 +1,2481 @@
+11 -bet
+16-bet
+Ma rifat Kuch – bilim va tafakkurda
+Xalq ziyolilari gazetasi // 1931-yildan chiqa boshlagan // e-mail: info@marifat.uz // 2026-yil 5-avgust chorshanba №31(9616)
+Ma’naviy-ma’rifiy, ijtimoiy-siyosiy nashrMa rifat www.marifat.uz /marifat.uz @marifatziyo QR-kodni skanerlang va 2026-yil 5-avgust, № 31(9616)
+2 mobil ilovani yuklab oling.
+Ta’kid
+Alio – bir avlod
+uchun emas
+ALIFBO
+ALMASHMAYAPTI
+Eng avvalo, bir haqiqatni tan olish
+kerak: alifbo almashmayapti. Hech kim
+yangi yozuv tizimini joriy qilayotgani
+ham yo‘q. Gap 1993-yilda qabul qilingan
+lotin alifbosini takomillashtirish haqida ketmoqda. Bu ikki holatni tenglashtirish ‒ islohotning mazmunini ataylab
+yoki bilmasdan buzib ko‘rsatishdir.
+Aslida islohotning bosh maqsadi harflarni almashtirish emas. Uning mazmuni
+o‘zbek lotin alifbosini yanada izchil, sodda va zamonaviy talablarga mos holga
+keltirishdan iborat. Alifbo bir vaqtning
+o‘zida ham tilshunoslik, ham axborot
+texnologiyalari, ham davlat boshqaruvi
+ehtiyojlariga javob berishi lozim. Afsuski, amaldagi alifbomiz bu talablarni
+to‘liq ta’minlay olmayotgani amaliyotda
+yaqqol namoyon bo‘lmoqda.
+Biz yillar davomida alifbodagi ayrim
+harfl arni to‘g‘ri yozishning murakkabliklari haqida, noilojlikdan ular uchun
+alohida istisnoli qoidalar joriy etish
+zarurati to‘g‘risida gapirib keldik. Ammo
+bugun ‒ barcha sohalar kabi til ham
+raqam lashayotgan bir paytda alifboga
+oid muammolarning ko‘lami biz o‘ylagandan ko‘ra kengroq va chuqurroq
+ekani namoyon bo‘ldi. Ma’lum bo‘ldiki, harfl ar va tinish belgisi yordamida
+sun’iy ravishda yasalgan O‘ va G‘ harflari Unicode xalqaro belgilar jadvalida
+bitta mustaqil harf sifatida kodlanmagan.
+Obrazli qilib aytadigan bo‘lsak, ular yaxlit harf sifatida ildizga ega emas.
+Sh va Ch birikmalari ham qator
+noqulayliklarni yuzaga keltirmoqda.
+Jumladan, ular tilimizdagi juda faol tovushlar ifodachisi bo‘lgani bois so‘zlar,
+jumlalar sun’iy ravishda kengayib ketmoqda. Is’hoq, as’hob kabi so‘zlarni to‘g‘ri
+yozish va o‘qish uchun, garchi vazifasiga
+kirmasa-da, tutuq belgisini qo‘yishga majbur bo‘lyapmiz.
+Lug‘atlarni avtomatik shakllantirish
+jarayonida Sh bilan boshlangan so‘zlar S
+harfi bilan boshlanadigan so‘zlar qatorida saralanib qolyapti va ularni to‘g‘rilash
+uchun qo‘shimcha algoritmlar ishlab
+chiqishga to‘g‘ri kelmoqda. Qisqartmalarning yozilishida (masalan, AQSh ‒
+AQSH, JCh – JCH) chalkashliklar ro‘y
+bermoqda va hokazo.
+Shu bois yuqoridagi qo‘sh belgili
+harf birikmalarini “bir tovush ‒ bir harf”
+tamoyili asosida isloh qilish maqbul
+yechim sifatida ko‘rilmoqda. Taklif etilayotganĞ, Ö, ŞvaÇharflari Unicode standartida mustaqil kodga ega ekani va turli
+dasturiy platformalar tomonidan barqaror qo‘llab-quvvatlanishi bilan ahamiyatlidir.
+XARAJATLAR HAQIDA
+Yana bir muhim masala ‒ xarajatlar
+haqida. Qonun qabul qilinishi bilan ertasidanoq millionlab pasportlar, tug‘ilganlik haqidagi guvohnomalar, darsliklar,
+ko‘cha peshlavhalari, davlat idoralari
+blankalari va yo‘l belgilari almashtirilishi
+kerak bo‘lmaydi. Bunday talab mutlaqo
+mavjud emas.
+Qonunning tegishli moddasida barcha rasmiy hujjatlar, milliy valyuta va
+qimmatli qog‘ozlar, davlat organlarining
+ramziy belgilari va boshqa atributlari,
+ularning binolarida aks ettirilgan davlat gerbining bo‘rtma tasviri, geografik
+obyektlarning nomlari tushirilgan peshlavha va ko‘rsatkichlar hamda Vazirlar
+Mahkamasi tomonidan belgilanadigan
+boshqa ashyolar va manbalardan yaberiladi. Ya’ni bugun almashtiriladigan
+narsalar ertaga ham baribir almashtirilar edi.
+Farq shundaki, ular navbatdagi yangilanish jarayonida yangi standart asosida
+tayyorlanadi, xolos. Shuning uchun “milliardlab qo‘shimcha xarajat” haqidagi
+da’volar islohotning huquqiy mexanizmini emas, uning atrofidagi taxminlarni aks
+ettiradi.
+DAVLAT STANDARTI
+Aslida bugungi bahsning markazida
+pul emas, standart turibdi. Davlat har
+qan day sohada standart yaratadi. Elekt ron hukumat uchun ham, raqamli imzo
+uchun ham, kadastr uchun ham, avtomobil raqamlari uchun ham yagona qoidalar belgilanadi. Alifbo ham ana shunday
+davlat standartidir.
+Standartning vazifasi esa bugungi
+odatlarni himoya qilish emas, ertangi
+tizimni barqaror qilishdir.
+Ko‘pchilik “odamlar ko‘nikib qolgan”, degan fikrni asos sifatida keltiradi.
+Ammo davlat siyosatini ko‘nikish emas,
+maqsad belgilaydi.
+Har qanday islohotning dastlabki
+bosqichida moslashish davri bo‘ladi.
+Bu tabiiy jarayon. Ammo moslashishning mavjudligi islohotning noto‘g‘ri
+ekanini anglatmaydi. Eng qizig‘i, alifbo
+islohotiga qarshi fi krlarning aksariyati
+tilshunoslik haqida emas. Ular asosan
+ehtimoliy noqulayliklar haqida.
+So‘nggi 10 yil ichida tilshunos olimlarimiz va tegishli soha vakillari alifbodagi nuqsonlarni ilmiy asosda tuzatish
+bo‘yicha tizimli ish olib bordi. Muhokamalar, fikr almashuvlar jarayonida alifbo
+loyihasi takomillashdi. Ko‘plab seminarlar, anjumanlarda mavzuga doir
+savollarga asosli dalillar bilan javoblar
+berildi. Nihoyat alifboning yakuniy loyihasi shakllanib, Oliy Majlisga kiritildi.
+ASOSIY SAVOLLAR
+BOSHQACHA BO‘LISHI
+KERAK
+Davlat uchun asosiy savollar boshqacha bo‘lishi kerak. Yigirma yildan keyin
+o‘zbek tili raqamli platformalarda qanday
+ishlaydi? Ellik yildan keyin milliy korpuslar, davlat arxivlari va ma’lumotlar
+bazalari qaysi standartga tayanadi? Yangi
+avlod qanday imlo qoidasi asosida ta’lim
+oladi? Alifbo aynan shu savollarga javob
+berishi lozim.
+“Yoshlar-ku, mayli, idroki tez, oson
+o‘rganadi, yoshi ulug‘ fuqarolar nima
+qiladi?” degan savollarga ham duch
+kelamiz. Alifboga kiritilayotgan harflar katta yoshli avlod uchun ham begona emas: bu harfl ar 1929−1940
+va 1993−1995-yillardagi o‘zbek alifbolari tarkibida mavjud bo‘lgan. Qolaversa,
+hududlardagi davlat tili bo‘yicha malaka
+oshirish markazlarida, ommaviy axborot
+vositalarida aholi uchun alifbodagi yangilanishlarga oid saboqlar, ma’lumotlar
+berilishi tashkil etiladi.
+Ijtimoiy tarmoqlarda endi bir paytning
+o‘zida uchta alifbo (eski lotin, yangi lotin va kirill) parallel ravishda ishlatilishi
+haqidagi taxminlarni ham o‘qiyapmiz.
+Albatta, norasmiy yozishmalarda har kim
+xohlagan alifbosidan foydalanishi mumkin, bunga hech kim to‘sqinlik qilolmaydi. Ammo davlat idoralarida ish yuritish,
+ta’lim-tarbiya va boshqa rasmiy maqomga ega jarayonlarda faqat qonun bilan tasdiqlangan alifbodan foydalaniladi.
+Alifbomizdagi nuqsonlar tuzatilib,
+u yagona davlat standartiga aylangach,
+bosma nashrlar va rasmiy saytlardagi ikki xillikka chek qo‘yish borasida
+ham tegishli takliflar tayyorlanmoqda.
+Bir so‘z bilan aytganda, milliy alifbo ‒ bu bir avlod uchun emas. U kamida keyingi yarim asr uchun qabul
+qilinadigan davlat standartidir. Shu bois
+bugungi muhokamalarda eng katta xato ‒ alifbo islohotini bir martalik
+xarajat sifatida ko‘rishdir. Aslida uni
+kechiktirishning ham o‘z bahosi bor.
+Har yili yangi darsliklar eski standart asosida chop etiladi. Har yili davlat axborot
+tizimlari mavjud muammolarga moslashtirib boriladi. Har yili yangi avlod
+mukammallashmagan qoidalarni o‘rganishda davom etadi. Bu ham xarajat.
+Faqat u smetada emas, vaqtda, resursda
+va kelajak imkoniyatlarida namoyon
+bo‘ladi.
+Shu ma’noda, bugungi tanlov “alifboni o‘zgartiramizmi yoki yo‘qmi?”
+degan savol emas. Tanlov shundaki, biz
+muammoni bugun tabiiy va bosqichma-bosqich hal qilamizmi yoki uni yana
+bir necha o‘n yil keyin xuddi shu holatda
+keyingi avlod zimmasiga yuklaymizmi?
+Chunki ba’zan eng katta xarajat ‒ islohot
+emas, islohotni surunkali ravishda ortga
+surish bo‘ladi.
+(Gazeta.uz saytidan olindi.)
+O‘zbekiston mustaqillikka erishganiga 35 yil bo‘ldi.
+Shu vaqt ichida mamlakat iqtisodiyoti o‘zgardi, davlat
+boshqaruvi raqamlashdi, yangi avlod voyaga yetdi,
+sun’iy intellekt hayotimizning bir qismiga aylandi. Ammo
+hamon yakuniy yechimini topmagan bir masala bor, bu –
+o‘zbek alifbosi. Har safar alifboni takomillashtirish haqida
+gap ochilsa, muhokamalar mazmundan ko‘ra ko‘proq
+ehtirosga quriladi. “Xarajat ko‘p bo‘ladi”, “odamlar
+chalkashib ketadi”, “hamma narsani qayta yozishga
+to‘g‘ri keladi” degan iddaolar ilgari suriladi. Bir qarashda
+bu xavotirlar asoslidek tuyuladi. Ammo ularning aksariyati
+qonun loyihasidagi me’yorlarga emas, anchayin yuzaki
+tasavvurlarga tayanadi.
+roqsiz holatga kelib qolguniga yoxud
+belgilangan muddatga qadar foydalanilishi aniq-ravshan yozib qo‘yilgan.
+Takomillashtirilgan alifboni jamiyatda
+to‘liq, ortiqcha qiyinchiliksiz va xarajatlarsiz joriy etishga oid masalalar ayni
+paytda loyihasi ishlab chiqilayotgan
+va Vazirlar Mahkamasining qarori bilan
+tasdiqlanishi rejalashtirilgan chora-tadbirlar dasturida aks etadi.
+Davlat boshqaruvida har qanday
+o‘zgarishning tabiiy yo‘li-ravishi bo‘ladi.
+Hujjatlar ma’lum muddatdan keyin baribir yangilanadi. Darsliklar qayta nashr
+etiladi. Ko‘cha ko‘rsatkichlari va davlat belgilari eskirganda almashtiriladi.
+Pasportlar muddati tugaganda yangisi Nizomiddin MAHMUDOV,
+O‘zbekiston Fanlar akademiyasi
+O‘zbek tili, adabiyoti
+va folklori instituti direktori,
+filologiya fanlari doktori,
+professor2026-yil 5-avgust, № 31(9616) QR-kodni skanerlang va @marifatziyo /marifat.uz www.marifat.uz Ma rifat
+mobil ilovani yuklab oling. 3
+* * *
+Daryo.uz nashrida jurnalist Shuhrat
+Shokirjonov maqolasi eʼlon qilindi.
+Muallif alifbo islohotini qidiruv tizimlari, maʼlumotlar ombori yoki tabiiy tilni
+qayta ishlash texnologiyalariga moslashish zarurati bilan izohlaydi. Lekin
+negadir maqolani oʻqib, menda alifbo
+“islohotchilari” uchun texnik muammolar sabab emas, shunchaki bahona, degan fikr yanada qatʼiylashdi. Sababi:
+1. Hozirgi alifboning asosiy muammosi – maʼlumotlar ombori, til korpuslari tuzish uchun muammoli jihati
+– oʻ va gʻ harflari bilan bogʻliq. Maqolada aynan shu muammoni hal qilishning
+muqobil (alifboni oʻzgartirmay) yoʻllari
+izlandimi, qanday yechimlar koʻrildi va
+nega ular samarasiz, degan xulosaga kelindi – bu haqda hech qanday gap yoʻq.
+Alifboni oʻzgartirish haqidagi qonunni maʼqullaganlardan ham bu savolga
+javobni koʻrmadik.
+2. Hatto oʻ va gʻ bilan bogʻliq muammoni yechishning imkoni yoʻq, faqat almashtirish kerak, deyilgan taqdirda ham
+nega sh va ch almashishi kerak, degan
+savolga javob yoʻq. Muallifning oʻzi sh
+va ch kompyuter tizimlari uchun muammo emasligini tan olmoqda va endi bular Unicode uchun ikkita alohida simvol
+ekanligi bilan izohlamoqda. Lekin bular
+ikkita simvol ekanligi qidirish, saralash
+tizimlari va korpus lingvistikasi uchun
+ham muammo emas-ku! Hatto bu tovushlar faol(koʻp) ishlatilishi hisobga
+olinsa ham, sh va ch ikkita simvol bilan yozilgan matnlar kompyuter yoki
+server xotirasida ş va ç ga nisbatan hech
+qancha koʻp joy olmaydi, SI tizimlarida koʻproq token ishlatmaydi. Shunday
+ekan, sh va ch ni almashtirish zarurati
+nimada? (Qogʻozda koʻproq sahifa egallashi muammo boʻlmasa kerak, chunki
+kitob chop etilayotganda varaqlar soni
+emas, bosma taboq muhim, sh va ch
+esa kitob hajmini bir bosma taboqqa
+oshirvormasa kerak?)
+3. Shokirjonov ingliz tilidan farqli
+ravishda oʻzbek tili asosan fonetik yozuv ekanligini aytib, sh va ch bitta harf
+bilan yozilishi “kerak”ligini shu bilan
+izohlamoqda. Lekin, masalan, nemis
+tilida imlo ham fonetik yozuvga asoslanadi, soʻzlar qanday yozilsa, shunday
+oʻqiladi, lekin sh va ch uchta, hattoki toʻrtta harf bilan ifodalanadi(hatto
+millat va davlat nomida ham: Deutsch,
+Deutschland). Bu negadir nemis tilining
+dunyo tiliga aylanishiga ham, uning texnik tizimlarga toʻlaqonli integratsiyasiga ham xalal berayotgani yoʻq. Bunday
+misollarni boshqa tillardan ham keltirish
+mumkin.
+Qolaversa, sh va ch almashgani
+bilan, “bir tovush – bir harf” tamoyiliga taklif qilinayotgan alifboda ham
+amal qilinmaydi. Oddiy misol: “jurnal” va “joʻra” – har xil tovush, bitta
+harf. Umuman, alifbo – fonetik transkripsiya emas, “bir tovush – bir harf”
+tamoyiliga amal qilinmasligi tilning
+rivojlanishiga va texnik tizimlarga
+integratsiya qilinishiga xalal bermaydi. Bunga koʻplab misollarni keltirish
+mumkin: ingliz, fransuz, arab, xitoy
+tillari va hokazo.
+4. Tutuq belgisi haqida toʻxtalar
+ekan, muallif “uni qayta ishlash uchun
+alohida qoidalar (istisnolar) yaratish
+texnik jihatdan ancha oson” deydi.
+Xoʻp, baribir istisnolar yaratilar ekan,
+“s+h” alohida tovushlar sifatida talaffuz
+qilinadigan soʻzlar uchun nega istisnolar
+yaratish mumkin emas? Bunday soʻzlar
+10 ta ham chiqmaydi shekilli(men faqat
+4 tasini eslay oldim). Harqalay, bunday
+soʻzlar tutuq belgisi ishlatiladigan soʻzlarga nisbatan karrasiga kam-ku?
+Shunday ekan, alifbo “islohotchilari” uchun asosiy maqsad – oʻzbek tilining texnik tizimlar bilan integratsiyasi
+emas. Bu bahona xolos. Aks holda:
+a) oʻ va gʻ masalasini hal qilishning
+muqobil yoʻllari izlanardi;
+b) aynan shu harflar bilan bogʻliq
+muammolarni yechishning ularni almashtirishdan boshqa yoʻli qolmagan
+taqdirda – faqat shu ikki harf bilan cheklanishardi.
+Filologlar taʼkidlaganidek, inson
+oʻqishda ravonlikka(fluency) erishganidan keyin uning miyasi alohida harflarni oʻqimaydi, balki soʻzlarni butunicha
+qabul qiladi. Va bunda aynan undoshlar
+soʻzning vizual “skeleti” boʻlib xizmat
+qiladi. Yaʼni, undoshlar soʻzni tanishimiz uchun tayanch nuqta boʻlib xizmat qiladi, miyamiz unlilarni undoshlarga tayangan holda joy-joyiga qoʻyib
+chiqadi. Masalan, konsonant (abjad)
+alifbolar – arab, fors, xalqimiz ming
+yillar davomida ishlatgan eski oʻzbek
+yozuvlari ham shu tamoyil asosida ishlaydi: soʻzning “skeleti”ni tashkil qiladigan undoshlar yozuvda ifodalanadi,
+unlilar yoki diakritik belgilar bilan beriladi, yoki tashlab ketiladi: miya oʻzi
+“qoʻyib” oladi.
+Yoki yana bir misol. Mana bu ikki
+qatorni solishtirib koʻring:
+Bu – mktb.
+Bu – aa.
+Birinchi qatorda “bu – maktab” deyilayotganini miya tushunib oladi, ikkinchi qatorning maʼnosini esa chiqara olmaydi, chunki unda “skelet” yoʻq.
+Shunday ekan, alifboda sh va ch ning
+oʻzgarishi – shunchaki toʻrtta harf oʻzgarishi emas. Soʻzlarning skeletini tashkil
+qiladigan undoshlar oʻzgaryapti, boʻlib
+ham “islohot” tarafdorlari taʼkidlaganidek, faol, koʻp qoʻllaniladigan undoshlar. Shunday ekan, istaysizmi-yoʻqmi,
+miya buni boshqa alifbo sifatida qabul
+qiladi, unga moslashishi qiyin boʻladi.
+Demak, Shuhrat Shokirjonov oʻz maqolasida yozgan “ha, modomiki, oʻ va gʻ ni
+oʻzgartirar ekanmiz, biratoʻla sh va ch ni
+oʻzgartira qolaylik” argumenti ish bermaydi, chunki undoshlarning almashishi
+soʻzlarning vizual skeletini oʻzgartiradi,
+miya uni boshqa alifbo sifatida koʻradi
+va moslashishi qiyin kechadi (masalan,
+“shoʻrtumshuq” soʻzining “shõrtumshuq” shakliga oʻzgarishini miya katta
+muammo sifatida koʻrmaydi, lekin “şörtumşuq”qa oʻzgarishi qiyinchilik tugʻdiradi. chunki soʻzning “skeleti”, miya
+tanishiga yordam beradigan tayanch
+nuqtalari soni va shakli oʻzgaryapti).
+Baʼzilar esa undoshlar, yaʼni
+soʻzning skeleti oʻzgarishini umuman
+qabul qilmasligi ham mumkin. Natijada “budjetga ogʻirlik boʻlmasin” deb
+hujjatlar, koʻchalar va jamoat joylaridagi yozuvlar, darsliklar, kitoblarda
+parallel amaldagi lotin va yangi lotin
+alifbosining ishlatilishi miyani battar
+charchatadi. Bu degani – hozirgi islohot
+lotin yozuviga oʻtish masalasini uzil-kesil hal qilish oʻrniga tilning va bu tildan
+foydalanuvchilarning ikki emas, uch
+alifbo(kirill va ikkita lotin) oʻrtasida sarson boʻlishiga olib keladi.
+Shuning uchun, mening fikrimcha:
+1) birinchi navbatda oʻ va gʻ bilan
+bogʻliq texnik muammoni texnik yoʻllar bilan(alifboga tegmasdan) hal qilish
+yoʻllarini jiddiy oʻrganish kerak;
+2) agar bu harflarni oʻzgartirmaslikning hech ham iloji topilmasa, faqat shu
+harflarni vizual jihatdan amaldagi yozilishiga yaqinroq variantlarga almashtirish masalasini koʻrish kerak – shunda miya uni yangi alifbo sifatida qabul
+qilmaydi, darsliklar, hujjatlar va boshqa
+narsalarning zudlik bilan almashmasligi muammo tugʻdirmaydi va amaldagi alifbo, unda yaratilgan maʼlumotlar
+bilan uzviylik yoʻqolmaydi.
+Komil JALILOV
+Dolzarb mavzu
+Alioni emas, fikrlashni
+o‘zgartiraylik!
+52 yildan buyon taʼlim sohasida faoliyat ko‘rsatib kelayotgan oliy toifali faxriy o‘qituvchiman. Keyingi yillarda yangi
+alifbomiz ustida aylanayotgan muhokama va munozaralarda
+muqim bitta fikr, yaʼni lotin yozuviga asoslangan amaldagi
+o‘zbek alifbosiga teginmaslik tamoyilini qatʼiy himoya qilib
+kelmoqdaman. O‘rni kelganda aytishim kerakki, nufuzli
+shaxslar siyosiy sharhlovchi sifatida alifboni isloh qilishni
+maʼqullab maqola yozib chop ettirishimni mendan juda iltimos qilishgan. Biroq men bu ko‘rsatmani bajarmadim va
+o‘z nomi bilan aytadigan bo‘lsak, rad etganman. Nega desangiz, men bu masalaga sog‘lom fikr nuqtayi nazari bilan
+yondashdim va tegishli xulosalar chiqardim. Bu borada
+menga hamfikr bo‘lgan minglab kasbdoshlarim, ziyolilar
+va olimlar borligi ham ayni haqiqat. Yaqinda hamfikrim,
+kuyinchak inson Komil Jalilovning telegram kanalidagi bu
+masala ustida bildirgan fikrlari mening ko‘zqarashim bilan
+tamoman hamohang kelganligi ajablanarli emas. Chunki
+hissiyotlarga berilmay, sovuqqonlik bilan sog‘lom fikrlaydigan barcha mushtariylar biz bilan bir xil o‘ylashiga shubham yo‘q. Haqiqatan ham, ushbu alifbo bilan ishlagan
+uzoq yillarim davomida hozirgi yozuvda muammo nimada
+ekanligini va joriy lotin alifbosi qanday murakkabliklarni
+tug‘dirayotganini sezmaganman. Faqat undagi bitta kichik
+kamchilik – sirg‘aluvchi “j” tovushini ifodalovchi alohida
+harf mavjud emasligi menga nuqson bo‘lib tuyulgan. Shu
+maʼnoda, qolgan barcha o‘rinlarda Komil Jalilovning fikrlarini to‘liq qo‘llab-quvvatlayman. Yana shuni taʼkidlaymanki,
+yangi alifbo islohotini oldinga surayotganlar va Parlamentda ma’qullab berayotganlarning gaplarida ilmiy asoslangan
+ishonchli dalillar ko‘rmadim. Aminmanki, ularning 99 foizi
+yangi alifbo bilan ishlamagan odamlar. Ular, nazarimda, birorta ishonchli dalil ko‘rsata olmadilar. Shu maʼnoda, Komil
+Jalilovning quyidagi gaplariga to‘liq qo‘shilaman va maʼqullayman: “Alifbo jiddiy masala. Uni o‘zgartirishda – men
+uchun bo‘lganda ham – hayot-mamot darajasidagi oqlov
+bo‘lishi kerak. Alifboni o‘zgartirish juda mas’uliyatli ish
+bo‘lib, avlodlar va mamlakat taqdiriga ta’sir etadigan, belgilaydigan narsa. U yuzaki kosmetik sabablarga asoslanib va
+yopiq eshiklar ortida qilinadigan ish emas, deb o‘ylayman...
+Hammasini boshqatdan chop etmaymiz, 5–10 yil eski lotin
+yozuvida yashab yuramiz degan argumentning o‘zi absurd.
+Demak, uch xil yozuvdagi “O‘zbekiston” so‘zi bilan yashar
+ekanmiz. Bu battar savodsizlikni yaratadigan narsa. O‘zgarsa, aksincha hamma narsani zudlik bilan qayta chop etish
+kerak. Aks holda, yanada battar sharoitda, uch xil yozuvda
+“vaqtincha” yashab yuramiz. 30 yil kirillda yozib yurgandek... Xullas, o‘sha gap. Alifboni bu alifbodan amalda foydalanmaydiganlar yoki shunchaki ijroni yopish uchun, yoki
+kimdir davlat nomidagi birinchi harf har xil yozilganini tanqid qilgani uchun, yoki kirillcha fikrlashdan(mindset) chiqib
+keta olmayotgani uchun o‘zgartirmoqchi. “Hayot-mamot”
+darajasidagi sabab u yoqda tursin, biron-bir jiddiyroq, ilmiy
+asoslangan argument keltirilgani yo‘q”.
+P.S. Men oliy toifali ona tili va adabiyot muallimi sifatida,
+alifbomizni takomillashtirish maqsadida, hozir egasiz bo‘lib
+turgan “Cc” harfini sirg‘aluvchi “j” tovushini ifodalash
+uchun alifboga kiritishni taklif qilaman.
+Xudoyberdi KOMILOV,
+Urgut tumanidagi
+97-maktabning ona tili va adabiyot o‘qituvchisiMa rifat www.marifat.uz /marifat.uz @marifatziyo QR-kodni skanerlang va 2026-yil 5-avgust, № 31(9616)
+4 mobil ilovani yuklab oling.
+Sinab ko‘ring
+Og‘zaki nutqni
+rivojlantirish strategiyalari
+Bugungi kunda o‘quvchilar nutqida talaffuz хatolari,
+so‘zlarning noto‘g‘ri urg‘u bilan aytilishi, intonatsiya va
+ohangning yеtarlicha bo‘lmasligi kеng tarqalgan. Bunday
+хatolar nafaqat nutqni tushunishni qiyinlashtiradi, balki
+o‘quvchining o‘ziga bo‘lgan ishonchini kamaytiradi va
+muloqot jarayonini sustlashtiradi. Shu sababli, o‘quvchilarda
+fonеtik madaniyatni tizimli ravishda shakllantirish ona tili
+ta’limining muhim vazifalaridan biridir.
+Bugun alifbo masalasi filologlarning ichki bahsi emas. Bu – oʻzbek tilining sunʼiy intellekt, qidiruv
+tizimlari va raqamli texnologiyalar
+bilan qanday ishlashi haqidagi masala. Lotin yozuviga asoslangan
+oʻzbek alifbosini takomillashtirish
+boʻyicha qonun loyihasi muhokamasi davom etar ekan, keng
+koʻlamli qoʻllab-quvvatlash bilan
+birga, bildirilayotgan ayrim eʼtirozlar ham alohida tahlilni taqozo
+qiladi.
+Eng avvalo taʼkidlab oʻtish kerakki,
+alifbo islohoti boʻyicha bugun muhokama qilinayotgan loyiha bir kabinetda
+bir necha kunda yozilgan hujjat emas.
+Ayrimlarning nazdida goʻyoki alifbo bilan bogʻliq qonun loyihasi shoshilinch
+tarzda, tor doirada qabul qilingandek.
+Holbuki bu masala yetti-sakkiz yil davomida obdon jamoatchilik muhokamasidan oʻtdi. Ishchi guruh tomonidan turli
+variantlar jamoatchilikka taqdim etib
+borildi. 2021-yilda hattoki Normativ
+huquqiy hujjatlar loyihalari muhokamasi
+portalida xalq muhokamasiga qo‘yildi.
+Shundan soʻng yana turli takliflar
+yangradi, tilshunoslar bilan dasturchilar
+bahslashishdi, jurnalistlar bilan nashriyotchilar tortishishdi, turli alifbo variantlari taklif qilindi va rad etildi. Faqat
+shundan keyingina nisbatan muvozanatli
+yechimga kelindi. Demak, bugungi kunda Senatga joʻnatilgan qonun loyihasi –
+shoshma-shosharlik mahsuli emas, balki
+uzoq davom etgan ilmiy va amaliy izlanishlarning mantiqiy yakunidir.
+Nega aynan hozir?
+Koʻpchilikda tabiiy savol tugʻiladi:
+agar amaldagi lotin alifbosi 30 yildan ziyod vaqt mobaynida qoʻllanib kelinayotgan boʻlsa, nima uchun uni aynan hozir
+takomillashtirishga ehtiyoj tugʻildi?
+Javob oddiy: dunyo oʻzgardi.
+1993-yilda lotin alifbosi qabul qilinganda internet endigina rivojlanayotgan,
+qidiruv tizimlari ommalashmagan, sunʼiy
+intellekt, elektron hukumat, ulkan maʼlumotlar(Big Data) yoki tabiiy tilni qayta
+ishlash(NLP) kabi texnologiyalar esa hali
+hayotimizga kirib kelmagan edi. Oʻsha
+paytda asosiy vazifa – oʻzbek tilini lotin
+yozuviga oʻtkazish edi. Bu vazifa asosan
+uddalandi.
+Bugun esa talablar butunlay boshqacha. Til nafaqat insonlar oʻrtasidagi muloqot vositasi, balki kompyuterlar ham
+qayta ishlaydigan maʼlumotlar tizimiga
+aylandi. Davlat xizmatlari raqamlashmoqda, elektron arxivlar kengaymoqda,
+qidiruv tizimlari milliardlab hujjatlarni
+indekslamoqda, sunʼiy intellekt esa oʻzbek tilida matn yaratish, tarjima qilish va
+tahlil qilishni oʻrganmoqda.
+Shunday ekan, yozuv tizimiga qoʻyiladigan talab ham oʻzgardi. Ilgari inson
+uchun qulaylik birinchi oʻrinda turgan
+boʻlsa, bugun bu bilan birga, kompyuter
+uchun ham aniq, izchil va bir xil qoidalarga asoslangan yozuv zarur. Chunki har
+bir noaniqlik – turlicha apostrof, digraf
+yoki bir xil soʻzning bir nechta yozilish
+varianti – raqamli tizimlar uchun qoʻshimcha ishlov, qoʻshimcha vaqt va qoʻshimcha xarajat degani.
+Demak, alifboni takomillashtirish
+ehtiyoji kecha paydo boʻlgan emas.
+Uni XXI asr texnologiyalari tugʻdirdi.
+Bahs-munozaralar ham toʻrtta harf emas,
+Fonеtik madaniyatni shakllantirish talaffuz va nutq madaniyatini rivojlantiradi,
+muloqot ko‘nikmalarini mustahkamlaydi va o‘quvchining tilni ongli va ijodiy
+ravishda еgallashini ta’minlaydi. Shu sababli, ona tili darslarida fonеtik madaniyatni rivojlantirishga alohida е’tibor qaratish zarur.
+Fonetik qoidalarni
+o‘rganish metodikasi
+Fonеtik qoidalarni o‘rganish til ta’limida еng muhim bosqichlardan biri
+hisob lanadi. U o‘quvchilarda to‘g‘ri talaffuz, nutqni ravon va tushunarli ifoda
+еtish ko‘nikmalarini rivojlantiradi hamda
+til madaniyatini shakllantiradi. Fonеtik
+qoidalarni o‘rganish mеtodikasi o‘quvchilarning yoshi, til darajasi va nutq
+ko‘nikmalariga mos ravishda tashkil еtilishi lozim.
+Fonеtik qoidalarni o‘rgatishda birinchi qadam – tovushlarni aniqlash va ularning farqlarini tushuntirishdir. O‘quvchilar
+unli va undosh tovushlarni to‘g‘ri talaffuz
+qilishni, urg‘u va intonatsiya qoidalarini
+tushunishni mashq qiladilar. Bu jarayonda
+tovushlarni еshitish, takrorlash va farqlashga asoslangan mashqlar qo‘llaniladi.
+Masa lan, “ota” va “ota” so‘zlaridagi tovush farqlarini aniqlash mashqlari talaffuzni o‘rganishning samarali usullaridan
+biridir.
+Ikkinchi qadam – so‘z va gaр talaffuzini mashq qilishdir. O‘quvchilarga alohida so‘zlarni, so‘z birikmalari va gaрlarni
+to‘g‘ri aytish mashqlari bеriladi. Bu jarayonda urg‘u va intonatsiyaga е’tibor qaratiladi, talaffuzdagi хatolar aniqlanadi va
+tuzatiladi. Shu tarzda o‘quvchilar nutqni
+tabiiy ritm va ohang bilan ifodalay oladi.
+Uchinchidan, intеraktiv va ijodiy mеtodlardan foydalanish tavsiya еtiladi.
+Fonеtik o‘yinlar, rolli mashqlar, audio va vidеo matеriallar o‘quvchilarning
+qiziqishini oshiradi va fonеtik qoidalarni o‘zlashtirish samaradorligini oshiradi.
+Masalan, tovushlar bo‘yicha krossvordlar,
+so‘zlarni to‘g‘ri talaffuz qilish bo‘yicha
+viktorinalar va dramatizatsiya mashqlari
+fonеtik qoidalarni mustahkamlashda foydalidir.
+Shuningdеk, fonеtik qoidalarni o‘rganishda tizimli va bosqichma-bosqich yondashuv muhimdir. Tovushlardan so‘z va
+gaр talaffuziga, gaр talaffuzidan nutq ritmi va ohangiga qadar bo‘lgan jarayonlar
+o‘quvchilarga asta-sеkin o‘rgatiladi. Bu
+еsa fonеtik qoidalarni mustahkam o‘zlashtirish va nutq madaniyatini rivojlantirishga
+yordam bеradi.
+Talaffuz хatolarini aniqlash va tuzatish
+usullari – o‘quvchilarda talaffuz madaniyatini shakllantirish, nutqni ravon va
+tushu narli qilish, shuningdеk, tilni ongli
+еgallash jarayonini samarali qilishning
+asosiy vositasidir.
+Tinglab tushunish va talaffuz mashqlari muntazam va tizimli ravishda bajarilishi o‘quvchi nutqini tabiiy, tushunarli va
+ifodali nutqqa aylantiradi. Shu bilan birga
+bu mashqlar o‘quvchining tilga qiziqishini oshiradi, so‘z boyligini kеngaytiradi va
+og‘zaki muloqot ko‘nikmalarini mustahkamlaydi.
+Tinglab tushunish va talaffuz mashqlari
+o‘quvchilarda til madaniyatini rivojlantirishning asosiy vositalaridan biridir. Shu
+sababli ona tili darslarida bu mashqlarga
+muntazam е’tibor qaratish zarur.
+Fonetik o‘yinlar va
+krossvordlar
+Fonеtik ko‘nikmalarni rivojlantirish va
+mustahkamlashda fonеtik o‘yinlar va kros s -
+vordlar samarali mеtodlardan hisoblanadi. Bu usullar o‘quvchilarning talaffuzini
+yaхshilash, unli va undosh tovushlarni
+to‘g‘ri aytish, urg‘u va intonatsiyani mustahkamlashga хizmat qiladi.
+Fonеtik o‘yinlar – bu o‘quvchilarning
+faoliyatini rag‘batlantiruvchi, qiziqarli va
+intеraktiv mashqlardir. Ular orqali o‘quvchilar talaffuzni mashq qiladi, tovushlarni
+ajratadi, so‘zlar va bo‘g‘inlarni to‘g‘ri talaffuz qiladi. Masalan:
+“Tovush toр” o‘yini – o‘quvchilarga
+turli tovushlar bеriladi va ular so‘z ichidagi
+shu tovushlarni aniqlashga harakat qiladi.
+“So‘zlarni qo‘shib ayt” o‘yini –
+o‘quv chilar bеrilgan so‘zlarni kеtma-kеtlikda to‘g‘ri aytadi va talaffuzdagi хatolarini tuzatadi.
+“Bo‘g‘inlar musobaqasi” – so‘zlarni bo‘g‘inlarga ajratib, kim tеz va to‘g‘ri
+aytadi, dеgan formatda o‘yin o‘tkaziladi.
+Krossvordlar еsa talaffuz va fonеtik
+qoidalarni mustahkamlashning ajoyib usuli
+hisoblanadi. Krossvordlar orqali o‘quvchilar so‘zlarni to‘g‘ri talaffuz qiladi, ularning ma’nosini aniqlaydi va nutq boyligini
+oshiradi. Masalan, krossvorddagi savollar
+so‘zning birinchi tovushi bilan boshlanishi
+yoki so‘z bo‘g‘inlariga asoslangan bo‘lishi
+mumkin. O‘quvchi to‘g‘ri so‘z toрib, uni
+talaffuz qiladi va shu orqali fonеtik хatolarini tuzatadi.
+Fonеtik o‘yinlar va krossvordlarning asosiy afzalligi shundaki, ular
+o‘quvchilarning qiziqishini oshiradi,
+mashq larni intеraktiv qiladi va talaffuzni
+mustahkamlash jarayoni samaradorligini
+oshiradi. Shu bilan birga bu mеtodlar nutq
+madaniyatini shakllantirish va o‘quvchining muloqot ko‘nikmalarini rivojlantirishga ham хizmat qiladi.
+Til o‘rganishda talaffuzni rivojlantirishning muhim qismi – bu og‘zaki talaffuzni baholashdir. Baholash o‘quvchining
+nutqini tizimli ravishda kuzatish, хatolarini aniqlash va uni to‘g‘ri talaffuzga yo‘naltirish imkonini bеradi. Ona tili fanida
+og‘zaki talaffuzni baholash mеzonlari aniq
+va tushunarli bo‘lishi lozim, chunki ular
+o‘quvchining talaffuz madaniyati va nutq
+ko‘nikmalarini shakllantiradi.
+Fonetik qoidalar va
+talaffuzni o‘qitishda
+samarali metodlar
+Fonеtik qoidalar va to‘g‘ri talaffuzni
+o‘rgatishda samarali mеtodlar:
+Takrorlash va modеl ko‘rsatish –
+o‘qituvchi talaffuz qoidalarini namoyish
+qiladi va o‘quvchilar ularni takrorlaydi.
+Bu mеtod o‘quvchilarda to‘g‘ri talaffuz va
+nutqni ravon qilish ko‘nikmalarini rivojlantiradi.
+Fonеtik o‘yinlar va mashqlar – tovushlarni ajratish, urg‘u va strеssni to‘g‘ri
+qo‘yish mashqlari o‘quvchilarning е’tiborini jalb qiladi, talaffuzni mustahkamlaydi va mashqlarni qiziqarli qiladi.
+Monolog va dialog mashqlari –
+o‘quv chilar turli vaziyatlarda o‘z nutqlarini ifo dalaydi. Bu mеtod talaffuz, intonatsiya, urg‘u va nutq ravonligini
+rivojlantiradi.
+Rolli o‘yinlar va dramatizatsiya –
+o‘quvchilar turli rollarda sahnada nutq
+so‘zlaydilar, bu talaffuzni mustahkamlash,
+nutqni tabiiylashtirish va fonеtik хatolarni
+tuzatish imkonini bеradi.
+Multimеdia vositalaridan foydalanish –
+audio va vidеo matеriallar o‘quvchilarga
+talaffuzni еshitish, intonatsiya va urg‘uni
+solishtirish, so‘z boyligini oshirish imkonini bеradi. Bu mеtod zamonaviy va
+intеraktiv bo‘lib, talaffuzni samarali rivojlantiradi.
+Individual yondashuv – har bir o‘quvchining talaffuzdagi хatolarini aniqlab,
+unga mos mashqlar va tavsiyalar bеrish.
+Shu yo‘l bilan o‘quvchi talaffuzni mustahkamlash va nutqini mukammal qilish imkoniga еga bo‘ladi.
+Baholash va tahlil qilish – talaffuz va
+fonеtik ko‘nikmalarni baholash orqali
+o‘quvchining rivojlanish darajasi aniqlanadi va kеyingi mashqlar shunga moslashtiriladi. Bu mеtod samaradorlikni oshiradi va o‘quvchi uchun o‘z-o‘zini nazorat
+qilish imkonini yaratadi.
+O‘quvchilarning fonеtik rivojlanishini
+tizimli baholash va tahlil qilish, mustaqil
+ishlash va uy vazifalarini samarali tashkil
+еtish, individual yondashuvni qo‘llash talaffuzni mukammallashtirishning muhim
+shartlaridir. Bu jarayon o‘quvchining
+o‘z-o‘zini nazorat qilish qobiliyatini oshiradi, mustaqil fikrlash va nutqni boyitishga
+yordam bеradi.
+Kеlajakda fonеtik qoidalar va talaffuzni
+o‘qitish mеtodikasi yangi tехnologiyalar,
+intеraktiv рlatformalar, innovatsion реdagogik yondashuvlar va ilmiy tadqiqotlar
+orqali yanada rivojlanishi kutilmoqda.
+Muyassar ЕRGASHЕVA,
+Chust tumanidagi
+67-maktabning ona tili va
+adabiyot fani o‘qituvchisiQR-kodni skanerlang va @marifatziyo /marifat.uz www.marifat.uz Ma rifat
+mobil ilovani yuklab oling.
+2026-yil 5-avgust, № 31(9616) 5
+ALIFBO ISLOHOTI:
+gap to‘ra harf ustida emas
+oʻzbek tilining raqamli kelajakda qanchalik samarali yashay olishi haqidadir.
+Shu maʼnoda alifbo islohotini oʻtmish
+bilan emas, kelajak bilan bogʻliq qaror
+sifatida qabul qilish darkor. Chunki XX
+asr yozuvni odam uchun qulay qilishni
+talab qilgan boʻlsa, XXI asr yozuvni ham
+inson, ham kompyuter uchun tushunarli
+qilishni talab qilmoqda. Bugungi islohotning asl sababi aynan shunda.
+“Islohot kirillcha tafakkur
+mahsuli”?
+“Lotin alifbosi islohotining izohi kirill
+alifbosida yozilganligi ham shuni koʻrsatadiki, bu qonunlarni ishlab chiqayotgan
+odamlar hali ham kirill alifbosida oʻylashadi, oʻqishadi, yozishadi va uning
+paradigmasida fikrlashadi. Parlamentdagi aksar qonun chiqaruvchilar uchun
+kirill alifbosi ularning “kognitiv makoni”
+boʻlib qolmoqda. Ular uchun bitta tovush
+bitta aniq vizual belgiga teng boʻlgan yozuv “toʻgʻri” alifbodir”, deb yozadi taʼlim
+sohasida koʻplab chiqishlar qilib turadigan publitsist Komil Jalilov.
+Biroq bu eʼtiroz, avvalo, argumentning mazmuniga emas, uning taqdim
+etilish shakliga qaratilgan.
+Infografikaning kirill yozuvida tayyorlangani islohotning notoʻgʻriligini isbotlamaydi. Bu faqat auditoriyani hisobga olgan kommunikatsiya usuli, xolos.
+Bugungi Oʻzbekistonda millionlab fuqarolar hanuz kirill yozuvida bemalol oʻqiydi, yozadi. Buning sabablaridan yana biri
+aynan lotin yozuviga asoslangan oʻzbek
+alifbosining noqisligi, murakkabligi boʻlsa ajab emas. Shuning uchun tushuntirish
+materiallarini ular oʻrganib qolgan qulay
+yozuvda tayyorlash tabiiy hol.
+Qolaversa, argumentning shakli emas,
+mazmuni muhokama mavzusi qilinishi
+kerak.
+“Bir tovush – bir harf”
+prinsipi kirill yozuviga xos?
+Yoʻq. Bir tovush – bir harf prinsipi kirill yozuvi uchungina xos emas.
+Bu fonologiyaning klassik prinsipi.
+Mazkur tamoyil fonetika va orfografiyaning umumiy nazariyasiga mansub.
+Bugungi kunda turk, ozarboyjon, turkman, fin, chex, slovak va yana oʻnlab
+tillarda aynan shu prinsip asosida yozuv
+tizimi qurilgan. Hatto IPA(International
+Phonetic Alphabet) ham aynan shu prinsipga qurilgan.
+Digraflar-chi, dersiz? Chindan ham
+dunyoda sh, ch, th, ph, gh, ng kabi
+digraflardan foydalanadigan tillar koʻp.
+Ammo bundan “digraflar barcha tillar
+uchun eng yaxshi yechim” degan xulosa
+kelib chiqmaydi.
+Demak, munozara “digraf boʻlishi
+kerakmi?” degan savol ustida qurilishi
+kerak emas. Asosiy savol – oʻzbek tili
+uchun qaysi yechim qulayroq?
+Tanqidchilarning yana bir dalili: ingliz
+tilida ham digraflar juda koʻp, shunga qaramay u sunʼiy intellektning asosiy tiliga
+aylangan.
+Bu ham chalgʻituvchi argument.
+Chunki ingliz tili alifbosi fonetik yozuv
+emas. Unda through, though, rough kabi
+yuzlab istisnolar bor.
+Ingliz tili bugun sunʼiy intellekt va
+zamonaviy texnologiyalarning asosiy
+tiliga aylangani uning imlosi mukammal
+ekani uchun emas. Bunga ingliz tilida
+yaratilgan ulkan ilmiy meros, trillionlab
+sahifalik raqamli kontent, dunyoning yetakchi universitetlari, AT kompaniyalari
+va texnologik sanoatining ustunligi sabab
+boʻlgan. Imlo murakkabligi hech qachon
+uning afzalligi sifatida koʻrilmagan, aksincha, tilshunoslarning oʻzi ingliz orfografiyasini dunyodagi eng murakkab
+yozuv tizimlaridan biri deb hisoblaydi.
+Shunday ekan, ingliz tilidagi kamchiliklarni boshqa tillar uchun namuna
+sifatida koʻrsatish va tabiatan uzoq tilning
+“toʻn”ini milliy yozuvimiz uchun eng munosib bichim sifatida taqdim qilish ilmiy
+jihatdan nechogʻlik asosli?!
+Kompyuter uchun Sh va Ş
+o‘rtasida farq yo‘qmi?
+Jalilov oʻz postida kompyuter uchun
+bitta tovush nechta harf bilan yozilishining ahamiyati yoʻqligini taʼkidlaydi.
+Uning bu fikri qisman toʻgʻri, qisman esa
+notoʻgʻri.
+Ha, kompyuter Oʻ va Gʻ dan farqli
+oʻlaroq, Sh va Ch ni oʻqiy oladi. Ammo
+Sh, Ch harf birikmalari va Ş ş, Ç ç harflari
+birdek barobar emas.
+UNICODE nuqtayi nazaridan Ş – bitta
+kod nuqtasi, Sh esa ikki mustaqil belgidan
+iborat ketma-ketlikdir.
+Bir qarashda bu farq ahamiyatsizdek
+tuyulishi mumkin. Ammo millionlab satr
+matnni indekslash, saralash va qayta ishlashda bu farq amaliy ahamiyat kasb etadi. Shu sababli koʻplab tillar imkon qadar
+bitta tovushni bitta belgi bilan ifodalashga
+intiladi. Bu, ayniqsa, elektron lugʻatlar,
+korpus lingvistikasi va matnlarni avtomatik tahlil qilishda seziladi.
+Darhaqiqat, bugungi lotin yozuvidagi eng katta texnik muammo – Oʻ va Gʻ
+harflarining turli apostroflar bilan yozilishidir. Biroq bundan Sh va Ch harflarini
+umuman oʻzgartirish kerak emas, degan
+xulosa kelib chiqmaydi.
+Agar yozuv tizimi bir marta takomillashtirilayotgan boʻlsa, mutaxassislar kelajakda yana islohot oʻtkazishga ehtiyoj
+qolmasligi uchun barcha muammoli yechimlarni bir bosqichda koʻrib chiqishni
+maqsadga muvofiq deb hisoblamoqda.
+“Tutuq belgisi qolsa,
+islohotdan ne foyda?”
+Bu eʼtiroz bir qarashda mantiqli
+koʻrinadi. Darhaqiqat, tutuq belgisi ham
+kompyuter tizimlari uchun alohida belgi
+hisoblanadi. Shunday ekan, “u qolayotgan boʻlsa, Oʻ va Gʻ ni oʻzgartirishdan
+nima naf?” degan savol tugʻilishi mumkin. Ammo bu yerda muammoning koʻlami hisobga olinishi lozim. Bu savol mantigʻida “mukammal yechim boʻlmasa,
+umuman yechim kerak emas” degan xato
+yotadi.
+Oʻ va Gʻ harflari oʻzbek tilida eng
+Google nega “tushunadi”?
+“Xato belgi ishlatilgan boʻlsa ham
+Google baribir topaveradi-ku”, degan
+eʼtiroz ham tez-tez yangraydi. Bir qarashda bu gap toʻgʻridek koʻrinadi. Ammo
+qidiruv tizimining soʻzni topa olishi
+muammo yoʻqligini emas, aksincha, uni
+hal qilish uchun qoʻshimcha resurs sarflanayotganini anglatadi.
+Masalan, foydalanuvchi Gafurov,
+Gʻafurov, G'afurov, G’afurov deb qidirishi mumkin. Inson uchun bular bitta familiya. Ammo kompyuter uchun har biri
+turli belgilar ketma-ketligidan iborat alohida satr hisoblanadi.
+Shuning uchun Google kabi
+zamonaviy qidiruv tizimlari qidiruvdan
+oldin normalizatsiya jarayonini amalga
+oshiradi. Buning uchun maxsus algoritmlar, qoidalar va hisoblash resurslari ishlatiladi. Aks holda tizim foydalanuvchi
+kiritgan variant bilan maʼlumotlar bazasidagi variantni bir-biriga bogʻlay olmaydi.
+Foydalanuvchi bu jarayonni koʻrmaydi. Ammo har bir qoʻshimcha algoritm
+ortida hisoblash quvvati, vaqt va xarajat
+turadi.
+Albatta, bunday muammolarni dasturiy yoʻl bilan hal qilish mumkin. Lekin
+muhandislikda har doim bitta qoida bor:
+muammoni dasturda emas, uning manbasida hal qilish arzonroq va samaraliroq.
+Agar yozuv tizimining oʻzi izchil boʻlsa,
+qidiruv tizimiga ortiqcha normallashtirish
+qoidalarini yozishga ehtiyoj kamayadi.
+Shu maʼnoda alifboni takomillashtirish, agar raqamlashtirish nuqtayi
+nazaridan qaraydigan boʻlsak, Google
+yoki sunʼiy intellekt ishlay olmayotgani uchun emas, balki ularni oʻzbek tili
+bilan ishlashda ortiqcha yukdan xalos
+qilish uchun kerak. Bu esa kelajakda qidiruv tizimlari, davlat axborot bazalari va
+raqamli xizmatlarning tezkorligi hamda
+aniqligiga ijobiy taʼsir koʻrsatadi.
+Muxtasar qiladigan boʻlsam, aslida
+bahs toʻrtta harf haqida emas. Gap oʻzbek
+tilining kelgusi oʻn yilliklarda qanday yozuv bilan yashashi haqida ketmoqda. Til –
+faqat madaniyat emas, u endi texnologiya hamdir. Demak, alifbo ham nafaqat
+filologlar, balki dasturchilar, sunʼiy intellekt muhandislari, noshirlar va millionlab
+foydalanuvchilarning ehtiyojidan kelib
+chiqib baholanishi kerak.
+Har qanday alifbo, eng avvalo, insonga xizmat qilishi kerak. XXI asrda
+esa odam bilan birga kompyuter ham shu
+alifboda “oʻqiydi”, “yozadi”. Shu nuqtayi
+nazardan qaralganda, bugungi islohot
+shunchaki ayrim harflarni almashtirish
+emas, balki oʻzbek tilini raqamli davrga
+moslashtirish yoʻlidagi muhim va zaruriy
+qadam sifatida baholanmogʻi lozim.
+(Daryo.uz saytidan olindi.)
+faol qoʻllanadigan harflardan hisoblanadi. Minglab soʻzlar, joy nomlari, familiyalarda va rasmiy hujjatlarda aynan shu
+harflar uchraydi. Eng muhimi, amaliyotda
+ular turli apostroflar bilan yoziladi. Natijada bitta soʻzning bir necha xil yozilish
+variantlari paydo boʻladi va dasturchilar,
+qidiruv tizimlari hamda maʼlumotlar bazalari ularning barchasini hisobga olishga
+majbur boʻladi.
+Tutuq belgisi esa mutlaqo boshqa hodisa. U mustaqil harf emas va qoʻllanish
+doirasi ancha tor. Shuning uchun uni qayta ishlash uchun alohida qoidalar(istisnolar) yaratish texnik jihatdan ancha oson.
+Boshqacha aytganda, istisno minglab
+soʻzlar uchun emas, nisbatan kam uchraydigan holatlar uchun yoziladi. Dasturiy
+taʼminotda ham aynan shunday yondashuv qoʻllanadi: eng ommaviy holatlar
+standart qoidalar bilan hal qilinadi, kam
+uchraydigan holatlar esa alohida qoidalar
+orqali boshqariladi.
+Shu sababli tutuq belgisi saqlanib
+qolayotgani Oʻ va Gʻ harflarini takomillashtirishning ahamiyatini yoʻqqa chiqarmaydi. Aksincha, yozuv tizimidagi eng
+katta texnik muammo bartaraf etiladi,
+qolgan kamroq uchraydigan holatlar esa
+alohida algoritmlar orqali boshqarilishi
+mumkin.
+Chunki muhandislikda ham, dasturiy
+taʼminotda ham tizimlar odatda 100 foiz
+emas, balki eng katta muammolardan
+boshlab bosqichma-bosqich takomillashtiriladi.
+Korpus lingvistikasidagi
+ko‘rinmas muammo
+Alifbo islohoti haqidagi bahslarda
+yana bir muhim jihat deyarli tilga olinmayapti. Bu – korpus lingvistikasi va til
+resurslarini yaratish masalasi.
+Bugun dunyoning koʻplab universitetlari va ilmiy markazlari tillarning
+elektron korpuslarini shakllantirmoqda.
+Korpus – bu millionlab, baʼzan yuz millionlab soʻzlardan iborat raqamli matnlar
+jamlanmasi boʻlib, u sunʼiy intellektni
+oʻqitish, elektron lugʻatlar yaratish, imloni takomillashtirish, avtomatik tarjima va
+til boʻyicha ilmiy tadqiqotlar uchun asos
+boʻlib xizmat qiladi.
+Endi tasavvur qiling, shunday korpusda Oʻzbekiston soʻzi turli manbalarda Oʻzbekiston, O'zbekiston, O’zbekiston kabi bir nechta shaklda uchraydi.
+Inson uchun bularning barchasi bir xil
+soʻz. Ammo kompyuter ularni turli belgilar ketma-ketligi sifatida qabul qiladi.
+Natijada maʼlumotlarni tozalash (normalizatsiya – bir xil shaklga keltirish) va
+tahlil qilish uchun qoʻshimcha algoritmlar
+ishlab chiqishga toʻgʻri keladi.
+Bu nafaqat sunʼiy intellekt, balki elektron lugʻatlar, imlo tekshiruvchilari, qidiruv tizimlari va mashina tarjimasi sifatini
+ham murakkablashtiradi. Shuning uchun
+gap faqat bitta harfni qanday yozish haqida ketmayapti. Oʻzbek tili uchun sifatli
+raqamli korpus yaratish va uni kelajak
+texnologiyalari bilan uygʻun ishlaydigan
+holga keltirish ham koʻzlanmoqda.
+Shuhrat SHOKIRJONOV,
+jurnalistMa rifat www.marifat.uz /marifat.uz @marifatziyo QR-kodni skanerlang va 2026-yil 5-avgust, № 31(9616)
+6 mobil ilovani yuklab oling.
+Zamonaviy ta’lim konsepsiyasi
+o‘quvchini passiv bilim oluvchi
+emas, balki faol ishtirokchi
+sifatida ko‘radi. Endilikda dars
+jarayoni faqat ma’lumot uzatish
+bilan cheklanib qolmasdan,
+o‘quvchining mustaqil fikrlashi,
+izlanishi, tahlil qilishi va xulosa
+chiqarishiga yo‘naltirilgan bo‘lishi
+talab etiladi. Ayniqsa, boshlang‘ich
+ta’limda bu jarayon o‘yin, harakat,
+vizual vositalar va interaktiv
+metodlar orqali amalga oshirilsa,
+samaradorlik yanada ortadi.
+Mening tajribam
+Ona tili va o‘qish savodxonligi darslari boshlang‘ich ta’limning asosiy tayanch fanlari hisoblanadi.
+Ushbu fanlar orqali o‘quvchilar imloviy savodxonlik,
+to‘g‘ri talaffuz, matn bilan ishlash, mazmunni anglash,
+fikrni og‘zaki va yozma shaklda ifodalash kabi muhim
+ko‘nikmalarni egallaydi. Biroq amaliyot shuni ko‘rsatadiki, barcha o‘quvchilar bir xil tezlikda o‘zlashtira olmaydi. Ayrim o‘quvchilarda so‘zlarni noto‘g‘ri yozish,
+bo‘g‘inga ajratishda xatolar, tovush va harfni farqlay
+olmaslik, matn mazmunini yuzaki tushunish kabi
+muammolar kuzatiladi. Bu esa dars jarayonini yanada
+samarali tashkil etishni, interaktiv va harakatli metodlardan foydalanishni taqozo etadi.
+Boshlang‘ich sinf o‘quvchilari harakat, o‘yin va
+qiziqarli topshiriqlarni yaxshi ko‘radi. Agar dars faqat
+daftar va doska bilan cheklansa, ular tez zerikadi.
+Ammo dars jarayonida o‘yinli metodlar, jamoaviy
+topshiriqlar va ijodiy vazifalar qo‘llansa, o‘quvchilar darsda faol ishtirok etadi va bilim mustahkamroq
+o‘zlashtiriladi.
+Ona tili darslari bu ko‘nikmalarni shakllantirish
+uchun juda qulay maydon hisoblanadi. Masalan,
+o‘quv chilarni guruhlarga bo‘lib, aralashtirilgan
+bo‘g‘inlardan so‘z tuzish topshirig‘ini berish mumkin. Bu yerda ular bir-biri bilan maslahatlashadi,
+bahslashadi, fikr almashadi. Natijada nafaqat so‘z
+tuzish ko‘nikmasi, balki jamoada ishlash malakasi
+ham rivojlanadi. Yoki rasm asosida hikoya tuzish
+topshirig‘i beriladi. Har bir o‘quv chi o‘z tasavvuriga
+ko‘ra voqeani davom ettiradi. Bu jarayonda u erkin
+fikrlaydi, ijod qiladi, gap tuzadi. Bu esa kreativlik va
+nutqiy faollikni oshiradi. Xato yozilgan so‘zlarni topish metodida esa o‘quvchi fikr yuri tadi, taqqoslaydi,
+tahlil qiladi. Qaysi variant to‘g‘ri, qaysi biri noto‘g‘ri
+ekanini aniqlash orqali tanqidiy fikrlash shakllanadi. Demak, oddiy ko‘rinadigan topshiriq ortida katta
+pedagogik maqsad yotadi.
+Interaktiv metodlarda o‘qituvchi faqat ma’lumot beruvchi emas, balki jarayonni boshqaruvchi va yo‘naltiruvchi rolini bajaradi. Eng muhimi, o‘quvchi darsda zerikmaydi. U ishtirok etadi, fikr bildiradi, harakat qiladi.
+Shunda bilim ham chuqurroq o‘zlashtiriladi.
+“TAHRIRCHI” METODI
+“Tahrirchi” metodi o‘quvchilarni matn va so‘zlar
+ustida ongli ishlashga o‘rgatishga qaratilgan interaktiv
+usuldir. Bu metodda o‘quvchi oddiy ijrochi emas, balki
+“tahrirchi” rolini bajaradi. Ya’ni u berilgan so‘z yoki
+gapdagi xatoni aniqlaydi, tuzatadi va nima sababdan
+xato bo‘lganini tushuntiradi. Mazkur metodning asosiy
+g‘oyasi – o‘quvchini xatoni ko‘ra olish, uni tahlil qilish
+va to‘g‘ri variantni asoslab bera olishga o‘rgatishdir. Bu
+jarayonda o‘quvchi nafaqat imlo qoidalarini eslaydi,
+balki ularni amalda qo‘llashni ham o‘rganadi.
+O‘qituvchi doska, slayd yoki kartochkaga ataylab
+xato yozilgan so‘z yoki gaplarni taqdim etadi. O‘quvchilar berilgan materialni diqqat bilan o‘qiydi. Har bir
+o‘quvchi o‘zicha xatoni aniqlaydi va daftarga to‘g‘ri
+variantini yozadi.
+Keyin birgalikda muhokama qilinadi:
+● Xato qayerda?
+● Nima sababdan xato?
+● Qaysi qoida buzilgan?
+Jarayonni yakka tartibda, juftlikda yoki guruh shaklida tashkil etish mumkin.
+Muhokama davomida o‘quvchilar “b” va “p”
+tovushlari, unli tovush tushib qolishi yoki noto‘g‘ri
+yozilishi kabi holatlarni izohlaydi.
+“Tahrirchi” metodini quyidagi bosqichlarda qo‘llash
+maqsadga muvofiq:
+Mustahkamlash bosqichida – yangi o‘tilgan imlo
+qoidasini amalda tekshirish uchun;
+takrorlash darslarida – o‘tilgan mavzularni umumlashtirish uchun;
+nazoratdan oldin – o‘quv chilarni imloviy jihatdan
+hushyor qilish maqsadida;
+uy vazifasini tekshirish jarayonida – o‘zaro tahrir
+shaklida.
+“UZUM” METODI
+“Uzum”
+m e t o -
+di boshlang‘ich sinf
+o‘quvchilarining bo‘g‘in
+asosida so‘z
+t u z i s h
+ko‘nikma sini
+rivojlantirishga xizmat qiladigan ijodiy
+metodlardan.
+Bu metodda uzum novdasi ramziy shaklda tasvir -
+lanadi va novda ning markaziy qismiga ma’lum bir
+bo‘g‘in yoziladi. Uzum donalari esa o‘quvchilarning topgan so‘zlari bilan to‘ldiriladi. Ya’ni novdaga
+yozilgan bo‘g‘in qatnashgan so‘zlar donalarga yozib
+boriladi.
+Metodning mohiyati shundan iboratki, o‘quvchi berilgan bo‘g‘inni so‘z tarkibida ongli
+ravishda aniqlaydi va uni turli so‘zlar bilan bog‘lay oladi. Bu jarayonda o‘quvchi so‘zning tuzilishini anglaydi,
+bo‘g‘in haqidagi nazariy bilimini amaliyotda qo‘llaydi
+hamda lug‘at boyligini kengaytiradi. Uzum tasviri esa
+topshiriqni bolalar uchun qiziqarli va jonli ko‘rinishga
+keltiradi.
+Metodni o‘tkazishda o‘qituvchi doskaga yoki
+plakatga uzum novdasini chizadi va uning o‘rtasiga
+biror bo‘g‘in yozadi. Masalan, “gul” bo‘g‘ini yozilgan
+bo‘lsa, o‘quvchilar shu bo‘g‘in ishtirok etgan so‘zlarni
+topadilar: gulzor, guldasta, gulchi, atirgul, gulshan va
+hokazo. Har bir topilgan so‘z uzum donasiga yoziladi.
+Agar metod guruh shaklida tashkil etilsa, har bir guruh
+o‘z “uzum shingili”ni yaratadi va qaysi guruh ko‘proq
+hamda to‘g‘ri so‘z yozsa, o‘sha guruh rag‘batlantiriladi.
+Metodning maqsadi bo‘g‘in haqidagi bilimlarni
+mustahkamlash, so‘z tuzish malakasini rivojlantirish,
+lug‘at boyligini oshirish hamda o‘quvchilarni faol
+fikrlashga undashdan iborat. Jarayon davomida o‘quvchilar mustaqil izlanadi, tez fikrlaydi va o‘z fikrini
+asoslashga harakat qiladi. Zarur hollarda topshiriqni
+murakkablashtirish mumkin, ya’ni berilgan bo‘g‘in
+so‘z boshida, o‘rtasida yoki oxirida keladigan so‘zlarni
+alohida ajratish yoki topilgan so‘zlar bilan gap tuzish
+vazifasi ham qo‘shimcha qilinadi.
+Uzum metodining afzalligi shundaki, u darsni jonlantiradi, o‘quvchilarni faol ishtirokka jalb etadi va
+bo‘g‘in bilan ishlash jarayonini qiziqarli shaklga keltiradi. Metod muntazam qo‘llanilganda o‘quvchilar so‘z
+tarkibini tezroq anglay boshlaydi, imloviy savodxonligi
+oshadi va og‘zaki hamda yozma nutqi boyiydi.
+“ZANJIR SO‘Z” METODI
+“Zanjir so‘z” metodi o‘quvchilarning lug‘at boyligini oshirish va tez fikrlash qobiliyatini rivojlantirishga qaratilgan interaktiv usuldir. Bu metodda
+so‘zlar bir-biriga zanjir kabi ulanib boradi, ya’ni har
+bir keyingi so‘z oldingi so‘zning oxirgi harfi bilan
+boshlanishi kerak. Jarayon o‘yin shaklida kechadi,
+lekin uning asosida til ustida ongli ishlash yotadi.
+O‘qituvchi birinchi so‘zni aytadi yoki dos kaga yozadi. O‘quvchilar navbat bilan zanjirni davom ettiradi.
+Agar biror o‘quvchi so‘z topa olmasa, navbat boshqasiga beriladi. Metod yakka, juftlik yoki guruh shaklida
+tashkil etilishi mumkin. Jarayon davomida o‘qituvchi
+noto‘g‘ri aytilgan so‘zlarni tuzatadi va imlo jihatidan
+to‘g‘ri talaffuzga e’tibor qaratadi.
+Boshlang‘ich so‘z: Maktab.
+Zanjir davom ettiriladi. So‘ng o‘quvchilardan 2–3 ta
+so‘z bilan gap tuzish so‘raladi.
+“HALQA SO‘Z” METODI
+Bu metod o‘quvchilarning so‘z boyligini kengaytirish, so‘z turkumlari ustida ishlash va mantiqiy bog‘lanish hosil qilish ko‘nikmasini rivojlantirishga qaratilgan. Ushbu metodda so‘zlar halqa(aylana) shaklida
+joylashtiriladi va har bir so‘z oldingisi bilan ma’lum bir
+mazmuniy bog‘lanishga ega bo‘lishi kerak.
+Metodning mohiyati shundan iboratki, o‘quv chi
+shunchaki so‘z aytmaydi, balki u nima sababdan oldingi so‘z bilan bog‘langanini izohlab beradi. Bu esa tafakkurni chuqurlashtiradi va ongli fikrlashni shakllantiradi.
+O‘qituvchi doskaga aylana(halqa) shaklini chizadi.
+Halqaning bir nuqtasiga boshlang‘ich so‘z yoziladi. Masalan: bahor. Keyingi o‘quvchi shu so‘z bilan bog‘liq
+boshqa so‘z aytadi va halqaga yoziladi. Masalan: gullar. So‘ng uchinchi o‘quvchi gullar bilan bog‘liq so‘z
+aytadi: bog‘. Halqa shu tarzda davom etadi.
+Har bir o‘quvchi aytgan so‘zini qisqa izohlab
+berishi talab qilinadi. Masalan: Men gullar
+dedim, chunki bahorda gullar ochiladi.
+Metod guruh shaklida tashkil etilsa, har bir guruh
+o‘z halqasini yaratadi.
+FIKRLAYMIZ,
+(Ona tili va o‘qish
+Doskaga quyidagi
+so‘zlar yoziladi:
+musiqa2026-yil 5-avgust, № 31(9616) QR-kodni skanerlang va @marifatziyo /marifat.uz www.marifat.uz Ma rifat
+mobil ilovani yuklab oling. 7
+Boshlang‘ich so‘z: Bahor.
+“RANGLI RUCHKALAR” METODI
+“Rangli ruchkalar” metodi o‘quvchilarga so‘z turkumlarini ongli ravishda ajrata olishni o‘rgatishga qaratilgan amaliy va vizual metodlardan biridir. Ushbu
+metodda har bir so‘z turkumi ma’lum bir rang bilan ifodalanadi. Masalan, ot turkumi qora rangda, sifat turkumi qizil rangda, son turkumi esa ko‘k rangda yoziladi.
+Ranglar orqali farqlash o‘quvchining ko‘rish xotirasini
+faollashtiradi va grammatik tushunchalarni tezroq anglashiga yordam beradi.
+Metodning asosiy g‘oyasi shundan iboratki, o‘quvchi so‘z turkumini nafaqat nazariy jihatdan biladi, balki
+uni amalda ranglar orqali ajratadi va mustahkamlaydi.
+Rangli ajratish usuli kichik yoshdagi o‘quvchilar uchun
+tushunarli va qiziqarli bo‘lib, dars jarayonini jonlantiradi.
+Masalan:
+Otlar – qora rangda;
+Sifatlar – qizil rangda;
+Sonlar – ko‘k rangda.
+Dastlab og‘zaki tahlil qilinadi, so‘ng yozma ish bajariladi. O‘qituvchi nazorat qilib, xatolarni birgalikda
+tuzatadi.
+Bu orqali o‘quvchilar so‘z turkumlarini chalkashtirmay ajrata oladi, yozma ishda grammatik xato kamayadi va gap tuzilishini ongli ravishda tahlil qilishga o‘rganadi. Rangli yozuv orqali tushuntirilgan mavzu uzoq
+muddat xotirada saqlanadi.
+“O‘NG VA CHAP” METODI
+Bu metod o‘quvchilarning tovush va harf haqidagi bilimlarini mustahkamlashga qaratilgan harakatli
+interaktiv usullardan biridir. Ushbu metodda o‘quvchilarga turli so‘zlar ko‘rsatiladi yoki aytiladi. Agar so‘z
+unli harf bilan boshlangan bo‘lsa, o‘quvchilar o‘ng
+qo‘lini ko‘taradi, agar so‘z undosh harf bilan boshlangan bo‘lsa, chap qo‘lini ko‘taradi.
+Metodning mohiyati – o‘quvchi eshitgan yoki
+ko‘rgan so‘zning birinchi tovushini tezkor tahlil
+qiladi va uni toifalarga ajratadi. Bu jarayonda diqqat,
+tez fikrlash va fonetik tahlil ko‘nikmasi bir vaqtda
+rivojlanadi. Harakat orqali javob berish esa kichik
+yoshdagi o‘quvchilar uchun darsni qiziqarli va jonli
+qiladi.
+“SIRLI REKLAMA” METODI
+O‘quvchida mavzuga nisbatan tabiiy qiziqish
+uyg‘otish va ichki motivatsiyani kuchaytirishga qaratilgan interaktiv usul. O‘qituvchi yangi mavzuni to‘g‘ridan to‘g‘ri e’lon qilmaydi, balki uni yashirin tarzda,
+“reklama” ko‘rinishida taqdim etadi. O‘quvchilar esa
+berilgan ishora, tavsif yoki kalit so‘zlar asosida mavzuni mustaqil ravishda topishga harakat qiladi.
+Bu metod orqali o‘quvchi tayyor ma’lumotni qabul qiluvchi emas, balki izlovchi va topuvchi rolini
+bajaradi. Jarayon qiziqarli taxmin va mulohaza shaklida kechadi. Sirli taqdimot o‘quvchilarning diqqatini
+jamlaydi, ularni faol fikrlashga undaydi va darsning ilk
+daqiqalaridanoq faollikni oshiradi.
+Metod nomidagi “reklama” so‘zi tasodifiy
+emas. Chunki o‘qituvchi mavzuni go‘yoki reklama
+qilayotgandek, uning afzalliklarini yoki xususiyatlarini sirli tarzda bayon qiladi. O‘quvchi esa shu tavsif orqali nimani nazarda tutayotganini anglashga
+harakat qiladi.
+“PIANINO” METODI
+“Pianino” metodi boshlang‘ich sinf o‘quvchilarining bilimini mustahkamlash, tezkor fikrlashini
+rivojlantirish va barcha o‘quvchilarni dars jarayoniga faol jalb etishga xizmat qiladi. Metod nomi pianino cholg‘u asbobidan olingan bo‘lib, uning tugmalari
+(klavishlari) kabi savollar yoki topshiriqlar ketma-ket
+joylashtiriladi.
+Bu metodda o‘quvchilar “klavish”larni bosayotgandek navbat bilan savollarga javob beradilar. Har bir
+tugma alohida savol yoki topshiriqni bildiradi. Jarayon
+o‘yin shaklida tashkil etiladi, lekin uning asosida bilimni tekshirish va mustahkamlash maqsadi yotadi.
+Boshlang‘ich sinflarda bu metod ayniqsa samarali,
+chunki bolalar harakat va o‘yin orqali tezroq o‘rganadi. O‘qituvchi doskaga pianino klavishlariga o‘xshash
+shakl chizadi yoki kartochkalar tayyorlaydi. Har bir
+“klavish”ga savol yoki topshiriq yoziladi. O‘quvchilar
+navbat bilan chiqib, bir klavishni tanlaydi va undagi
+savolga javob beradi.
+Yuqorida ko‘rsatilgan barcha metodlarning muvaffaqiyati o‘qituvchining beradigan savol-topshiriqlariga bog‘liq. Ushbu metodlar o‘quvchilarning yozma savodxonligini oshirishda ham muhim ahamiyatga
+ega.
+IJOD QILAMIZ
+savodxonlgi)
+Mutaxassis sifatida izoh beraman. Buni men
+kashf qilmaganman. Bu bo‘yicha psixolingvistika,
+neyrolingvistikada minglab, millionlab tadqiqotlar
+qilingan. O‘sha tadqiqotlarning xulosasi shakllantirgan ilm bu. O‘qish qanday jarayon? Buni tushunish uchun “til o‘zi nima?” degan savoldan boshlash
+kerak. Til tabiiy jihatdan og‘zaki shaklda yashaydigan
+hodisa. Yozuv uning shartli belgilar bilan ifodalanishidir. Demak, tilning og‘zaki shakli – asos. Yozuv
+esa og‘zaki shakl uchun vosita. Shunga asosan o‘qish
+bu grafik belgilar (harflar) yig‘indisiga qarab, u qaysi
+og‘zaki so‘zni bildirayotganini topa olish demakdir.
+Inson ongi uchun har doim yaxlit so‘z ahamiyatli. Tovushlarga ajratish, tovush tarkibini anglash – taʼlim
+va ilm uchun muhim. Muloqotda esa yaxlit so‘z
+muhim. Shuning uchun ham inson o‘qishni o‘rganib bo‘lgandan keyin miya harflab o‘qimaydi, yaxlit so‘zni o‘qiydi. Bunda miya so‘zning bosh harfi,
+oxiridagi harf hamda so‘zdagi harflar soniga asoslanadi.
+O‘qishni o‘rganish va harflab o‘qishdan yaxlit so‘zni
+o‘qish darajasiga chiqish uchun maktab muhim.
+Bejiz maktabda to‘rt yil o‘qish darsi bo‘lmaydi. Mana shu darslar miyamizda vizual leksikonni
+shakllantiradi. Vizual leksikon, soddaroq aytganda,
+so‘zlarning yozma shaklining xotiramizda turishidir.
+Demak, kim qaysi alifboda savod chiqargan bo‘lsa, o‘sha alifboda bo‘ladi bu leksikon.
+Aynan mana shu vizual leksikon biz kitob o‘qiganimizda maza qilib o‘qishimizga asos bo‘ladi.
+Bu borada bizda bitta istisno bor, aynan alifbo almashtirganimiz sababli yuzaga kelgan istisno. Bo‘lishi mumkin, ko‘rsatuv qahramonlarining savodi lotinda chiqqan, yaʼni alifbeni lotinda o‘rganishgan,
+o‘qish darslari ham lotinda bo‘lgan. Biroq u vaqtda
+lotin alifbosiga yangi o‘tilgan bo‘lgani uchun kitoblar,
+gazetalar, internet sahifalari kirill alifbosida bo‘lgan.
+O‘qishga ishtiyoqmand bizning yoshlar kirilchada o‘zi
+qiziqqan mavzuda juda ko‘p matn o‘qishi hisobiga
+ularda vizual leksikon kirilchada shakllangan. Shuning
+uchun ham kirilchada maza qilib o‘qishadi.
+Endi keyingi masala: nima uchun ingliz tilida u
+narsa sezilmaydi. Chunki u boshqa til va u til uchun
+bitta alifbo va imlo qoidalari bor, boshqa alternativ alifbo yo‘q. Vizual leksikon bitta alifbo asosida
+shakllanadi. Undan keyin miyamiz turli tillarni alohida tizim sifatida qabul qiladi, shunday qo‘llaydi. Bu yerda harflar yoki qandaydir belgilar emas,
+aynan so‘zning vizual shaklining barqarorligi muhim!
+Aynan shu sabab ham alifboga o‘zgartirish kiritish
+kerak emas, hatto u to‘rttagina harf bo‘lsa ham.
+Iroda AZIMOVA,
+psixolingvist
+Nimaga lotin
+alifbosida
+o‘zbekcha matn
+o‘qishga qiyin?
+“Lolazor” podkastida nimaga
+lotin alifbosida o‘zbekcha matn
+o‘qishga qiyin-u, ingliz tilida
+o‘qishga qiyinmas degan savol
+ustida mulohaza yuritishibdi
+jurnalist va huquqshunoslar. Tutuq
+belgisi, shuningdek, o‘ va g‘ ning
+shunday birtirnoq bilan ifodalanishi
+sabab sifatida keltirilibdi.
+...Fikr yuritish, bir hodisaning
+sababini tushunishga intilish,
+albatta, yaxshi. Lekin ba’zan ilmfan buni qanday tushuntiradi deb
+ham qiziqib ko‘rish foydadan xoli
+bo‘lmaydi.
+Shahlo QODIROVA,
+Toyloq tumanidagi
+23-maktabning boshlang‘ich
+sinf o‘qituvchisi
+Rangli ruchkalar metodi
+Ot turkumi: qora Sifat turkumi: qizil Son turkumi: ko‘k
+Bog‘da uchta katta daraxt va ikki chiroyli gul o‘sadi.
+Besh bola keng maydonda quvnoq o‘ynadi.
+Bahorda to‘rt yashil daraxt gulladi.
+Ikki kichik bola yangi bog‘da o‘ynadi.
+Bahorda to‘rt yashil daraxt gulladi.
+Ikki kichik bola yangi bog‘da o‘ynadi.
+Bahorda to‘rt yashil daraxt gulladi.
+Bahor gullar bog‘ daraxt hosil8 Ma rifat www.marifat.uz /marifat.uz @marifatziyo QR-kodni skanerlang va mobil ilovani yuklab oling. 2026-yil 5-avgust, № 31(9616) QR-kodni skanerlang va mobil ilovani yuklab oling. @marifatziyo /marifat.uz www.marifat.uz Ma rifat 9
+Baxtiyor MENGLIYEV,
+TAFU tadqiqotchi-professori,
+filologiya fanlari doktori
+KIRISH
+Zamonaviy yozuv nazariyasi va struktur lingvistika sohasida alifbo tizimining mukammalligi fonematik tamoyilga qanchalik darajada mos kelishi bilan
+belgilanadi. Har bir mustaqil va ma’no
+farqlovchi nutq tovushi(fonema)ning
+yozuvda o‘ziga xos, bir qiymatli va unikal grafema orqali aks ettirilishi yozuv
+tizimining shaffofligini oshiradi. Bu inson
+tomonidan matnni idrok etish va o‘qish
+tezligi, avtomatlashtirilgan matn tahlili
+hamda kompyuter lingvistikasi tizimlarining aniqligini ta’minlaydigan fundamental omildir. Lingvistik tizimda tovush va
+harf o‘rtasidagi muvofiqlikning buzilishi
+esa yozuvda turli struktur hamda funksional noaniqlikni keltirib chiqaradi.
+O‘zbek yozuvi amaliyotida til orqa,
+yumshoq tanglay, burun fonemasining
+ikki harf birikmasi, ya’ni digrafik konfiguratsiya orqali ifodalanishi uzoq yillar(qariyb bir asr – kirill alifbosi joriy
+qilinishi)dan buyon davom etib kelayotgan va jiddiy ilmiy-amaliy yechimni
+talab qiladigan struktur muammolardan.
+Bu digrafik yondashuv bir vaqtning o‘zida ham yaxlit monofonematik birlikni,
+ham morfemalar chegarasida yonma-yon
+keladigan alohida undoshlar tutashuvini
+bir xil grafik shaklda aks ettiradi. Natijada matnni tahlil qilish, bo‘g‘inga ajratish,
+urg‘uni belgilash hamda tabiiy tilni qayta
+ishlash modellari uchun jiddiy algoritmik to‘siqlar sodir bo‘ladi. Bir xil grafik
+ko‘rinishdagi ikki xil lisoniy hodisaning
+mavjudligi axborotni qayta ishlash tizimlarida tokenizatsiya va sintez xatoliklarini
+ko‘paytirishga olib keladi.
+Globallashuv, raqamlashtirish va
+sun’iy intellekt texnologiyalari jadal
+rivojlanayotgan hozirgi davrda milliy
+alifboni xalqaro Unicode standartlari va
+zamonaviy NLP talablariga moslashtirish dolzarb strategik zaruratga aylandi. Maqolaning asosiy maqsadi til orqa
+burun fonemasiga alohida, avtonom
+grafema berishning nazariy-fonologik,
+pedagogik hamda texnologik asoslarini
+kompleks ravishda tahlil qilish va asoslab berishdan iborat. Maqolada bu grafik
+islohotning amaliyotga tatbiq etilishi, tilning tabiiy struktur xususiyatini saqlash,
+boshlang‘ich ta’limda savodxonlikni
+osonlashtirish va o‘zbek tilining raqamli
+makonda to‘laqonli hamda xatosiz integratsiyalashuvini ta’minlashdagi o‘rni
+ilmiy jihatdan yoritib beriladi.
+Maqola muammoning ildizlarini
+o‘rganishda ilmiy sintez va empirik tahlil
+usullarini birlashtirgan holda alifbo islohotining zaruriyatini ilmiy asoslaydi. Tildagi
+har bir tovushning grafik shakli jamiyatning intellektual va texnologik salohiyati
+bilan bevosita bog‘liq, yozuv tizimining
+aniqligi axborot uzatish samaradorligi va
+ta’lim sifatini oshirishga xizmat qiladi.
+Shu bois taklif etilayotgan yechim ham
+nazariy tilshunoslik doirasidagi tuzatish,
+shuningdek, milliy tilning kelgusi raqamli
+istiqbolini belgilovchi strategik imkoniyatdir.
+FONOLOGIK VA
+LINGVISTIK ZARURAT
+O‘zbek tili fonetik tizimida [ŋ] tovushi shunchaki [n] va [g] harflarining
+od diy hamda sun’iy birikmasi emas, shuningdek, til orqasining yumshoq tanglayga tegishi natijasida hosil bo‘ladigan yaxlit, mustaqil va ayricha burun fonemadir.
+Tilshunoslikning eng muhim va o‘zgarmas qoidalaridan biri – “bir fonema –
+bir grafema” tamoyili. Bitta mustaqil
+tovushni ikki harf ([n]+[g]) yordamida
+ifodalash yozuv tizimining mantiqiy hamda fonematik tuzilishiga jiddiy putur yetkazadi.
+Hozirgi digrafik yozuv amaliyoti bir
+xil [ng] belgisi orqali ham monofonematik holatni ([keng], [dengiz]), ham morfemalararo geterosillabik tutashuvlarni
+([sen-ga], [kun-gi]) bir xil shaklda aks ettirmoqda. Bu holat fonematik tamoyil buzilishiga, o‘qish va ma’no chalkashliklari
+hamda yozuvda qator noaniqliklarga sabab bo‘lib, zamonaviy ilmiy yondashuv
+talablariga zid keladi.
+Muammoni bartaraf etish uchun [ŋ]
+fonemasiga alohida grafemani joriy etish
+zarur. Bu o‘zgarish ham nazariy tilshunoslik talablarini qondiradi, shuningdek,
+boshlang‘ich ta’limda savod chiqarishni
+osonlashtiradi, matnni avtomatik qayta
+ishlash (NLP) va sun’iy intellekt tizimlaridagi tokenizatsiya xatoliklarini qisqartiradi hamda o‘zbek tilining global raqamli
+makon va xalqaro Unicode standartlariga
+to‘laqonli integratsiyalashuvini ta’minlaydi.
+Bu fonematik nomuvofiqlikni bartaraf
+etish yozuvning texnologik va amaliy samaradorligini keskin oshiradi. Jahon tajribasi ko‘rsatadiki, qardosh turkiy tillar,
+jumladan, qozoq, qirg‘iz va turkman
+alifbolarida bu tovush uchun maxsus
+grafemalar muvaffaqiyatli tatbiq etilgan,
+bu yozuvdagi ortiqcha vizual va struktur
+yuklamalarni bartaraf etgan.
+O‘zbekiston Respublikasining raqamli
+transformatsiya jarayonlari, xususan, tabiiy tilni qayta ishlash texnologiyalari va
+katta til modellari (LLM) davrida har bir
+fonemaning bir qiymatli grafema orqali
+ifodalanishi talab etiladi. Agar tilimizning
+raqamli muhitda mukammal ishlashini
+istasak, tilshunoslik qonuniyatlari asosida [ŋ] tovushiga mustaqil harf berish
+masalasini kechiktirmasdan hal etishimiz
+shart.
+SO‘Z VA MA’NO
+FARQLASH ZARURATI
+Zamonaviy o‘zbek yozuvi amaliyotida
+[ng] digrafi bilan bog‘liq eng jiddiy struktur muammolardan biri – bir xil grafik
+shaklning ikki xil fonetik va semantik
+hodisani ifodalashi. Lingvistik nuqtayi
+nazardan yozuv tizimi nutqdagi ma’no
+farqlovchi birliklarni aniq va bir qiymatli
+aks ettirishi shart. Biroq hozirgi alifboda
+birikma shaklida yozilayotgan [ng] belgisi amalda tubdan farq qiluvchi ikki xil
+lingvistik holatni yuzaga chiqarib, o‘qish,
+tushunish hamda matnni avtomatik tahlil qilish jarayonlarida jiddiy chalkashliklarni keltirib chiqarmoqda.
+Birinchi holat – yaxlit va mustaqil burun fonemasi bo‘lgan [ŋ] ning qo‘llanishi.
+Bunday so‘zlarda harflar ketma-ketligi bir
+yaxlit tovushni bildiradi va tarkibiy qismlarga ajratib bo‘lmaydi. Masalan, [teng],
+[dengiz], [so‘ng] kabi leksik birliklarda
+[ŋ] o‘zakning ajralmas qismi sifatida qatnashadi. Bu yerda tovush sof fonematik
+tabiatini namoyon etadi.
+Ikkinchi holat ikki alohida tovush –
+til oldi, portlovchi-sirg‘aluvchi [n] va
+til orqa, portlovchi [g] ning morfemalar
+chegarasida o‘zaro tutashuvidir. Masalan,
+[men-ga] (olmosh va jo‘nalish kelishigi
+qo‘shimchasi) yoki [tun-gi] (ot va yasovchi qo‘shilish chegarasi) kabi misollarda bular alohida morfemalarga tegishli ikkita mustaqil tovushlardir. Ularning
+talaffuzi va bo‘g‘inga bo‘linishi mutlaqo
+boshqacha kechadi.
+Hozirgi alifboda mazkur ikki xil hodisaning bir xil [ng] digrafi orqali yozilishi jiddiy grafik va semantik noaniq -
+likni keltirib chiqaradi. Natijada o‘quvchilar, ayniqsa, boshlang‘ich sinf o‘quvchilari so‘zlarni bo‘g‘inga ajratishda, urg‘u
+qo‘yish va imlo qoidalarini o‘zlashtirishda qiyinchiliklarga duch keladi. Masalan,
+[singil] so‘zini [sin-gil] tarzida noto‘g‘ri
+bo‘g‘inga ko‘chirish hollari aynan shu digrafik chalkashlikning amaldagi yaqqol
+ifodasidir.
+Uchinchi holat – kongress, shtanga,
+avangard kabi o‘zlashma so‘zlarda [n] va
+[g] tovushlari alohida-alohida, o‘zining
+asl holatida aniq talaffuz qilinadi. Hozirgi
+[ng] digrafi qoidasi o‘quvchiga o‘zlashma
+so‘zdagi yonma-yon kelgan [n] va [g] undoshlarini yaxlit [ŋ] burun fonemasidan
+vizual farqlash imkonini bermaydi.
+Bu muammoni bartaraf etishning
+yagona ilmiy va amaliy yechimi – [ŋ]
+fonemasiga alohida va o‘zgarmas grafema ([Ŋ] [ŋ] yoki [Ñ] [ñ]) berish. Alohida harfning joriy etilishi matndagi barcha
+o‘qish, urg‘u va bo‘g‘inga bo‘lishdagi
+chalkashliklarga to‘la barham beradi. Bu
+o‘zgarish fonematik tamoyilni tiklabgina qolmay, tilimizning ichki mantiqiy
+tizimini mustahkamlaydi va amaliy savodxonlikni keskin oshiradi.
+TEXNOLOGIK VA
+KOMPYUTER
+LINGVISTIKASI ZARURATI
+Axborot texnologiyalari jadal rivojlanib, sun’iy intellekt (SI), mashina tarjimasi hamda tabiiy tilni qayta ishlash
+(NLP) tizimlari kundalik hayotimiz va
+ilm-fanning ajralmas qismiga aylanib
+borayotgan bir davrda yozuv tizimining
+texnologik mukammalligi hal qiluvchi
+ahamiyat kasb etmoqda. O‘zbek tilidagi
+[ng] digrafi raqamli makon va zamonaviy
+kompyuter lingvistikasi uchun jiddiy
+texnik to‘siqlarni keltirib chiqarmoqda.
+Hozirgi alifboda [n] va [g] harflarining
+yonma-yon kelishi kompyuterlar va neyron tarmoqlar uchun matnni tahlil qilishda
+algoritmik chalkashliklarni yuzaga keltiradi.
+Sun’iy intellekt va katta til modellari
+(LLM)da so‘zlarni qismlarga bo‘lish,
+ya‘ni tokenizatsiya jarayoni muhim o‘rin
+tutadi. Kompyuter [ng] birikmasiga duch
+kelganda uni yaxlit bitta fonema sifatida
+qabul qilishi yoki alohida morfemalarga tegishli ikkita mustaqil harf sifatida
+ajratishi lozimligini aniqlashda doimiy
+ravishda xatoliklarga yo‘l qo‘yadi. Bu holat mashina tarjimasining aniqligini pasaytirib, matn semantikasini ochib berishda
+sun’iy intellekt imkoniyatlarini cheklaydi,
+semantik aniqlikka putur yetkazadi.
+Shuningdek, ovozli texnologiyalar –
+matnni ovozga aylantirish (TTS – Text-toSpeech) va nutqni matnga o‘girish (STT –
+Speech-to-Text) tizimlarida bu muammo
+yanada yaqqol namoyon bo‘ladi. Agar [ŋ]
+tovushi uchun [Ŋ] [ŋ] yoki [Ñ] [ñ] kabi
+alohida simvol mavjud bo‘lmasa, sintezatorlar va ovozli modellar so‘zlarni talaffuz
+qilishda fonetik buzilishlarga yo‘l qo‘yadi. Fonema uchun maxsus grafemaning
+joriy etilishi algoritmik xatoliklarni nolgacha qisqartiradi, nutqni qayta ishlash
+aniqligini keskin oshiradi hamda o‘zbek
+tilining xalqaro Unicode standartlari va
+global raqamli makonga to‘laqonli integratsiyalashuvini ta’minlaydi.
+MA’RIFIY VA TA’LIMIY
+ZARURAT
+O‘zbek ta‘lim tizimida savodxonlikni oshirish, imlo qoidalarini o‘rgatish hamda o‘zbek tilini ham ona tili,
+ham ikkinchi til sifatida o‘rganuvchilar uchun qulay shart-sharoit yaratish
+doimiy dolzarb masalalardan. Hozirgi
+lotin yozuviga asoslangan o‘zbek alifbosida [ng] digrafining qo‘llanishi
+boshlang‘ich sinf o‘quvchilari hamda
+tilni o‘rganayotgan xorijliklar uchun
+o‘zlashtirish jarayonida bir qator jiddiy metodik to‘siqlarni keltirib chiqarmoqda. Fonema va grafema o‘rtasidagi nomuvofiqlik ta’limiy jarayonda
+o‘quvchilarning mantiqiy tafakkurini
+cheklab, yozma nutqda ortiqcha grafik
+xatolarni yuzaga keltirmoqda.
+Pedagogik psixologiya va metodika nuqtayi nazaridan, boshlang‘ich sinf
+o‘quvchilari yozuvni o‘rganish jarayonida “bir tovush – bir harf” tamoyiliga
+tayanadi. Biroq o‘quvchi [ng] birikma sini
+ko‘rganda tabiatan bitta yaxlit burun tovushi sifatida emas, ikkita alohida harf –
+[n] va [g] ning yig‘indisi sifatida qabul
+qilishga moyil bo‘ladi. Bu holat o‘quvchilarning fonetik tahlil o‘tkazishida, tovush
+va harf munosabatlarini anglashida fundamental ziddiyatlarni keltirib chiqaradi. Natijada bolalar so‘zlarni yozish va
+o‘qishda qiynaladilar, bu esa boshlang‘ich
+ta’limda savodxonlikni shakllantirish jarayonini sekinlashtiradi.
+Shuningdek, o‘zbek tilini chet tili
+sifatida o‘rganayotgan xorijiy talabalar
+uchun ham bu digrafik yondashuv katta
+qiyinchilik tug‘diradi. Xalqaro tajribada fonetik tizimi mukammal shakllangan tillarda har bir tovush o‘zining aniq
+grafikasiga ega bo‘lishi talab etiladi.
+O‘zbek tilini o‘rganayotgan chet elliklar
+so‘z ichidagi [ng] birikmasini qachon
+yaxlit tovush sifatida, qachon alohida
+morfemalar tutashuvi sifatida o‘qish
+kerakligini tushunishda doimiy ravishda xatoliklarga yo‘l qo‘yadilar. Bu holat
+tilimizni xalqaro miqyosda o‘qitish samaradorligini ham pasaytiradi.
+Agar [ŋ] fonemasi uchun alohida
+grafema ([Ŋ] [ŋ] yoki [Ñ] [ñ]) joriy etilsa, ta’lim jarayonida burilish yasaladi.
+Birinchidan, imlo va talaffuz qoidalarini
+o‘rgatish soddalashadi. O‘quvchi bitta
+harfni ko‘rib, darhol bitta mustaqil tovush sifatida idrok etadi. Ikkinchidan,
+o‘quvchilarning yozma nutqdagi grafik
+xatolari, jumladan, bo‘g‘in ko‘chirish va
+satrdan satrga o‘tkazishdagi xatoliklar
+avtomatik ravishda kamayadi. Masalan,
+[kelingizlar] so‘zini [ke-lin-giz-lar] tarzida bo‘laklarga bo‘lish kabi qo‘pol imlo
+xatolariga o‘rin qolmaydi.
+QULAYLIK VA
+TEJAMKORLIK ZARURATI
+Zamonaviy yozuv tizimlarining aso siy
+vazifalaridan biri lisoniy axborotni eng
+kam grafik resurslar yordamida maksimal
+darajada aniq, tushunarli va qulay shaklda
+yetkazib berishdir. O‘zbek lotin alifbosidagi [ng] digrafining qo‘llanishi yozuvning amaliy qulayligi, grafik tejamkorligi
+va matbaa-tahririyat jarayonlariga salbiy
+ta’sir ko‘rsatib kelmoqda. Bitta fonema
+uchun ikki harfdan foydalanish ham nazariy talablarga, shuningdek, amaliy matn
+yaratish, bosmaxona va kompyuterda
+terish jarayonlarining iqtisodiy-texnik
+samaradorligiga ham putur yetkazadi.
+Bu jihatdan [ŋ] burun fonemasiga alohida grafema ([Ŋ] [ŋ] yoki [Ñ] [ñ]) berish
+qulaylik va tejamkorlik zarurati sifatida
+keskin namoyon bo‘ladi.
+Birinchidan, grafik tejamkorlik va
+optimizatsiya masalasiga to‘xtalsak. Tilshunoslik va grafika nazariyasida har bir
+simvol ma’lum bir hajmiy va vaqtinchalik resursni egallaydi. Katta hajmli ilmiy,
+badiiy va ommaviy axborot matnlarini
+yaratish, tahrirlash hamda chop etish jarayonida har bir so‘zning harflar soni
+muhim o‘rin tutadi. Agar [ŋ] tovushi
+mustaqil yagona grafemasiga ega bo‘lsa,
+u holda matndagi umumiy belgi va harflar
+hajmi qisqaradi. Bu kompyuterda matn
+terish vaqtida tejamkorlikni ta’minlabgina
+qolmay, elektron ma’lumotlar bazalarida
+xotirani tejash hamda matnni vizual qabul
+qilish qulayligini oshiradi. Hozirgi digrafik yozuvda ikkita harf ([n]+[g]) talab
+qilinadigan o‘rinlarda yagona simvolning
+qo‘llanishi grafik ixchamlikning mukammal namunasidir.
+Ikkinchidan, satrdan satrga ko‘chirish
+va bo‘g‘inga bo‘lish jarayonidagi amaliy muammolar va ularning avtomatik
+yechimlari mavjud. Matbaa va tahririyat
+amaliyotida matnlarni sahifalash va bir
+satrdan ikkinchi satrga ko‘chirish qoidalari qat’iy me’yorlarga tayanadi. O‘zbek
+tilida [ng] birikmasi ishtirok etgan
+so‘zlarni satrdan satrga ko‘chirish jarayonida har doim ham bir xil qoida ishlamaydi. Masalan, [singil] so‘zida bu yaxlit
+bitta tovush bo‘lgani uchun uni bo‘g‘inga bo‘lib ko‘chirishda xatolikka yo‘l
+qo‘yilishi mumkin. Ko‘pincha matbaa
+xodimlarining yoki matn muharrirlarining e’tiborsizligi natijasida [si-ngil] tarzida yozilishi lozim bo‘lgan so‘z [sin-gil]
+shaklida noto‘g‘ri bo‘lib ko‘chiriladi. Bu
+imlo va tahrir qoidalarining buzilishiga
+ham olib keladi.
+Uchinchidan, o‘zbek tilida so‘z asosiga morfemalarning ulanishiga asoslangan
+xususiyat amaldagi [ng] digrafi kesishganda grafik nomutanosiblik va orfografik
+ziddiyatni yuzaga keltiradi. Masalan, asosi [ng] bilan tugaydigan so‘zlarga [-ga],
+[-gi], [-gina] kabi qo‘shimchalar qo‘shilganda (tong – tonggi, so‘ng – so‘nggi,
+bodring – bodringga) bir o‘rinda uchta
+undosh harf(n-g-g)ning yonma-yon kelib qolishi ko‘zga vizual og‘irlik beradi
+va o‘qish tezligini pasaytiradi. Qolaversa, aynan shu so‘zlarning 3-shaxs egalik
+qo‘shimchasi qo‘shiluvidan hosil bo‘lgan
+shakllari (tongi, so‘ngi) bilan yuzaga keladigan grafik chalkashlik (tonggi – tongi, so‘nggi – so‘ngi) matnni tushunishda
+grammatik noaniqlikni keltirib chiqaradi.
+Agar [ŋ] uchun maxsus va yagona
+grafema joriy etilsa, bu kabi texnik va
+tahririy xatoliklar avtomatlashtirilgan
+tarzda o‘z-o‘zidan barham topadi. Matn
+muharrirlari va avtomatik sahifalash dasturlari yagona harfni qismlarga ajratib
+bo‘lmasligini yaxshi anglaydi va uni hech
+qanday qo‘shimcha nazoratsiz to‘g‘ri
+bo‘g‘inga bo‘lib ko‘chiradi.
+XALQARO TAJRIBA VA
+STANDARTLAR
+Zamonaviy yozuv tizimlarini takomillashtirish, fonematik aniqlikni ta’minlash
+hamda milliy alifbolarni xalqaro texnologik standartlarga uyg‘unlashtirish jahon tilshunosligida ustuvor vazifalardan.
+O‘zbek lotin alifbosida [ng] digrafi orqali
+ifodalanib kelayotgan burun fonemasi
+[ŋ] masalasini hal etishda xalqaro tajriba, qardosh tillar amaliyoti va global
+raqamli standartlar muhim ilmiy-amaliy
+asos bo‘lib xizmat qiladi. Dunyo miqyosida tillarning grafika tizimini optimallashtirish bo‘yicha to‘plangan boy tajriba
+o‘zbek yozuvi uchun ham yaqqol namuna
+bo‘la oladi.
+Birinchidan, turkiy tillar tajribasi bu
+borada eng yaqin va ishonchli empirik
+asosdir. Aksar qardosh turkiy tillar lotin
+yoki kirill alifbolarida bu o‘ziga xos burun
+tovushini ikki harf birikmasi orqali emas,
+qat’iy ravishda bitta mustaqil grafema vositasida aks ettiradilar. Masalan, qozoq va
+qirg‘iz alifbolarida [Ң] [ң], turkman tilida [Ň] [ň], tatar hamda boshqird tillarida
+[Ң] [ң] harfi qabul qilingan, alifboning
+ajralmas va barqaror qismi sifatida ishlaydi. Bu holat turkiy tillar tabiatining umumiy qonuniyatidan kelib chiqqan holda,
+o‘zbek tilida ham [ŋ] fonemasiga alohida
+harf berish zaruriyatini amalda to‘la tasdiqlaydi.
+Ikkinchidan, ispan tili va boshqa
+xalqaro analoglar tajribasi grafika evolyutsiyasining muhim bosqichini ko‘rsatadi. Ispan tilida ilgari ikkita [nn] harf birikmasi bilan yozilib kelingan burun-tanglay
+tovushi keyinchalik yozuvda tejamkorlik, aniqlik va fonematik shaffoflikni
+ta’minlash maqsadida maxsus [ñ] harfiga o‘tkazilgan. Bugungi kunda bu belgi
+ispan milliy yozuvining ajralmas timsoli
+va madaniy-texnik ustunligiga aylangan.
+Bu kabi tarixiy jarayonlar yozuv tizimlari jamiyat va texnologiya talablariga
+mos ravishda evolyutsiya qilishini yaqqol
+ko‘rsatadi.
+Uchinchidan, Xalqaro Fonetik Alifbo (IPA) va Unicode standarti talablari
+bugungi raqamli makonda hal qiluvchi
+ahamiyatga ega. Xalqaro Fonetik Alifboda bu tovush [ŋ] simvoli bilan qat’iy
+belgilangan. Shu bilan birga, zamonaviy
+global axborot tizimlarining xalqaro Unicode standartida [Ŋ] [ŋ], [Ñ] [ñ], [Ň] [ň]
+kabi harflar allaqachon universal kodlariga ega, ularni dunyodagi barcha operatsion va shriftlar tizimi, klaviaturalar to‘liq
+qo‘llab-quvvatlaydi. O‘zbek tilining bu
+xalqaro standartlarga to‘laqonli qo‘shilishi uchun alifbodagi mavjud digrafik
+bo‘shliqlarni bartaraf etish talab etiladi.
+XULOSA
+Zamonaviy o‘zbek yozuvi va tilshunosligi oldida turgan eng muhim va
+kechiktirib bo‘lmaydigan vazifalardan
+biri – [ng] digrafi bilan yozib kelinayotgan burun fonemasiga [Ŋ] [ŋ] yoki [Ñ]
+[ñ] kabi alohida, mustaqil grafemani
+berish dir. O‘tkazilgan tahlillar va xalqaro
+taj ribalar ko‘rsatadiki, bu ilmiy-amaliy
+qadam imlo islohoti, shuningdek,
+tilimizning kelajagini belgilab beruvchi
+uch asosiy strategik ustuvorlikni qamrab
+oladi:
+birinchidan, tilning tabiatini yozuvda
+to‘liq va haqqoniy aks ettiradi. Fonologik
+jihatdan til orqali hosil qilinadigan bu
+o‘ziga xos burun tovushi oddiy [n] va [g]
+harflarining sun’iy birikmasi emas, yaxlit
+va ayricha fonemadir. Tilshunoslikning
+o‘zgarmas “bir fonema uchun bir grafema” tamoyiliga tayangan holda alohida
+harfning joriy etilishi yozuv tizimidagi
+fonematik shaffoflikni ta’minlaydi va
+so‘zlarni noto‘g‘ri o‘qish hamda bo‘g‘inga bo‘lishdagi barcha chalkashliklarga
+barham beradi;
+ikkinchidan, imlo va ta’lim tizimini
+keskin soddalashtiradi. Boshlang‘ich sinf
+o‘quvchilari va tilimizni o‘rganayotgan
+chet elliklar duch keladigan grafik ziddiyatlar bartaraf etiladi. O‘quvchilar bitta
+harfni ko‘rib, darhol yagona tovush sifatida idrok etadilar, bu yozma nutqdagi
+imlo xatolarini kamaytirib, savodxonlik
+darajasini yangi bosqichga ko‘taradi;
+uchinchidan, o‘zbek tilini raqamli makon, sun’iy intellekt va NLP texnologiyalariga muammosiz integratsiya
+qilishni ta’minlaydi. Sun’iy intellekt
+modellarida tokenizatsiya xatoliklarini
+nolgacha tushirish, ovozli texnologiyalar
+(TTS/STT) va mashina tarjimasining
+aniqligini oshirish uchun har bir fonemaning o‘ziga xos yagona simvoli bo‘lishi shart. Xalqaro Unicode standartlariga to‘la mos keluvchi bu islohot o‘zbek
+tilining global axborot makonidagi
+mavqeyini mustahkamlaydi.
+Mutaxassis minbari “NG” – MUSTAQIL MILLIY FONEMAMIZ,
+UNGA ALOHIDA HARF KERAKMa rifat www.marifat.uz /marifat.uz @marifatziyo QR-kodni skanerlang va 2026-yil 5-avgust, № 31(9616)
+10 mobil ilovani yuklab oling.
+O‘y
+1875-yili Samarqandda Mahmudxo‘ja Behbudiy, 1878-yili
+Toshkentda Abdulla Avloniy,
+1886-yili Buxoroda Abdurauf Fitrat, 1889-yili Qo‘qonda Hamza
+Hakimzoda, 1894-yili Toshkentda Abdulla Qodiriy, 1897-yili
+Andijonda Abdulhamid Cho‘lpon
+tug‘ildi. Ular Turkistonning turli shaharlarida, turli vaqtlarda
+tug‘ilgan bo‘lishiga qaramay, “tilda, fikrda, ishda birlikda...” edi.
+Hatto, bir-birlarini tanimasa-da,
+matbuot orqali maslakdosh, maqsadlari doimo mushtarak edi. Ular
+millat va yurt qayg‘usi bilan yashadi. Ana shu qayg‘u bilan aziz
+jonlaridan judo bo‘ldilar.
+Jadidlar o‘zlari yashagan jamiyatda qanday muammo bo‘lsa,
+darrov u muammoni bartaraf etish
+uchun harakat qilganlar. Ana shu
+nuqtayi nazardan biz, jadid ajdodlarning yangi avlodlari, bugungi jamiyatda yashayotgan millatdosh, vatandoshlar ham jadidlar
+singari qadamida uchragan, ko‘zi
+bilan ko‘rib, qulog‘i bilan eshitib
+turgan muammolarni bartaraf etish
+uchun o‘z hissamizni qo‘shishimiz
+lozim.
+Bu haqda O‘zbekiston Respublikasi Prezidenti Shavkat Mirziyoyev 2023-yilning 22-dekabr kuni
+bo‘lib o‘tgan Respublika Ma’naviyat va ma’rifat kengashining kengaytirilgan yig‘ilishida “Kim jadidlar yo‘lidan yurmas ekan bizlardan
+emas” degan edi.
+Prezident o‘z nutqida jadidlarning ma’rifatparvarlik g‘oyalari
+bugungi islohotlar bilan naqadar
+hamohang ekanini ta’kidlab, quyidagicha fikr bildirgan:
+Gʻoyalar hamohangligi: “Jadidlar g‘oyalari yangi O‘zbekiston
+strategiyasi bilan hamohangdir”.
+Islohotlar asosi: Davlat
+rahbari jadid bobolarimizning
+ma’naviy merosisiz va ular tanlagan ilm-ma’rifat yo‘lisiz mamlakat
+kelajagini tasavvur qilib bo‘lmasligiga urg‘u bergan.
+Milliy o‘zlik: Ushbu yig‘ilishda ma’naviyat, ta’lim va tarbiya
+masalalari “hayot-mamot masalasi” deb belgilandi.
+Shuningdek, 2023-yil
+11-12-dekabr kunlari Toshkentda
+o‘tkazilgan “Jadidlar: milliy o‘zlik,
+istiqlol va davlatchilik g‘oyalari”
+mavzusidagi xalqaro konferensiKulgingiz keladimi yoki yigʻlagingiz? Afsuski, bu xayoliy
+sahna emas. Bu – bugun baʼzi taʼlim muassasalarida, vazirlik va idoralarda, hatto xizmat koʻrsatish sohalarida bot-bot
+quloqqa chalinayotgan achchiq haqiqat.
+Biz qachondan beri oʻz davlatimizda oʻz tilimizda gapirish
+uchun kimdandir ruxsat soʻraydigan yoki kechirim soʻraydigan
+boʻlib qoldik? Maktab ixtisoslashgan boʻlishi mumkin, lekin
+O‘zbek bolalar o‘zbekcha matnni
+harflab ham o‘qiyolmayapti...
+hudud Oʻzbekiston! Oʻzbekistondagi har qanday maktab –
+u xoh ingliz, xoh rus, xoh xitoy tiliga ixtisoslashgan boʻlsin,
+birinchi navbatda Oʻzbekiston Respublikasining qonunlari va
+Konstitutsiyasiga boʻysunadi. Maktab ostonasidan ichkariga
+qadam qoʻygan odam boshqa davlatning chegarasini kesib
+oʻtgani yoʻq.
+Konstitutsiyamizning 4-moddasida ham, “Davlat tili
+haqida”gi qonunda ham oʻzbek tili davlat tili ekani qatʼiy
+belgilab qoʻyilgan. Qonunning 10-moddasi esa korxona
+va muassasalarda ish yuritish, yigʻilishlar davlat tilida olib
+borilishini talab qiladi. Shunday ekan, rasmiy pedagogik
+kengashda davlat tilida gapirgan oʻqituvchiga nisbatan hurmatsizlik qilish uni oyoqosti qilish yoki uni cheklash, shunchaki madaniyatsizlik emas, bu toʻgʻridan toʻgʻri qonunbuzarlikdir.
+Oʻzbekistonda yashab, davlat budjetidan oylik olib, davlat
+tili boʻlgan oʻzbek tilini mensimaslik, uni oʻrganishni istamaslik va buning ustiga boshqalarga ham taqiqlash – bu jamiyat, millat va davlatga nisbatan hurmatsizlikdir. Agar taʼlim
+muassasasidagi masʼul shaxsning saviyasi shunday boʻlsa, u
+ertaga oʻsib kelayotgan yosh avlodga qanday vatanparvarlikdan saboq beradi? U qaysi millat kadrini tarbiyalayapti?
+“Ruscha gapirsangiz, madaniyatliroq koʻrinasiz” kompleksi. Bu muammo faqat bitta maktab bilan cheklanib qolmagan. Shaharlarimizdagi nufuzli restoran, xizmat koʻrsatish
+maskanlariga kirsangiz, sizga oʻzbekcha javob berishni oʻziga
+ep koʻrmaydigan yoshlarni koʻrib ichingiz achiydi. Goʻyoki
+rus tilida gapirish – elitarlik, madaniyatlilik belgisi-yu, oʻz
+ona tilida gapirish – qoloqlikday.
+Biz chet tilini oʻrganishga qarshi emasmiz. Zero, til bilgan el biladi. Rus, ingliz, nemis tillarini mukammal bilaylik.
+Ammo bu tillar oʻzbek tilini siqib chiqarish, uni kamsitish
+hisobiga boʻlmasligi kerak. Dunyoning qaysi rivojlangan
+davlatida oʻz ona tilida gapirgani uchun oʻz fuqarosini kamsitadilar? Fransiyadami? Germaniyadami? Yoki Rossiyadami?
+Yoʻq, hech qayerda!
+Toki biz “andisha”, “mehmonnavozlik” yoki “andishaning oti qoʻrqoq” qabilida ish tutib, tilimizga boʻlayotgan
+hurmatsizlikka jim qarab turar ekanmiz, bunday holatlar
+koʻpayaveradi. Maktab maʼmuriyati va vazirlik bunday “pedagoglar”ning xatti-harakatiga huquqiy baho berishi, kerak
+boʻlsa chora koʻrishi shart. Davlat tilini bilmaslik va uni mensimaslik – professional layoqatsizlik deb baholanishi lozim.
+Tarixda tillar qurol kuchi bilan emas, shu til egalarining
+loqaydligi va bepisandligi tufayli yoʻq boʻlib ketgan. Oʻzbek
+tili yashashi, yuksalishi uchun biz avvalo oʻzimiz unga gʻurur
+bilan munosabatda boʻlishimiz kerak. Maktabda oʻzbekcha
+gapirgani uchun kamsitilgan oʻqituvchiga esa aytar soʻzimiz:
+Siz haq tomondasiz! Siz qonun va adolat tomonidasiz. Oʻz
+yurtingizda qaddingizni tik tuting. Zero, bu til orqasidan non
+yeb, unga tosh otayotganlar ertaga tariqdek sochilib ketadi,
+ona tilimiz esa mangu yashaydi!
+Muhammadali RO‘ZIBOYEV,
+O‘zbekiston Respublikasi Oliy Majlisi Senati huzuridagi
+Yoshlar parlamentining faollar jamoasi a’zosi
+O‘z yurtimizda ona tilimiz
+qachongacha kamsitiladi?
+Buxoro viloyati Kogon shahridagi
+10-maktabda Pedagogik kengash
+yig‘ilishi ketyapti. O‘qituvchilardan biri
+o‘z vatanida, rasmiy yig‘ilishda o‘zbek
+tilida fikrini bayon etmoqda. Ammo
+kutilmaganda maktabning kasaba
+uyushmasi raisi unga rus tilida savol
+berdi, ammo o‘qituvchi unga o‘zbek
+tilida murojaat qilishini aytdi. Rus tilida
+savol bergan kasaba uyushmasi raisi
+yoki boshqa bir hamkasbi unga e’tiroz
+bildirdi: “Bu yer ta’lim rus tilida olib
+boriladigan maktab, bu yerda faqat
+rus tilini biladiganlargina ishlaydi”.
+XX asr boshlarida jadidchilik harakati mustamlaka
+ostida ezilgan, haq-huquqi, erki, o‘zligi, tilidan
+ayrilgan davlatlarda boshlandi. Jadidlar o‘zlari
+yashab turgan mamlakatlardagi ijtimoiy-siyosiy,
+iqtisodiy, ma’naviy-ma’rifiy muammolarni
+ko‘tardilar va muammolarni bartaraf etish
+uchun astoydil kurashib, aziz jonlarini fido
+qildilar. Ushbu fikr isbotini jadid adabiyotining
+namoyandalari misolida ko‘ramiz.
+Azimjon DAVRONOV,
+filologiya fanlari bo‘yicha
+falsafa doktori, dotsent
+yada ham Prezidentning jadidlar
+merosini o‘rganish bo‘yicha murojaati o‘qib eshittirilgan edi.
+Jadidlar harakatining asosiy yo‘nalishlaridan biri “milliy
+o‘zlik, istiqlol va davlatchilik
+g‘oyalari”, Prezident so‘zlarida
+ham aynan ana shu masalaga urg‘u
+berilgan.
+Vaziyat shunday ekan, nega
+yangi ochilgan va ochilayotgan
+xususiy maktablarda ta’lim rus tilida berilayapti? Ta’lim tilini milliy
+tilga aylantirish vaqti kelmadimi?
+Agar u kelmagan bo‘lsa, qachon
+keladi? Ushbu savollarga qaysi
+mutasaddi javob beradi?
+Ayni rus tilida ochilgan
+maktablarda o‘zbek tiliga e’tibor qanday bo‘layapti? Buni kim
+nazorat qilayapti? Jadidlar nima
+uchun millatim, tilim, o‘zligim
+deb kurashgan? Ayni holat davom
+etaversa, millat, til, o‘zlik yo‘qolib
+ketmaydimi?
+Respublika o‘quv metodika
+markazi tomonidan tasdiqlangan
+dasturda ta’lim rus va boshqa tillarda olib boriladigan maktablarda
+o‘zbek tili haftasiga 3 soat o‘tilishi belgilangan. Ammo, ta’lim
+rus tilida olib boriladigan xususiy
+maktablarda o‘zbek tili haftasiga
+nomiga 2 marta o‘tiladi, jurnalga 3 marta o‘tildi deb yoziladi.
+Ayrimlarida o‘zbek tili umuman
+o‘tilmaydi, sabab – ushbu maktablarda ta’lim oladigan o‘quvchilar
+va ularning ota-onalari farzandlarini o‘zbek tilini o‘rganishidan
+bosh tortadi. Vaholanki, maktab
+ta’limida o‘qitiladigan fanlar xususiy maktabdami yoki davlatnikida,
+u maj buriy bo‘lishiga qaramay,
+o‘zbek tilini o‘qishdan ixtiyoriy
+ravishda bosh tortiladi.
+Achinarlisi shundaki, mazkur
+maktablarda ta’lim olgan o‘zbeklar
+o‘z millatiga xos xarakter, xususiyat, madaniy va ma’naviy fikr bilan ulg‘aymayapti. Ularda o‘zbek
+tili va millatiga nisbatan nafrat
+tuyg‘ulari shakllanyapti. Ayni holat
+va tuyg‘ular, ular xususiy universitetlarda o‘qishni davom ettirayotgan paytda namoyon bo‘lyapti.
+Ta’lim rus tilida olib boriladigan universitet talabalariga
+o‘zbek tilidan darsga kiraman.
+O‘zbek bolalar o‘zbekcha matnni harflab ham o‘qiyolmayapti va
+o‘qishni umuman xohlamayapti.
+Matnni o‘zim o‘qib berayapman.
+Matn mazmunini tushunmayapti,
+tushunishni ham xohlamayapti.
+Talabalardan holatning sababini
+so‘raganimda biz maktabda umuman o‘zbek tili o‘qimaganmiz,
+qolaversa bu til bizga nimaga kerak
+deb, nafratini yashirmayapti. Mana
+haqiqiy ahvol. Bu holatlarga maktab va universitetda shaxsan o‘zim
+guvoh bo‘lganman. Ushbu maktab va universitetlarning manzili
+kimga qiziq bo‘lsa manzilini ham
+ko‘rsataman.
+Ushbu noxush manzarani “ayol
+o‘z turmush o‘rtog‘idan emas,
+boshqa birovdan farzand ko‘rishni
+istashi”, “dunyoni o‘z ko‘zi bilan
+emas, boshqa kishining ko‘zi bilan
+ko‘rishi”, “ovozni o‘z qulog‘i bilan emas, o‘zga kimsaning qulog‘i
+bilan eshitishi”, “qiz va yigit birbirini o‘z yuragi bilan emas, begona odamning qalbi bilan sevishi”ga
+o‘xshatish mumkin.
+Jadidlar millatimiz bunday
+millat bo‘lishini orzu qilmagan.
+O‘zbek millatining shunday gibridlashishidan juda qo‘rqqan.
+Boshqa tilda tafakkur qilgan kishi “tilda, fikrda, ishda birlikda...”
+bo‘lolmaydi.
+Rus tilidagi xususiy maktab va
+xususiy universitetlarning ochilishiga davlat tomonidan ruxsat
+berilmasligi kerak. Shu kungacha ta’lim rus tilida olib boriladigan davlat va xususiy maktablarni o‘zbekchaga o‘tkazish vaqti
+allaqachon o‘tib ketgan. U maktablarda dars beradigan rus va boshqa millatlarga mansub o‘qituvchilar marhamat qilib, o‘zbek tilini
+o‘rganib kuch va bilimlarini o‘zbek
+maktabida o‘zbek tili va o‘zbek
+davlatining mavqeyini yuksaltirishga sarflashi kerak. Bu ishlarga barham berish vaqti allaqachon
+kelgan. Agar ahvol shu tarzda
+davom etaversa, 2026-yilning
+9-may kuni “Birodarlik” xiyobonida ro‘y bergan ikkiyoqlama
+qarashlar kurashi keskin millatlararo ziddiyatlarni keltirib chiqarishi
+mumkin. Rus tilida ta’lim olgan
+o‘zbek, o‘zbek millati va O‘zbekiston davlati uchun begona bir
+individ bo‘lib qolaveradi.2026-yil 5-avgust, № 31(9616) QR-kodni skanerlang va @marifatziyo /marifat.uz www.marifat.uz Ma rifat
+mobil ilovani yuklab oling. 11
+Har bir til tovushlardan iborat va ular birikib o‘sha
+tilning nutq tizimi, so‘z va gaplarni hosil qiladi. Tovushlar barcha tillarda mavjud bo‘lsa-da, ular milliy
+bo‘yoqqa ham ega. Yaratgan har bir millat vakiliga
+o‘ziga xos nutq organlarini ato etganki, ona tilimizda
+ham alohida mavqega ega bo‘lgan bir tovush bor.
+Bu hosil bo‘lish o‘rniga ko‘ra til orqa, ovoz va
+shovqinning ishtirokiga ko‘ra sonor (ovozdor)
+bo‘lgan NG tovushidir. U hozirgacha qo‘llanib kelayotgan kirill alifbosi va shu kunda qisman amalda
+bo‘lgan lotin yozuvida ikki belgi, n va g bilan yozib
+kelinmoqda. Bunday yozish bir tovush – bir belgi
+prinsipiga zid bo‘lishidan tashqari, ushbu tovush
+buzuq talaffuz qili nishiga sabab bo‘lmoqda va uning
+keyingi taqdiri xavf ostida qolmoqda. Ayrim boshlovchilar, estrada xonandalarimiz “keling”, “yuring”
+kabi so‘zlarni “kelin-g”, “yurin-g” tarzida noto‘g‘ri
+ayta boshladi. Bu tovushning buzuq talaffuz qilinishi
+tilimizning nafosatiga soya tashlay boshladi.
+Yaqinda “Yangi alifbo loyihasi” e’lon qilingan edi.
+Mazkur loyihada Sh, Ch harflari muammosi to‘g‘ri
+hal etilgan. Umuman, bu loyiha bo‘yicha qizg‘in
+bahslar bo‘ldi. Lekin, to‘g‘risini aytganda, ba’zi o‘rinli, muhim fikrlarni to‘liq aytishga vaqt yetishmadi.
+Shuning uchun ham “Yangi alifbo loyihasi” muhokamasini yana bir muddatga cho‘zishga qaror qilinganligini ma’qullaymiz.
+Biz quyida yangi loyihaning asosiy kamchiliklaridan biri bo‘lgan ng tovushi uchun yaxlit bir harf
+belgilanmagani haqida fikr yuritamiz.
+Shuni alohida ta’kidlash lozimki, 1929- va
+1993-yillardagi lotin grafikasiga asoslangan o‘zbek
+alifbolarida ng tovushi uchun yaxlit bir harf olingan
+edi. Bundan tashqari, qozoq, qirg‘iz, uyg‘ur, qoraqalpoq, boshqird, tatar singari turkiy tillar alifbolarida
+mazkur tovush yaxlit bir harf bilan berilgan.
+Ba’zilar ng tovushi bir harf bilan ifodalanmaganining asosiy sababi kirildan lotinga transliteratsiya
+qilishda menga, senga kabi ng tarzidagi holatlarni
+tarjimon lingvistik dasturlar farqlay olmaydi hamda
+tong, bong so‘zlaridagi kabi ng tarzida transliteratsiya qiladi, qabilida tushuntiradilar. Bunday muammo
+ng tovushi bitta yaxlit harf bilan belgilangan turkiy xalqlarda yo‘q-ku? Qolaversa, bizningcha sen va
+men olmoshlariga -ga qo‘shimchasi qo‘shilsa, n va
+g tovushlari qo‘shilib ng tovushiga aylanadi. Bu holatni mumtoz adiblarimiz, jumladan Navoiyda ham
+kuzatish mumkin.
+Ta’kidlash lozimki, ushbu fonemani ng shaklida
+ikki harf bilan ifodalaganda, o‘quvchilar, talabalar
+va ba’zi yurtdoshlarimiz nutqida jiddiy xatolar teztez uchrab turibdi. Masalan, oling, qoling, yozing,
+bizning singari so‘zlardagi ng ni bitta tovush sifatida emas, balki mazkur so‘zlardagi n va g larni
+alohida-alohida tovush sifatida talaffuz qilinmoqda.
+Ayniqsa II (shaxs hurmat shakli -ngiz ga bir g orttirilib talaffuz etilmoqda: kitobinggiz, hayotinggiz,
+sog‘lig‘inggiz kabi.
+Lotin yozuviga asoslangan o‘zbek alifbosini
+joriy etish to‘g‘risidagi qonun loyihasining asosiy
+maqsadlaridan biri harfiy birikmalarni “bir tovush –
+bir harf” prinsipiga ko‘ra ifodalashdir. Shunga muvofiq ng fonemasini ifodalash uchun harfli birikma
+o‘rniga yaxlit bir harf olinishi lozim.
+So‘zimiz avvalida ushbu go‘zal tovushimizni
+baxtiqaro dedik. Chunki u haligacha o‘ziga mos bir
+belgi ololmay arosatda qolmoqda. Lekin uning ham
+bir kun kelib baxti ochilishi kerak-ku! Bu istiqlol
+davrida, yangi O‘zbekiston sharoitida ro‘y bermasa,
+qachon ro‘y beradi? Ona tilimizning nuqssiz go‘zalligi barchamizning orzumiz emasmi?
+(“Ma’rifat” gazetasining 2021-yil 12-may
+sonidan olindi.)
+IKKINCHI MAQOLA
+Tovush tirik hodisa. U nafas bilan, jon va qalb bilan
+bevosita bog‘liq.
+“Yangi alifbo loyihasi”ning muhokama muddati cho‘zilgani yaxshi bo‘ldi. Chunki bu ulkan va
+muhim masala bo‘lib, alifboning milliy til tabiatiga,
+tovush tizimiga imkon qadar mutanosib bo‘lishi nafaqat ona tilimiz, balki ona Vatanimiz taraqqiyotida
+ham muhim ahamiyat kasb etadi. Bu – mubolag‘a
+emas. Odamlarimiz chiroyli gapirishi, har bir so‘z va
+tovushni to‘g‘ri, aniq talaffuz qilishi yangi taraqqiyot bosqichiga kirgan mamlakatimizning ruhiyma’naviy iqlimiga ijobiy, xayrli ta’sir o‘tkazishi tayin.
+Pala-partish so‘zlash, xom-xatala yozish, agar bu
+epidemiya darajasiga chiqsa, hech qachon yaxshilikka olib kelmaydi. Hech qachon ezgu natija bermaydi.
+Mintaqamizda ro‘y bergan birinchi Renessans
+ijodkorlaridan biri, buyuk faylasuf bobomiz Abu
+Nasr Forobiy qomusiy olim sifatida o‘zining “Kitab
+marobit al-ulum” (“Fanlarning kelib chiqishi”) asarida tovush ilmi haqida fikr yuritib, yozadi:
+“Bu ilm shu ma’noda foydaliki, u muvozanatini
+yo‘qotganlarning xulq-atvorini tartibga soladi, komillikka erishmaganlarni komillikka yetaklaydi va
+muvozanatda bo‘lganlarni muvozanatda tutib turadi.
+Bu ilm tana sog‘lomligi uchun ham foydali, chunki
+tana bemor bo‘lganda qalb ham shikastlanadi, tana
+to‘siqqa uchraganda qalb ham to‘siqqa uchraydi.
+Binobarin, qalb shifo topgani kabi tana ham shifo
+topadi, qalbning quvvati shunday harakat sodir etuvchi tovushlar sharofati bilan muvozanatlashadi, ham
+javharga moslashadi”.
+Agar e’tibor berilsa, buyuk alloma tovushlar hamda u haqdagi ilmni qalb javhari, substansiya bilan
+bog‘lamoqda. Bundan yana shunday ma’no chiqadiki, tilda muayyan tovushning buzilishi, noto‘g‘ri
+talaffuz etilishi milliy qalb javhariga shikast yetkazishi mumkin. Ma’lumki, yangi davrdagi o‘zbek
+tilshunosligi, jadid bobolarimizning qisqa faoliyatini
+aytmaganda, asosan sovet davrida shakllandi. O‘sha
+davrda qabul qilingan talay imloviy va fonetik qoidalarda sovet mafkurasining zararli izlari yaqqol
+seziladi. Milliy tovushimiz “ng” (hozircha shunday
+yozishga majburmiz) uchun ikki harf olinishi bekorga, tasodifiy qilingan deysizmi? Yo‘q. Ona tilimizni imkon qadar buzish, katta og‘alar tiliga o‘rin
+bo‘shatish zarur edi. Nahotki, shu mash’um xatoni
+istiqlol davrida bilib turib takrorlasak?!
+Yaqinda shu tovush haqida bir tilshunos bilan
+gaplashib qoldim. U “ng” uchun ikki harf olish
+tarafdori ekanligi, agar bir harf olinsa qo‘pol xato
+bo‘lishini qat’iyat bilan aytib, o‘z “dalil”larini keltirar ediki, ular oldida ikki harfli “ng”ning amaliyotdagi buzg‘unchiligi go‘yo hech gap emasdek...
+Tilshunoslik ilmi va til siyosati vatanparvarlikni
+talab qiladi. Prezidentimiz katta umidlar bilan tashkil qilgan Davlat tilini rivojlantirish departamenti va
+“Lotin yozuviga asoslangan o‘zbek alifbosini joriy
+etish to‘g‘risida”gi qonun loyihasini tayyorlaydigan
+ishchi guruhi boshida vatanparvar tilshunoslar turishi
+lozim. Men bu bilan ular vatanparvar emas, deyishdan yiroqman. Lekin ularning xatti-harakati, amaliy
+ish faoliyati ko‘p narsani belgilaydi. Xulosa chiqarishga imkon beradi.
+Zero, til ham Vatandir, Vatanning ulug‘ uzvidir.
+Keskinligim uchun kechirim so‘rab, aytamanki,
+“ng” tovushi uchun ikki harf olish kerak deguvchilarning “dalil”lari mutlaqo ilmiy asosga ega emas. Qator
+qardosh turkiy xalqlar ushbu tovush uchun bir harf
+olishgan va bu bilan osmon uzilib yerga tushgan
+emas. Faqat yaxshi bo‘lgan, xolos.
+Ishchi guruh “ng” tovushi uchun bir harf olish
+tarafdorlarining fikrini inobatga olishi zarur. Bu,
+nafaqat ilmiy-amaliy, balki umummilliy masala.
+Qolaversa, falsafiy masala.
+Mumtoz romanimiz “O‘tkan kunlar”da shunday
+bir sahna bor. Toshkentda xonlikka qarshi qo‘zg‘olon
+ko‘tarilgach, Toshkent hukmdori Azizbekning yaqin odami bo‘lgan Yusufbek hojining o‘g‘li Otabek
+Qo‘qonda buzg‘unchilikda ayblanib, “xonning yonidag‘i xoqon” Musulmonqulga ro‘baro‘ kelganda,
+uning savollariga javob berishdan ko‘ra sukutni afzal
+ko‘radi:
+“Chindan ham Musulmonqul bu sukutdan tahqirlandi, tutuni ko‘kka ko‘tarilar ekan baqirdi:
+– Nega javob bermaysan?!
+– Siz meni qanday tanig‘an bo‘lsangiz – bo‘lingiz, men, o‘shandog‘ kishining o‘g‘li, – dedi bek. –
+Men bilan otam siz bilan qushbegiga bir necha turlik
+bo‘lib tanilsak-da, o‘z vijdonimiz oldida bir turlikkinadirmiz! Shuning uchun siz tilagan tarafi ngizga
+hukm qilingiz-da, buyrug‘ingizni beraveringiz!”.
+Bu mashhur lavhani keltirishimizdan maqsad,
+birinchidan, undagi “ng”larning go‘zal ishtiroki
+va tarovatini ta’kidlash, ikkinchidan, ishchi guruh
+a’zolari xuddi Musulmonqul kabi bir harf tarafdorlari
+fikrini bir chetga surib qo‘yib, o‘zlari tilagan tarafga
+hukm qilib, buyruqlarini beravermasalar, deymiz.
+Milliy tovush bilan o‘ynashib bo‘lmaydi. Yuqorida aytilganidek, tovush ham tirik hodisa. Shunday
+ekan – baxtiqaro “ng” baxti ochilishini kutmoqda.
+(“Ma’rifat” gazetasining 2021-yil 23-iyun
+sonidan olindi.)
+Tahririyatdan:
+Oliy Majlis Qonunchilik palatasining 7-iyul
+kungi majlisida “Lotin yozuviga asoslangan
+o‘zbek alifbosini joriy etish to‘g‘risida”gi
+O‘zbekiston Respublikasi Qonuniga
+o‘zgartirish kiritish haqida”gi qonun loyihasi
+qabul qilinib, Senatga taqdim etildi. Ammo
+jamoatchilikda takomillashtirilishi kutilayotgan
+alifbomizdan “ng” harf birikmasining
+chiqarilgani ko‘plab muhokamalarga sabab
+bo‘lmoqda. Gazetamizning 2021-yilgi
+sonlarida ayni mavzu yuzasidan maqolalar
+e’lon qilingan edi. Mavzuning dolzarbligi
+nuqtayi nazaridan Suvon Melining ushbu
+maqolasini qaytadan e’tiboringizga havola
+etishga qaror qildik.
+Bong “ ”
+Suvon MELI,
+filologiya fanlari doktoriMa rifat www.marifat.uz /marifat.uz @marifatziyo QR-kodni skanerlang va 2026-yil 5-avgust, № 31(9616)
+12 mobil ilovani yuklab oling.
+keng va sifatli taqdim etilsa, o‘zbek tilining ilm-fan va innovatsiyalar sohasidagi mavqeyi ham shunchalik mustahkam
+bo‘ladi.
+Sun’iy intellekt XXI asrning eng
+muhim texnologik yutuqlaridan biri bo‘lib,
+bugungi kunda tilshunoslik va kommunikatsiya sohalarida ham keng qo‘llanilmoqda. Nutqni avtomatik tanish, mashina
+tarjimasi, ovozli yordamchilar va matn
+yaratish tizimlari inson faoliyatining ajralmas qismiga aylanib bormoqda. Ushbu jarayonda o‘zbek tili bilan bir qatorda uning
+lahja va shevalarini ham raqamli muhitga
+olib kirish muhim vazifalardan biri hisoblanadi.
+Dialektlarning sun’iy intellekt tizimlariga integratsiya qilinishi bir qator imkoniyatlarni yaratadi. Avvalo, bu nutqni
+avtomatik tanish texnologiyalarining
+aniqligini oshiradi. Masalan, turli hududlarda yashovchi insonlarning talaffuz xususiyatlari va mahalliy so‘zlaridan foydalanishi tizim tomonidan to‘g‘ri qabul
+qilinishi mumkin bo‘ladi.
+Sun’iy intellekt yordamida yo‘qolib
+borayotgan shevalarni saqlash ham mumkin. Audio yozuvlar, videomateriallar va
+matnli ma’lumotlar maxsus platformalarda
+jamlanib, kelajak avlodlarga yetkaziladi.
+Bu esa milliy madaniy merosni asrashning
+zamonaviy usullaridan biri hisoblanadi.
+Kelajakda sun’iy intellekt asosida
+ishlaydigan ovozli yordamchilar, tarjima
+tizimlari va ta’lim platformalari o‘zbek
+tilining turli shevalarini ham tushuna oladigan darajaga yetishi mumkin. Bu esa
+nafaqat texnologik taraqqiyotga, balki til
+boyligi va madaniy xilma-xillikning saqlanishiga ham xizmat qiladi. Sun’iy intellekt
+va shevalar integratsiyasi hozirgi o‘zbek
+adabiy tilining raqamli rivojlanishidagi
+eng istiqbolli yo‘nalishlardan biri bo‘lib,
+ilm-fan, ta’lim va madaniyat sohalarida
+yangi imkoniyatlarni yuzaga chiqaradi.
+Kelajakda sun’iy intellekt, raqamli
+texnologiyalar, elektron lug‘atlar va ilmiy
+tadqiqotlar yordamida o‘zbek tilining
+imkoniyatlari yanada kengayadi. Shevalar
+esa milliy madaniyatning ajralmas qismi
+sifatida saqlanib, ilmiy jihatdan chuqur
+o‘rganiladi.
+Shunday ekan, o‘zbek adabiy tili va
+shevalarining ilm-fandagi istiqboli porloq
+bo‘lib, ular nafaqat milliy taraqqiyotga,
+balki jahon ilmiy hamjamiyatidagi o‘rnimizning mustahkamlanishiga ham xizmat
+qiladi.
+ning izlarini saqlab qolgan bo‘ladi. Masalan, qipchoq, qarluq va o‘g‘uz lahjalarining o‘ziga xos jihatlari turkiy xalqlarning
+tarixiy shakllanish jarayonlarini o‘rganishda muhim ahamiyat kasb etadi. Dialektologiya fanining asosiy vazifalaridan
+biri ham shevalarni o‘rganish, tasniflash va
+ilmiy tavsiflashdan iborat. Dialektologik
+tadqiqotlar natijasida tilning hududiy
+tarqalishi, fonetik, leksik va grammatik
+xususiyatlari aniqlanadi. Bu ma’lumotlar
+adabiy til me’yorlarini takomillashtirish va
+til siyosatini yuritishda ham muhim ahamiyatga ega.
+Bugungi kunda raqamli texnologiyalar
+va sun’iy intellekt rivojlanishi natijasida sheva va lahjalarning ilmiy ahamiyati yanada ortmoqda. Nutqni avtomatik
+tanish, ovozli yordamchilar, mashina tarjimasi va til modellari yaratishda shevalarga oid ma’lumotlar bazasidan foydalanish
+zarur bo‘lmoqda. Bu esa lahja va shevalarni zamonaviy ilm-fan uchun dolzarb tadqiqot obyektiga aylantirmoqda.
+Sheva va lahjalar xalqning ma’naviy
+boyligi va madaniy merosining ajralmas
+qismidir. Ular xalqning turmush tarzi,
+urf-odatlari, qadriyatlari va dunyoqarashini o‘zida mujassamlashtiradi. Har bir
+hudud shevasida o‘sha hududning tabiati,
+xo‘jaligi, kasb-kori va madaniy hayotiga
+oid ko‘plab so‘zlar mavjud bo‘lib, ular
+milliy madaniyatning o‘ziga xos qirralarini aks ettiradi.
+Sheva va lahjalarni asrashning dolzarbligi. Globallashuv, urbanizatsiya va
+axborot texnologiyalarining jadal rivojlanishi natijasida ayrim shevalarning faol
+qo‘llanish doirasi qisqarib bormoqda.
+Ayrim mahalliy so‘zlar va nutq xususiyatlari asta-sekin iste’moldan chiqib ketish
+xavfi ostida qolmoqda. Shu sababli sheva
+va lahjalarni ilmiy asosda o‘rganish, yozib
+olish, elektron lug‘atlar yaratish hamda
+raqamli arxivlarda saqlash muhim vazifalardan biri hisoblanadi.
+Kelajakda shevalar bo‘yicha elektron
+korpuslar yaratish, audio va video materiallarni to‘plash, ilmiy tadqiqotlarni kengaytirish hamda yosh avlodning ushbu
+boy merosga qiziqishini oshirish orqali
+ularni asrab qolish mumkin. Bu nafaqat til
+boyligini saqlashga, balki xalqning tarixiy
+va madaniy merosini kelajak avlodlarga
+yetkazishga ham xizmat qiladi.
+Til taraqqiyoti uchun sifatli ilmiy
+adabiyotlarning mavjudligi muhim omil
+hisob lanadi. Shu bois kelajakda tabiiy
+va aniq fanlar bo‘yicha o‘zbek tilidagi
+zamonaviy darslik, qo‘llanma va elektron
+resurslar yaratish zarurati yanada ortadi. Chunki ilm-fanning rivojlanishi ko‘p
+jihatdan uning ona tilida qay darajada ifodalanishi bilan bog‘liq.
+Raqamli ta’lim texnologiyalarining
+rivojlanishi ham til taraqqiyotiga yangi
+imkoniyatlar yaratmoqda. Virtual laboratoriya, onlayn kurslar, sun’iy intellekt
+asosidagi o‘quv dasturlari va elektron kutubxonalar o‘quvchilarga bilimlarni tez
+va samarali egallash imkonini bermoqda.
+Ushbu tizimlarning o‘zbek tilida faoliyat
+yuritishi esa tilning ilmiy va texnologik
+imkoniyatlarini kengaytiradi.
+Kelajakda ta’lim tizimi va til taraqqiyoti yanada uzviy bog‘lanib boradi.
+Zamonaviy bilimlar ona tilida qanchalik
+larga istalgan vaqtda va istalgan joyda
+kerakli ma’lumotni tez topish imkoniyatini
+yaratadi. Kelajakda multimedia lug‘atlari,
+ovozli izohlar va interaktiv platformalar
+yanada ommalashishi kutilmoqda.
+Globallashuv sharoitida turli tillar
+o‘rtasidagi axborot almashinuvi muhim
+ahamiyat kasb etadi. Shu sababli avtomatik tarjima texnologiyalari jadal rivojlanmoqda. O‘zbek tilidan ingliz, rus, turk,
+arab va boshqa tillarga (hamda aksincha)
+sifatli tarjima qilish imkoniyatlarining
+kengayishi ilm-fan va xalqaro hamkorlik
+rivojiga xizmat qiladi. Ta’lim tizimining
+raqamlashtirilishi o‘zbek tilining rivojlanishida muhim rol o‘ynamoqda. Elektron
+darsliklar, videoma’ruzalar, masofaviy
+ta’lim platformalari va virtual laboratoriyalar ta’lim sifatini oshirish bilan birga,
+o‘zbek tilida ilmiy bilimlarning keng tarqalishiga ham xizmat qilmoqda. Ayniqsa,
+qishloq hududlaridagi o‘quvchilar va talabalar uchun onlayn ta’lim platformalari
+katta imkoniyat yaratmoqda. Ilmiy-texnik
+taraqqiyot sharoitida sun’iy intellekt asosida ishlovchi virtual o‘qituvchilar va individual ta’lim tizimlari o‘zbek tilida ham
+faoliyat yuritishi mumkin.
+Raqamli texnologiyalarning yana bir
+istiqbolli yo‘nalishi ovozli texnologiyalardir. Nutqni avtomatik tanish va
+matnga aylantirish, shuningdek, matnni
+ovoz shaklida o‘qib berish tizimlari kundalik hayotda tobora keng qo‘llanmoqda.
+O‘zbek tilida bunday texnologiyalar
+rivojlanishi:
+● imkoniyati cheklangan shaxslar
+uchun qulaylik yaratadi;
+● davlat xizmatlaridan foydalanishni yengillashtiradi;
+● ta’lim jarayonini takomillashtiradi;
+● ilmiy ma’lumotlardan foydalanishni tezlashtiradi.
+Kelajakda ovoz orqali boshqariladigan
+qurilmalar va xizmatlarning o‘zbek tilida
+ishlashi odatiy holga aylanishi mumkin.
+O‘zbek tilining raqamli rivoji uchun
+bir qator muhim vazifalarni amalga
+oshirish zarur. Jumladan:
+● o‘zbek tilidagi elektron resurslarni ko‘paytirish;
+● ilmiy terminologiyani standartlashtirish;
+● milliy til korpuslarini kengaytirish;
+● sun’iy intellekt uchun ma’lumotlar bazalarini yaratish;
+● dasturiy ta’minot va mobil ilovalarda o‘zbek tilini keng joriy etish.
+Bu vazifalarning bajarilishi o‘zbek
+tilining raqamli makondagi mavqeyini
+mustahkamlaydi va uning ilm-fan hamda
+texnologiyalar sohasidagi imkoniyatlarini
+yanada kengaytiradi.
+Sheva va lahjalarni o‘rganish xalqning
+etnik tarixi va kelib chiqishini aniqlashda
+ham muhim rol o‘ynaydi. Chunki ayrim til
+xususiyatlari qadimgi qabila va urug‘larO‘ZBEK ADABIY TILI VA DIALEKTLAR:
+XXI asr ilm-fanida ularning ilmiy rivojlanish konsepsiyasi
+Mutaxassis minbari
+Umida IBROHIMOVA,
+University of Business and Science
+professori
+O‘zbek adabiy tilining ilm-fandagi
+ahamiyati uning xalqaro ilmiy hamkorlikdagi o‘rni bilan ham belgilanadi. Hozirgi
+kunda ko‘plab ilmiy maqola va tadqiqotlar
+xorijiy tillarda chop etilayotgan bo‘lsada, ularning o‘zbek tiliga tarjima qilinishi
+va mahalliy ilmiy muhitga tatbiq etilishi
+muhim vazifalardan biridir. Shu bilan birga, o‘zbek olimlarining ilmiy ishlari ham
+ona tilida yaratilishi va milliy ilmiy maktablarning shakllanishiga xizmat qilishi
+zarur.
+Raqamli texnologiyalar rivoji adabiy
+tilning ilm-fandagi ahamiyatini yanada
+oshir moqda. Elektron lug‘atlar, til korpuslari, avtomatik tarjima tizimlari, sun’iy
+intellekt asosidagi dasturlar va ilmiy ma’lumotlar bazalarining yaratilishi o‘zbek tilining ilmiy salohiyatini kengaytirmoqda.
+Kelajakda o‘zbek tilida ishlaydigan aqlli
+qidiruv tizimlari, virtual laboratoriyalar
+va ilmiy yordamchi dasturlar soni ortishi
+kutilmoqda. Adabiy til milliy ilm-fanning
+mustaqil rivojlanishida ham muhim omil
+hisoblanadi. Fan faqat chet tillari orqali
+emas, balki ona tilida ham rivojlangandagina keng xalq ommasiga yetib boradi.
+Shu sababli o‘zbek adabiy tilining ilmiy
+uslubini boyitish, yangi terminlarni yaratish va ilmiy adabiyotlar sonini ko‘paytirish bugungi kunning dolzarb vazifalaridan biridir.
+Matn yaratish, nutqni tanish, avtomatik
+tarjima, ovozli yordamchilar va chatbotlar inson faoliyatining ko‘plab sohalariga
+kirib bormoqda. O‘zbek tilining bunday
+tizimlarga moslashtirilishi kelajakdagi
+eng muhim vazifalardan biri hisoblanadi.
+Sun’iy intellekt tizimlari samarali ishlashi
+uchun katta hajmdagi matnlar bazasi, elekt ron lug‘atlar va til korpuslari zarur bo‘ladi. O‘zbek tili bo‘yicha bunday ma’lumotlar bazasining kengayishi natijasida sun’iy
+intellekt tizimlari o‘zbek tilidagi matnlarni
+yanada aniqroq tushunish va qayta ishlash
+imkoniyatiga ega bo‘ladi.
+Kelajakda o‘zbek tilida ishlaydigan
+virtual yordamchilar, elektron tarjimonlar,
+aqlli qidiruv tizimlari va ta’lim platformalari keng tarqalishi mumkin. Bu esa ilmfan, ta’lim va davlat boshqaruvi samaradorligini oshirishga xizmat qiladi.
+Elektron lug‘atlar va til korpuslari.
+Raqamli til taraqqiyotining asosiy shartlaridan biri elektron lug‘atlar va til korpuslarini yaratishdir. Til korpusi millionlab
+so‘z va matnlarni o‘z ichiga olgan elekt ron ma’lumotlar bazasi bo‘lib, u tilning
+zamonaviy holatini o‘rganish imkonini
+beradi.
+O‘zbek tili korpusining rivojlanishi:
+● yangi so‘z va atamalarni aniqlash;
+● terminologik bazalarni boyitish;
+● avtomatik tarjima sifatini yaxshilash;
+● ilmiy-tadqiqotlarni rivojlantirish;
+● sun’iy intellekt dasturlarini takomillashtirish imkonini beradi.
+Elektron lug‘atlar esa foydalanuvchiInsonning fikrlash jarayoni ko‘p jihatdan til bilan bog‘liq
+bo‘lgani sababli, ilmiy tushuncha va nazariyalarni
+o‘zlashtirishda ona tilining imkoniyatlari katta rol o‘ynaydi.
+O‘zbek tilida yaratilayotgan ilmiy adabiyotlar yoshlarning
+murakkab ilmiy bilimlarni chuqurroq anglashi va ularni
+amaliyotga tatbiq etishiga yordam beradi.2026-yil 5-avgust, № 31(9616) QR-kodni skanerlang va @marifatziyo /marifat.uz www.marifat.uz Ma rifat
+mobil ilovani yuklab oling. 13
+Baymuradov Ravshan Radjabovichning 14.00.02 – Morfologiya ixtisosligi
+bo‘yicha “Me’yorda va tajribada modellashtirilgan alimentar mikroelementozda
+buyraklar va urug‘donlar tuzilishining morfofunksional xususiyatlari” mavzusidagi(tibbiyot fanlari bo‘yicha) fan doktori(DSc) dissertatsiyasining himoyasi Abu
+Ali ibn Sino nomidagi Buxoro davlat tibbiyot instituti huzuridagi ilmiy darajalar
+beruvchi DSc.06/2025.27.12.Tib.05.01 raqamli ilmiy kengashning 2026-yil 17-avgust kuni soat 10:00 dagi majlisida bo‘lib o‘tadi.
+Manzil: 200118, Buxoro shahri, G‘ijduvon shohko‘chasi, 23-uy.
+Tel/faks: (65) 223-00-50; e-mail: info@bsmi.uz
+Kubayeva Mavluda Baxtiyor qizining 13.00.01 – Pedagogika nazariyasi.
+Pedagogik ta’limotlar tarixi ixtisosligi bo‘yicha “Kasbiy ta’lim tashkiloti o‘quvchilarida ijodiy kompetensiyalarni shakllantirishning nazariy-didaktik asoslari”
+mavzusidagi(pedagogika fanlari bo‘yicha) fan doktori(DSc) dissertatsiyasining
+himoyasi Kasbiy ta’limni rivojlantirish instituti huzuridagi ilmiy darajalar beruvchi DSc.02/2025.27.12.Ped.01.01 raqamli ilmiy kengashning 2026-yil 13-avgust
+kuni soat 10:00 dagi majlisida bo‘lib o‘tadi.
+Manzil: 100095, Toshkent shahri, Olmazor tumani, Chimboy-2, 96-uy.
+Tel/faks: (71) 246-92-17, 246-90-37; e-mail: pedagogikinnovatsiyalar@edu.uz
+Jurayev Sanjar Rashidovichning 05.09.06 – Gidrotexnika va melioratsiya
+qurilishi ixtisosligi bo‘yicha “Sug‘orish tizimi nasos stansiyalarining energiya
+va foydalanish samaradorligini oshirishning ilmiy asoslari” mavzusidagi(texnika fanlari bo‘yicha) fan doktori(DSc) dissertatsiyasining himoyasi Irrigatsiya
+va suv muammolari ilmiy-tadqiqot instituti huzuridagi ilmiy darajalar beruvchi
+DSc.17/2025.27.12.T.01.01 raqamli ilmiy kengashning 2026-yil 21-avgust kuni
+soat 14:00 dagi majlisida bo‘lib o‘tadi.
+Manzil: 100187, Toshkent shahri, Qorasuv-4 mavzesi, 11-uy.
+Tel/faks: (99) 434-43-28; e-mail: ismiti@minwater.uz
+Jamolov Anvar Kuchkorovichning 13.00.05 – Kasb-hunar ta’limi nazariyasi
+va metodikasi ixtisosligi bo‘yicha “Differensial yondashuv asosida tibbiy kompetensiyalarni mobillashtirish texnologiyasini qo‘llash orqali o‘quvchilarning
+amaliy ko‘nikmalarini rivojlantirish” mavzusidagi(pedagogika fanlari bo‘yicha)
+fan doktori(DSc) dissertatsiyasining himoyasi Kasbiy ta’limni rivojlantirish instituti huzuridagi ilmiy darajalar beruvchi DSc.02/2025.27.12.Ped.01.01 raqamli
+ilmiy kengashning 2026-yil 14-avgust kuni soat 11:00 dagi majlisida bo‘lib o‘tadi.
+Manzil: 100095, Toshkent shahri, Olmazor tumani, Chimboy-2, 96-uy.
+Tel/faks: (71) 246-92-17, 246-90-37; e-mail: pedagogikinnovatsiyalar@edu.uz
+Saidkulov Nuriddin Akramkulovichning 09.00.09 – Maʼnaviy jarayonlar va
+texnologiyalar” ixtisosligi bo‘yicha “Jamiyat ijtimoiy-siyosiy va ma’naviy barqarorligini ta’minlashda inson kapitalini rivojlantirish tendensiyalari” mavzusidagi
+(falsafa fanlari bo‘yicha) fan doktori(DSc) dissertatsiyasining himoyasi Respublika Ma’naviyat va ma’rifat markazi huzuridagi Ijtimoiy-ma’naviy tadqiqotlar
+instituti huzuridagi ilmiy darajalar beruvchi DSc.21/2025.27.12.F.01.01 raqamli
+ilmiy kengashning 2026-yil 26-avgust kuni soat 14:00 dagi majlisida bo‘lib o‘tadi.
+Manzil: 100174, Toshkent shahri, Yakkasaroy tumani, Bobur ko‘chasi, 9-uy.
+Tel/faks: (55) 503-41-90; e-mail: imtiuz@umail.uz
+Primov Baxriddin Abdiraxmonovichning 09.00.04 – Ijtimoiy falsafa ixtisosligi
+bo‘yicha “Axborot jadallashuvining jamiyat ma’naviy-axloqiy hayoti taraqqiyotiga ta’siri (ijtimoiy-falsafiy tahlil)” mavzusidagi(falsafa fanlari bo‘yicha) fan doktori(DSc) dissertatsiyasining himoyasi O‘zbekiston Milliy universiteti huzuridagi
+ilmiy darajalar beruvchi DSc.03/2025.27.12.F.01.07 raqamli ilmiy kengashning
+2026-yil 19-avgust kuni soat 10:00 dagi majlisida bo‘lib o‘tadi.
+Manzil: 100174, Toshkent shahri, Olmazor tumani, Universitet koʻchasi, 4-uy.
+Tel/faks: (71) 246-02-24;
+veb-sayt: www.nuu.uz; e-mail: devonxona@nuu.uz; e-xat: nuu@exat.uz
+Toshev Olmas Nuriddinovichning 09.00.09 – Ma’naviy jarayonlar va texnologiyalar ixtisosligi bo‘yicha “Jamiyat maʻnaviy va mafkuraviy barqarorligiga ijtimoiy konfliktlarning taʼsiri” mavzusidagi(falsafa fanlari bo‘yicha) falsafa
+doktori(PhD) dissertatsiyasining himoyasi Respublika Ma’naviyat va ma’rifat
+markazi huzuridagi Ijtimoiy-ma’naviy tadqiqotlar instituti huzuridagi ilmiy darajalar beruvchi DSc.21/2025.27.12.F.01.01 raqamli ilmiy kengashning 2026-yil
+26-avgust kuni soat 16:00 dagi majlisida bo‘lib o‘tadi.
+Manzil: 100174, Toshkent shahri, Yakkasaroy tumani, Bobur ko‘chasi, 9-uy.
+Tel/faks: (55) 503-41-90; e-mail: imtiuz@umail.uz
+Yusupaliyeva Xulkaroy Urazali qizining 05.05.01 – Energetika tizimlari
+va majmualari ixtisosligi bo‘yicha “Ip-yigiruv korxonalari elektr energiyasi
+iste’molining samaradorligini oshirish(Trikotaj mahsulotlari ishlab chiqaruvchi korxonalar misolida)” mavzusidagi(texnika fanlari bo‘yicha) falsafa doktori(PhD) dissertatsiyasining himoyasi O‘zbekiston Respublikasi Fanlar akademiyasi Energetika muammolari instituti huzuridagi ilmiy darajalar beruvchi
+DSc.05/2025.28.11.T.02.01 raqamli ilmiy kengashning 2026-yil 18-avgust kuni
+soat 14:00 dagi majlisida bo‘lib o‘tadi.
+Manzil: 100125, Toshkent shahri, Alpomish MFY, Do‘rmon yo‘li ko‘chasi, 40-uy.
+Tel/faks: (55) 520-01-52, 520-04-27; e-mail: energetika_in@umail.uz
+Raxmatova Maktuba Ulug‘bekovnaning 05.05.01 – Energetika tizimlari va
+majmualari ixtisosligi bo‘yicha “Sug‘orish tizimlari nasos elektr yuritmalari
+guruhining energiya samaradorligini oshirish” mavzusidagi(texnika fanlari
+bo‘yicha) falsafa doktori(PhD) dissertatsiyasining himoyasi O‘zbekiston Respublikasi Fanlar akademiyasi Energetika muammolari instituti huzuridagi ilmiy darajalar beruvchi DSc.05/2025.28.11.T.02.01 raqamli ilmiy kengashning 2026-yil
+18-avgust kuni soat 10:00 dagi majlisida bo‘lib o‘tadi.
+Manzil: 100125, Toshkent shahri, Alpomish MFY, Do‘rmon yo‘li ko‘chasi, 40-uy.
+Tel/faks: (55) 520-01-52, 520-04-27; e-mail: energetika_in@umail.uz
+Ilesova Nurjanar Nurgaliyevnaning 14.00.11 – Dermatologiya va venerologiya
+ixtisosligi bo‘yicha “Vulvaning skleroatrofik lixenini davolashning minimal invaziv usullarini klinik-diagnostik asoslash” mavzusidagi(texnika fanlari bo‘yicha)
+falsafa doktori(PhD) dissertatsiyasining himoyasi Respublika ixtisoslashtirilgan
+dermatovenerologiya va kosmetologiya ilmiy-amaliy tibbiyot markazi huzuridagi
+ilmiy darajalar beruvchi DSc.06/2025.27.12.Tib.26.01 raqamli ilmiy kengashning
+2026-yil 20-avgust kuni soat 13:00 dagi majlisida bo‘lib o‘tadi.
+Manzil: 100109, Toshkent shahri, Olmazor tumani, Forobiy ko‘chasi, 3-uy.
+Tel/faks: (78) 147-02-06; e-mail: niidiv@mail.ru
+Botirov Akbar Sodiq o‘g‘lining 05.05.05 – Sanoat issiqlik energetikasi ixtisosligi bo‘yicha “Yashash uylari uchun kombinatsiyalashgan bug‘latishli sovitish
+tizimi” mavzusidagi(texnika fanlari bo‘yicha) falsafa doklori(PhD) dissertatsiyasining himoyasi Qarshi davlat texnika universiteti huzuridagi ilmiy darajalar
+beruvchi PhD.0312025.28.11.T.17.01 raqamli ilmiy kengashning 2026-yil
+12-avgust kuni soat 14:00 dagi majlisida bo‘lib o‘tadi.
+Manzil: 180100, Qarshi shahri, Mustaqillik ko‘chasi, 225-uy.
+Tel/faks: (75) 224-02-89, 224-13-95; e-mail: kstu.@kstu.uz
+Tohirov Ulug‘bek Xolmirzayevichning 05.05.06 – Qayta tiklanadigan energiya turlari asosidagi energiya qurilmalari ixtisosligi bo‘yicha “Konvektiv
+quyosh quritish qurilmasining samaradorligini oshirish usullarini ishlab chiqish”
+mavzusidagi(texnika fanlari bo‘yicha) falsafa doktori(PhD) dissertatsiyasining
+himoyasi Qarshi davlat texnika universiteti huzuridagi ilmiy darajalar beruvchi
+PhD.03/2025.28.11.T.17.01 raqamli ilmiy kengashning 2026-yil 12-avgust kuni
+soat 10:00 dagi majlisida bo‘lib o‘tadi.
+Manzil: 180100, Qarshi shahri, Mustaqillik ko‘chasi, 225-uy.
+Tel/faks: (75) 224-02-89, 224-13-95; e-mail: kstu.@kstu.uz
+Baqoyev Xayrillo Yusupovichning 02.00.13 – Noorganik moddalar va
+ular asosidagi materiallar texnologiyasi ixtisosligi bo‘yicha “Parrandachilik
+chiqindilari, oqova suv cho‘kindilari, fosfogips va ikkilamchi xomashyolar
+asosida organomineral o‘g‘itlar olish texnologiyasi” mavzusidagi(texnika fanlari bo‘yicha) falsafa doktori(PhD) dissertatsiyasining himoyasi Navoiy davlat konchilik va texnologiyalar universiteti huzuridagi ilmiy darajalar beruvchi
+DSc.31/2025.27.12.T.01.01 raqamli ilmiy kengashning 2026-yil 7-avgust kuni
+soat 9:00 dagi majlisida bo‘lib o‘tadi.
+Manzil: 210100, Navoiy shahri, G‘alaba shohko‘chasi, 76- “v” uy.
+Tel/faks: (79) 223-23-32, 223-49-66; e-mail: info@nsumt.uz
+Otaybi Satam Nasserning 23.00.02 – Siyosiy institutlar, jarayonlar va texnologiyalar ixtisosligi bo‘yicha “Xalqaro tashkilotlar doirasida Saudiya Arabistoni
+Podshohligi va Xitoy Xalq Respublikasi munosabatlarida kooperativ xavfsizlikni
+ta’minlash masalalari” mavzusidagi(siyosiy fanlar bo‘yicha) falsafa doktori(PhD)
+dissertatsiyasining himoyasi O‘zbekiston Milliy universiteti huzuridagi ilmiy darajalar beruvchi DSc.03/2025.27.12.Ss.01.09 raqamli ilmiy kengashning 2026-yil
+27-avgust kuni soat 10:00 dagi majlisida boʻlib oʻtadi.
+Manzil: 100174, Toshkent shahri, Olmazor tumani, Universitet koʻchasi, 4-uy.
+Tel/faks: (71) 246-02-24;
+veb-sayt: www.nuu.uz; e-mail: devonxona@nuu.uz; e-xat: nuu@exat.uz
+Maxmudov Shaxrillo Sharipovichning 13.00.04 – Jismoniy tarbiya, sport
+mashg‘ulotlari, sog‘lomlashtirish va adaptiv jismoniy tarbiya nazariyasi va metodikasi ixtisosligi bo‘yicha “Yuqori malakali ogʻir atletikachilarning koʻp yillik
+tayyorgarligida mashgʻulot rejasini takomillashtirish” mavzusidagi(pedagogika
+fanlari bo‘yicha) falsafa doktori(PhD) dissertatsiyasining himoyasi O‘zbekiston
+davlat jismoniy tarbiya va sport universiteti huzuridagi ilmiy darajalar beruvchi
+DSc.28/2025.27.12.Ped.02.01 raqamli ilmiy kengashning 2026-yil 12-avgust kuni
+soat 10:00 dagi majlisida bo‘lib o‘tadi.
+Manzil: 111709, Toshkent viloyati, Chirchiq shahri, Sportchilar ko‘chasi, 19-uy.
+Tel/faks: (70) 717-27-27, 717-17-76;
+veb-sayt: www. jtsu.uz; e-mail: info@jtsu.uz; e-xat: jtsu@exat.uz
+Xazratqulova Muhayyo Murod qizining 05.09.03 – Issiqlik ta’minoti. Ventilyatsiya, konditsionerlash. Gaz ta’minoti va yoritish ixtisosligi bo‘yicha “Fuqaro binolarini tashqi to‘siqlar orqali isitish va sovutish jarayonlarida energiya samaradorligini oshirishni takomillashtirish” mavzusidagi(texnika fanlari
+bo‘yicha) falsafa doktori(PhD) dissertatsiyasining himoyasi Mirzo Ulug‘bek nomidagi Samarqand davlat texnika universiteti huzuridagi ilmiy darajalar beruvchi
+PhD.26/27.02.2020.T.109.01 raqamli ilmiy kengashning 2026-yil 28-avgust kuni
+soat 14:00 dagi majlisida bo‘lib o‘tadi.
+Manzil: 140147, Samarqand shahri, Lolazor ko‘chasi, 70-uy.
+Tel/faks: (66) 237-18-47, 237-19-53; e-mail: samdaqu@edu.uzMa rifat www.marifat.uz /marifat.uz @marifatziyo QR-kodni skanerlang va 2026-yil 5-avgust, № 31(9616)
+14 mobil ilovani yuklab oling.
+TILCHIGA
+Ajnabiy so‘zlarning yo‘lin yangiltir,
+Bilsang ayt-chi, nima o‘zi “qongiltir”?
+“Bo‘lim” deyish mumkin “paragiraf”ni,
+“She’r” demaslar sira yo‘g‘on “giraf”ni.
+“Vazifa” munosib xizmat – “missiya”ga,
+“Borlovchi” barobar har “komissiya”ga.
+“Sup” dermishsan goho qora “sho‘rva”ni,
+“Ryukzak” debsan yelkadagi “to‘rva”ni.
+“Tuzli suv”ning nomi bilsang “sharava”,
+“Xodinka”ga mosdir “adokarava”.
+“Qirol” taxtga chiqib surdi “karol”ni,
+“O‘ron” desa bo‘lar asli “parol”ni.
+Mos keladi “o‘zan” so‘zi “kanal”ga,
+Qo‘nar manzil nomi asli “qo‘nalg‘a”.
+Til tagiga tashlab, gohida nosni,
+Qaydan topding “gurung”
+uchun “podkos”ni?
+“P.S.”mi? Yo‘q! Desak bo‘lar – “ildirgi”,
+Jadidlar “e’lon”ni derdi “bildirgi”.
+“Lotariya” nomi bilsang “yonasib”,
+“Asp” degani o‘shal “ot”dir yo xasip.
+Kuylatsang o‘zbekcha kuylat-da torni,
+“Bekovul” desa bo‘lar “moderator”ni.
+Ajnabiy so‘zlarning yo‘lin yangiltir,
+Bilsang ayt-chi, nima o‘zi “qongiltir”?
+Bahodir NURMUHAMMAD
+Abbos uyg‘onganida
+tun burguti qanotlarini
+yig‘ib, tong yorisha boshlagandi. Yuz-qo‘lini yuvib, gazga choy qo‘ydi-da, safar
+anjomlarini saraladi. Sumkasini yelkasiga osib,
+eshikka chiqqanida allaqachon kun yorishgan,
+quyosh taftidan butun olam bahra olardi. Abbos
+kollejda o‘qiydi, bugun o‘qishdan paxta terimiga
+borishadi.
+* * *
+Kuz. Oltin fasl, u shoir ko‘ngliga o‘z ko‘rki ila
+ilhom berish bilan birga ko‘k gumbazi ayozdan dalolat bergandek qora bulutidan o‘z ne’matini sochadi,
+dehqon belini mahkam bog‘lab dalalardan rizq-ro‘zini yig‘ish ila band. Egatlarga chumolidek yoyilgan
+terimchilar oppoq dalalarni bir zumda qoramtir tusga
+kirgizadilar. Abbos shaharlik emasmi, dala-dashtga
+ko‘nikishi oson bo‘lmadi: to‘lib-to‘lmagan etagini
+osiltirib yurishdan zerikar, nazdida vaqt to‘xtab qolgandek edi go‘yo. Qalbiga ishq uchquni tushdi-yu
+butun vujudi uning tutunidan xonavayron bo‘layozdi, endi zerikishdan asar qolmagan, xayolida kunlar
+oqar, aqlini o‘g‘irlagan o‘sha qiz bilan gaplashgisi
+kelaverar, yonidan bir qadam ham jilmasam derdi.
+Qizning ismi Sojida. Uning husnini ko‘rgan kishi tunda osmonni yorituvchi oy o‘z joyini tark etib,
+yerga tushkanmikan, deb o‘ylaydi. Ko‘zlari may
+ichgan kabi mast qilsa qoshlari qayrilma shamshirdek oshiq ko‘ksini poralaydi, labi ostidagi dona xoli
+esa go‘yo qalbiga kiruv tugmasidek qaraganni o‘ziga tortaveradi. Qiz tushmagurning tabassumi ham
+sehrlidek, kulsa, atrofdagilar unga qo‘shilib beixtiyor
+jilmayadi. Abbos ana shu tabassumi go‘zal qizning
+asiriga aylandi. U xayolga cho‘mgancha paxta
+terarkan, ko‘z oldiga Sojidaning jilmaygan chehrasi
+kelaverdi...
+Shu payt qo‘lida paxta to‘la etagini bazo‘r ko‘targanicha hansirab, yoniga Arjun, hech qancha vaqt
+o‘tmasdan ortidan Isroil keldi. Yugurganidan jiqqa
+terga botgan kursdoshlariga qaragancha Abbosning
+xayoli bo‘lindi, “soyga tushdilaringmi, nima balo?”,
+dedi.
+– Salom, do‘stim, yaxshimisan, horma! – dedi
+do‘stlari baravariga.
+– Rahmat, xushvaqt bo‘linglar, nimalarni boshlab
+yuribsizlar yana? ̶ dedi Abbos ularga ma’noli qarab.
+– Hech nima. Ortiqcha gaplarni qo‘y, kel undan
+ko‘ra, o‘yin o‘ynaymiz.
+– Qanday o‘yin? – dedi Abbos.
+Arjun unga “uch chanoq” o‘yinini tushuntirdi.
+Qizig‘i, shu tob Arjun va Isroil aynan shu o‘yinni
+o‘ynab, boshqa bolalardan bir dunyo paxta yutib olgan, g‘oliblik sururidan mast edilar. Ular Abbosning
+ozgina paxtasiga ham ko‘z olaytirishgan, xullas,
+hamma kursdoshini bir boplamoqchi edilar.
+– O‘rtaga paxta tikiladi, yutqazgan paxtasini beradi. Shu xolos, – dedi Isroil ko‘zini o‘ynatib.
+Abbosga hech qizig‘i yo‘q, axir uch-to‘rt kilo
+chiqar-chiqmas paxtasini yo‘qotsa, nima o‘zgarardi?
+Omadi kelsa boshqalarning paxtasi uniki bo‘ladi!
+Qirq daqiqacha davom etgan o‘yinda uchovlon
+ketma-ket yutar, ular butun vujudi bilan o‘yinga
+kirishgandi. So‘nggi o‘yin kutilmaganda Abbosning
+foydasiga hal bo‘ldi. Yutqazib qo‘yib, butun paxtasidan ayrilgan Arjun va Isroil baqraygancha turi shardi.
+Birozdan keyin jiqqilashib, bir-biriga baqira ketdi.
+Bu holatni kuzatib turgan Abbosning ularga rahmi
+kelgandek:
+– Mayli, urishmanglar, – dedi xotirjam. – Paxtamni xirmongacha ko‘tarib chiqsalaring, xursand qilaman.
+Ular taajjub aralash nigohlarini Abbosga qadashdi-da, bir zum avval o‘zlariga tegishli bo‘lgan, endi
+esa egasini topgan paxtalarini yelkalab xirmon sari
+jimgina yo‘l olishdi.
+Abbos esa uchchanoq o‘yinida yutganidan o‘zida
+yo‘q xursand, do‘stlarining orqasidan miyig‘ida kulib,
+o‘zi tergan ozgina paxtasini ko‘tarib, asta xirmonga
+bordi. O‘rtoqlari allaqachon paxtalarni topshirib, Abbosning nomiga yozdirib ketishgan ekan. Shu bois
+Abbos o‘zini qahramonlardek his etdi – axir
+tushdan o‘tar-o‘tmas yuz
+k i l o d a n
+o s h i q r o q
+paxta terish hammaga ham nasib bo‘lavermaydi.
+Reja ortig‘i bilan bitdi. Etagini beliga bog‘lab,
+egat oralab hushtak chalib kelardi. Shu payt o‘ng
+tarafidagi ariqda qizning mayin ovozi eshitildi:
+– Kechirasiz, Abbos...
+Abbos ortga qayrildi. Yuragi hapqirib ketdi. Ikki
+qo‘lida etak ushlab olgan Sojida unga qarab turardi.
+– Labbay, Sojida!
+– Etagimni ko‘tarishga yordamlashib yuboring,
+iltimos.
+– Jonim bilan, – dedi Abbos tezda o‘zini o‘nglab
+olib.
+U Sojidaga unsiz oshiq bo‘lgani uchun ham
+tuyg‘ularini hech o‘ziga aytolmas, gap otishga necha
+imkon axtarar, ammo jur’ati yetmas, jur’ati yetsa,
+vaziyat to‘g‘ri kelmasdi. Bugun esa... Abbosning
+kuni ekanmi, har tomondan omadi chopyapti.
+– Bir o‘zingiz, tushgacha ellik besh kilo paxta terdingizmi, Sojida? – dedi Abbos qizning paxtalarini
+tortib qaytisharkan.
+– Ha, aslida bundan ko‘proq terardim, lekin ertalab kechroq turibman-da, ̶ dedi qiz boshini quyi egib
+borarkan.
+– Sojida, ̶ dedi yigit zimdan qizga qarab. – Chiroyli ismingiz bor-da. Sizga o‘xshashini, ya’ni ismi
+jismiga mos qizni oldin ko‘rmagandim.
+– Xo‘sh, qanaqa ekanman? – dedi qiz afsungar
+ko‘zlarini yigitga qadagancha. Bu qarashlar Abbosni
+hayajonga soldi. Nogahon uchrashgan nigohlardan
+Abbosning ichida ajib titroq turdi, butun vujudi bu
+titroqdan jafo tortgandi.
+– Men, men, shu, shunchaki aytmoqchi edimki,
+juda zo‘r terarkansiz paxtani!
+Abbosning iltifotidan Sojida sharaqlab kuldi. Butun paxtazor bu kulgidan yayrab ketdi, go‘yo.
+Shu kundan e’tiboran bu ikki qalb sohibi yonma-yon egatga tushib olib, hangomani qizdirar, ba’zan
+miriqib kulishar, Abbos kundan kun qizga qattiqroq
+bog‘lanib borardi. Shu alfozda terim mavsumi oxirlab borar, soat kapkiri tinmay tebranar, diy dorning
+har lahzasidan yigit o‘zgacha bir kuch olar, g‘ayrat
+bilan Sojida uchun ham paxta terib charchamasdi...
+* * *
+Abbos ko‘zlarini ochganida shom cho‘kkan edi.
+U bemahalda uxlab qolganidan o‘zini og‘ir his etdi.
+Gazga choy qo‘ydi-da, sumkasiga daftar kitobini soldi va bir chetga qo‘ydi. Ko‘chada odam gavjum edi.
+Havo ochiq bo‘lishiga qaramay, salqin shamol esar,
+uzoqdan ufqning bir burchida qora bulutlar ko‘rinib
+turardi. Darvoqe, u bugun tanish manzilda Sojida
+bilan ko‘rishishi kerak. Oh, bu olamdagi eng go‘zal
+diydor bo‘ladi.
+Chetdan qaraganda, yigit va qiz yerdan unib
+chiqqan qo‘sh niholdek edi, darsdan keyin albatta
+uchrashishar, birga ovqatlanar, xuddi hind filmlaridagi oshiqlar kabi bir-biriga talpinardi. Biroq bugun
+Sojida uchrashuvga kelmadi. Qayta-qayta qo‘ng‘iroq
+qilsa ham ko‘tarmadi, yuborgan xabarlariga javob
+yozmadi. Abbosning ichiga g‘ulg‘ula tushdi, xastalandimikan-a, degancha Sojida yashaydigan yotoqxonaga bordi. Bordi-yu, boshiga tog‘ qulagandek
+bo‘ldi. Sojidaning dugonalari bor gapni aytib berishdi:
+– U seni ahmoq qilib yurgandi, Abbosjon, – dedi
+shartakiroq kursdoshi yarim kulgi va achinish bilan
+boqqancha. – Aybga buyurmaysan, uchchanoq o‘ynagandik. Sojida bizga istalgan yigitni bir kunda o‘ziga
+rom qilish bo‘yicha garov bog‘ladi. O‘shanda unga
+sen to‘g‘ri kelib qolding... Biz unga agar shu bolani
+ilintirsang, senga tilla uzuk sovg‘a qilamiz, deb shartlashdik. Qolganini o‘zing bilasan. Hozir u bizdan olgan tilla uzugini taqib qishlog‘iga ketgan.
+Eshik yopildi. Ichkaridan bir to‘da qizlarning shodon kulgisi yangradi. O‘sha ovozlar ichida Sojidaning
+ovozini Abbos aniq eshitdi, ichida nimadir chirt etib
+uzilgandek bo‘ldi. Bir nima deyishga yigitlik g‘ururi
+yo‘l qo‘ymadi. Indamay zinalardan tushib borarkan,
+junjikib qo‘lini cho‘ntagiga soldi. Barmog‘iga ignaning uchi kirgandek bo‘ldi. Olib qaradi-yu, istamaygina kulib yubordi. Bu paxta dalasida Arjun va Isroilning paxtalarini yutib olishga sabab bo‘lgan o‘sha
+uchchanoq edi...
+Husan ISPANTOV,
+O‘zMU talabasi
+Piskent tumanidagi
+14-maktabning matematika
+fani o‘qituvchisi
+SOJIDA
+Hikoya2026-yil 5-avgust, № 31(9616) QR-kodni skanerlang va @marifatziyo /marifat.uz www.marifat.uz Ma rifat
+mobil ilovani yuklab oling. 15
+Quziyev Olmosbek Anvar o‘g‘lining 05.05.06 – Qayta tiklanadigan energiya
+turlari asosidagi energiya qurilmalari ixtisosligi bo‘yicha “Koʻp funksiyali kombinatsiyalashgan geliotexnik qurilmaning issiqlik-texnik parametrlarini asoslash”
+mavzusidagi(texnika fanlari bo‘yicha) falsafa doktori(PhD) dissertatsiyasining
+himoyasi Qarshi davlat texnika universiteti huzuridagi ilmiy darajalar beruvchi
+PhD.03/2025.28.11.T.17.01 raqamli ilmiy kengashning 2026-yil 11-avgust kuni
+soat 10:00 dagi majlisida bo‘lib o‘tadi.
+Manzil: 180100, Qarshi shahri, Mustaqillik ko‘chasi, 225-uy.
+Tel/faks: (75) 224-02-89, 224-13-95; e-mail: kstu.@kstu.uz
+Kurbonova Komila Shuxrat qizining 14.00.11 – Dermatologiya va venerologiya ixtisosligi bo‘yicha “Androgen alopetsiya hujayra terapiyasini ishlab
+chiqish” mavzusidagi(tibbiyot fanlari bo‘yicha) falsafa doktori(PhD) dissertatsiyasining himoyasi Respublika ixtisoslashtirilgan dermatovenerologiya va kosmetologiya ilmiy-amaliy tibbiyot markazi huzuridagi ilmiy darajalar beruvchi
+DSc.06/2025.27.12.Tib.26.01 raqamli ilmiy kengashning 2026-yil 14-avgust kuni
+soat 13:00 dagi majlisida bo‘lib o‘tadi.
+Manzil: 100109, Toshkent shahri, Olmazor tumani, Forobiy ko‘chasi, 3-uy.
+Tel/faks: (78) 147-02-06; e-mail: niidiv@mail.ru
+Okyulov Xasan Omanbayevichning 23.00.02 – Siyosiy institutlar, jarayonlar va texnologiyalar ixtisosligi bo‘yicha “Fuqarolik jamiyatini rivojlantirishda mulkdorlar qatlamining o‘rni (xorijiy va milliy tajribalar qiyosiy tahlili)”
+mavzusidagi(siyosiy fanlar bo‘yicha) falsafa doktori(PhD) dissertatsiyasining
+himoyasi O‘zbekiston Milliy universiteti huzuridagi ilmiy darajalar beruvchi
+DSc.03/2025.27.12.Ss.01.09 raqamli ilmiy kengashning 2026-yil 20-avgust kuni
+soat 11:00 dagi majlisida boʻlib oʻtadi.
+Manzil: 100174, Toshkent shahri, Olmazor tumani, Universitet ko‘chasi, 4-uy.
+Tel/faks: (71) 246-02-24; e-mail: devonxona@nuu.uz, nuu@exat.uz
+Radjabova Muxtasar Davranbekovnaning 13.00.02 – Ta’lim va tarbiya nazariyasi va metodikasi (arab tili) ixtisosligi bo‘yicha “Arab tilida talabalarning yozuv malakasini integrativ yondashuv asosida shakllantirish” mavzusidagi(pedagogika fanlari bo‘yicha) falsafa doktori(PhD) dissertatsiyasining himoyasi
+O‘zbekiston davlat jahon tillari universiteti huzuridagi ilmiy darajalar beruvchi
+DSc.03/2026.31.01.Ped.45.02 raqamli ilmiy kengashning 2026-yil 14-avgust kuni
+soat 10:00 dagi majlisida bo‘lib o‘tadi.
+Manzil: 100173, Toshkent shahri, Uchtepa tumani,
+Kichik halqa yo‘li ko‘chasi, G-9A mavzesi, 21-uy.
+Tel/faks: (71) 230-12-91, 230-12-92;
+veb-sayt: www.uzswlu.uz; e-mail: uzswlu@gmail.ru
+Alimov Tohir Egamshukurovichning 10.00.13 – Qiyosiy va chog‘ishtirma
+tilshunoslik ixtisosligi bo‘yicha “O‘zbek, nemis, rus tillarida maishiy leksikaning semantik va funksional xususiyatlari” mavzusidagi(filologiya fanlari
+bo‘yicha) falsafa doktori(PhD) dissertatsiyasining himoyasi O‘zbekiston davlat
+jahon tillari universiteti huzuridagi ilmiy darajalar beruvchi DSc.03/2026.31.01.
+Fil.45.01 raqamli ilmiy kengashning 2026-yil 10-avgust kuni soat 10:00 dagi
+majlisida bo‘lib o‘tadi.
+Manzil: 100173, Toshkent shahri, Uchtepa tumani,
+Kichik halqa yo‘li ko‘chasi, G-9A mavzesi, 21-uy.
+Tel/faks: (71) 230-12-91, 230-12-92;
+veb-sayt: www.uzswlu.uz; e-mail: uzswlu@gmail.ru
+Umarova Dilfuza Azadbekovnaning 14.00.11 – Dermatologiya va venerologiya ixtisosligi bo‘yicha “Teri bazaliomalarining differensial tashxisoti va davolash usullarini takomillashtirish” mavzusidagi(tibbiyot fanlari bo‘yicha) falsafa doktori(PhD) dissertatsiyasining himoyasi Respublika ixtisoslashtirilgan
+dermatovenerologiya va kosmetologiya ilmiy-amaliy tibbiyot markazi huzuridagi
+ilmiy darajalar beruvchi DSs.06/2025.27.12.Tib.26.01 raqamli ilmiy kengashning
+14-avgust kuni soat 14:00 dagi majlisida bo‘lib o‘tadi.
+Manzil: 100109, Toshkent shahri, Olmazor tumani, Forobiy ko‘chasi, 3-“a” uy.
+Tel/faks: (78) 147-02-06; e-mail: niidiv@mail.ru
+Yodgorov Baxtiyor Orziqulovichning 02.00.06 – Yuqori molekulyar birikmalar ixtisosligi bo‘yicha “Karbamido-formaldegid smolasi asosida uch komponentli interpolimer polimer komplekslar olish va ularning fizik-kimyoviy xossa larini
+o‘rganish” mavzusidagi(kimyo fanlari bo‘yicha) falsafa doktori(PhD) dissertatsiyasining himoyasi Chirchiq davlat pedagogika universiteti huzuridagi ilmiy
+darajalar beruvchi DSc.01/2025.27.12.K.04.04 raqamli ilmiy kengashning
+2026-yil 18-avgust kuni soat 10:00 dagi majlisida bo‘lib o‘tadi.
+Manzil: 111700, Toshkent viloyati, Chirchiq shahri, Amir Temur ko‘chasi, 104-uy.
+Tel/faks: (71) 716-68-05, 716-68-11; e-mail: tvchdpi_k.kengash@umail.uz
+Hech boʻlmasa shu kuni xursand qilaylik uni,
+Hech boʻlmasa shu kuni bayram qilsin tilimiz.
+Hech boʻlmasa shu kuni xafa qilmaylik uni,
+Hech boʻlmasa shu kuni yayrab yursin tilimiz.
+Hech boʻlmasa shu kuni qoʻl
+urmang hech narsaga –
+Gala imlo xatodan qora boʻlmasin koʻngli.
+Hatto nusxasi tayyor qoʻl urmang arizaga –
+Chala imzo, savoddan xira boʻlmasin koʻngli.
+Hech boʻlmasa shu kuni
+chetchalarga dam bering –
+Oʻzbekcha soʻzlarimning naqd qonuniy oʻrni bu.
+Jilovsiz o‘ris, ingliz… chinchalarga dam bering –
+Oʻzbek tili davlati, oʻzbek tili yurti bu.
+Yetmasmidi ming yillik boshga
+tushgan koʻrgulik –
+Fors, arab, moʻgʻul, oʻris tillari istilosi.
+Bugun ingliz, xitoyni mehmon qilmoqda shoʻrlik,
+Nahot boshlandi yana istilo ibtidosi.
+Hech boʻlmasa shu kuni qoʻyib bering oʻziga,
+Ona Oʻzbekistonni tutib ketsin ovozi.
+Boshkent ham toʻlib ketsin
+oʻzbekning oʻz soʻziga,
+Toshkentda ham barq ursin davlat tili parvozi.
+Hech boʻlmasa shu kuni she’rlar
+ayting – yayrasin:
+Yangrasin Navoiylar, yangrasin Boburiylar,
+Yangrasin Nodiralar, Zulfi yalar yangrasin,
+Hech bo‘lmasa, shu kuni...
+(21-oktabrga)
+Yangrasin Choʻlponlarim, yangrasin Qodiriylar,
+Sayrasin Abdullolar, Muhammadlar sayrasin,
+Yashnasin Erkinlarim, Raufl arim yashnasin.
+Hech boʻlmasa shu kuni uchsin “Choʻli Iroq”lar,
+Jarang sochsin yurt uzra oʻzbegim sadolari.
+Koʻzin ochsin uxloqlar –
+qalb koʻzlari mudroqlar –
+Toʻtiqul, Toʻtigullar – ona til gadolari.
+Belni mahkam bogʻlang, ey oʻzbegim fi dolari.
+Hech boʻlmasa shu kuni taralsin xush allalar,
+Mehribon quchoqlarning taftin olsin bolamiz.
+Hech boʻlmasa shu kuni yangrasin shoʻx yallalar,
+Hech boʻlmasa bir kunga qaytsin oltin pallamiz.
+Hech boʻlmasa shu kuni qutlab olaylik uni,
+Beshikdan to qiyomat suyuk parvonamiz u.
+Hech boʻlmasa shu kuni kuylab qolaylik uni,
+Ikki dunyo tengi yoʻq – buyuk taronamiz u.
+Hech boʻlmasa shu kuni oʻxshaylik oʻzimizga,
+Atlas-u doʻppilardan yashnasin koʻzlarimiz.
+Hech boʻlmasa shu kuni qayting oʻzligimizga –
+Yashnasin oʻzbek tili – oʻzbekcha soʻzlarimiz!
+Xullas kalom, shu kuni Oʻzbek tili bayrami –
+Mumtoz soʻz, navolardan nurga toʻlsin yuraklar.
+Bagʻrikeng, yoʻli yorugʻ Oʻzbek elin bayrami –
+Oʻzbekiston madhida urib tursin yuraklar.
+Gap-soʻz tamom, shu kuni
+ona tilni oʻylaylik,
+Axir u oʻzbegimiz, oʻzligimiz timsoli.
+Oldimda oqar suv deb
+bee’tibor boʻlmaylik,
+Qurib qolmasin yana,
+u ham Orol misoli…
+Jumanazar ABDULLAYEV,
+Guliston davlat
+universiteti dotsenti16 Ma rifat www.marifat.uz /marifat.uz @marifatziyo QR-kodni skanerlang va mobil ilovani yuklab oling. 2026-yil 5-avgust, № 31(9616)
+Bosh muharrir: Husan NISHONOV
+MANZILIMIZ:
+100099, Toshkent shahri,
+Darvozakent ko‘chasi, 60-uy.
+Veb-sayt: www.marifat.uz
+“O‘zbekiston” nashriyot-matbaa
+ijodiy uyida chop etildi.
+Korxona manzili: Toshkent shahri,
+Alisher Navoiy ko‘chasi, 30-uy.
+TELEFONLAR:
+Tel/faks: (55) 512-01-50
+Dizayner: Malohat Toshova.
+Navbatchi muharrir: Faxriddin Rahimov.
+Navbatchi: Bobomurod Xudoyberdiyev.
+Ma rifat
+Gazeta haftaning chorshanba kuni chiqadi.
+“Ma’rifat”dan
+materiallarni ko‘chirib
+bosish tahririyat
+ruxsati bilan amalga
+oshirilishi shart.
+Tahririyatga kelgan
+qo‘lyozmalar taqriz
+qilinmaydi va muallifga qaytarilmaydi.
+Mobil ilovani
+yuklab olish uchun
+ushbu QR-kodni
+skanerlang:
+TA’SIS ETUVCHILAR:
+O‘zbekiston maktabgacha va maktab ta’limi vazirligi,
+O‘zbekiston oliy ta’lim, fan va innovatsiyalar vazirligi,
+O‘zbekiston ta’lim va fan xodimlari
+kasaba uyushmasi Respublika kengashi.
+t – tijorat belgisi.
+Gazeta O‘zbekiston Matbuot va axborot agentligida
+2006-yil 22-dekabrda 0067-raqam bilan ro‘yxatga olingan.
+Indeks: 149 150. V-6169. Tiraji 6545.
+Hajmi 4 bosma taboq. Ofset usulida bosilgan.
+Qog‘oz bichimi A-3. Bahosi sotuvda erkin narxda.
+Bor ekan-u yo‘q ekan,
+och ekan-u to‘q ekan.
+Bo‘ri bakovul, tulki yasovul
+bo‘lmagan, qarg‘a
+qaqimchilikni, chumchuq
+chaqimchilikni o‘rganmagan
+zamonlar ekan. Bo‘ri, tulki,
+qarg‘a, chumchuqni qo‘ying,
+dunyoda na odam, na dinozavr,
+na bir qurt, na bir maysa bor,
+“Big Bang”dan ham oldingi
+davrlar. Borliq faqat so‘zdan
+iborat ekan. So‘z tovushga
+aylanib moddiylashgach,
+tovush ham harflarga evrilibdi.
+Shu tariqa borliqda harflar
+hukmron bo‘la boshlabdi.
+Boshida harflarning barchasi tenglikda, tinch-totuvlikda yashabdi. Xuddi insonlarda bo‘lgani kabi,
+vaqt o‘tishi bilan harflarda ham turli xarakterlar,
+ichki illatlar paydo bo‘lgach, ular ham asta-sekin
+tabaqalarga bo‘linib, bir-birlari bilan janjallasha
+boshlabdi. Harflar orasidagi urush, taloto‘p juda
+uzoq davom etibdi. Oxiri urushlardan charchagan harflar o‘zaro majlis o‘tkazib, tartibli jamiyat
+qurishga, ichlaridan bir hukmdor saylashga qaror
+qilishibdi. Shunday qilsagina oralaridagi mojarolar bitishiga ishonishibdi. Nihoyat barcha harflar
+bir joyga to‘planib, saylovoldi majlisini o‘tkazibdi. Lekin bu majlisdan ham hech bir naf chiqmabdi. Chunki harflarning barchasi podshoh bo‘lishni
+istab, o‘z nomzodini ilgari suribdi. Hamma podshoh bo‘lishni istasa, kim ovoz beradi? Kim ularni
+saylaydi? Yana boshlanibdi janjal. “U”ning boshi
+yorilibdi, “O‘”ning qulog‘i yulinibdi. “A”ning
+yumshog‘i shahid bo‘libdi, “I”ning qattig‘i bedarak
+ketibdi. Xullas, unlilar orasida talofatlar juda ko‘p
+bo‘libdi. Oltitasigina tirik qolibdi.
+Janjallardan bezor bo‘lgan harflar oxiri yana tortisha-tortisha podshohni faqat unlilar orasidan saylashga qaror qilishibdi. Harflar orasida unlilarning o‘ziga
+yarasha obro‘si bor ekan. Undan tashqari, urushlarda
+Qunduz AMAKI
+ko‘p yaqinlarini yo‘qotib, juda qattiq tushkunlikka
+tushganlari uchun qolgan harflarning ularga rahmi
+kelibdi.
+Nomzodlar aniqlangach, saylov kuni ham belgilanibdi. Unli harflar mitinglar o‘tkazib, saylov kampaniyasini boshlab yuborishibdi.
+– “Uzr” degan so‘z bo‘lsa, oramizdagi adovatlar
+butkul yo‘qoladi. Hamma bir-biridan uzr so‘raydi,
+yana qayta tinch-totuv yashaymiz. Meni saylasangiz,
+ishonchingizni oqlayman, – debdi “U”.
+– “Olam”, “osmon”, “oqillik” kabi so‘zlar men
+bilan boshlanadi. Podshoh bo‘lishga men ko‘proq
+munosibman, – deb minbarlarda hayqiribdi “O”.
+– Meni saylamasangiz, “ilmsiz, ijodsiz, irfonsiz,
+iymonsiz” bo‘lib qolasiz, – debdi “I”.
+– “O‘qimoq”, “o‘rganmoq” bo‘lmasa, sendan
+nima naf? Podshohlikka men loyiqman, – debdi
+“O‘”.
+– E-eee, – debdi “E”. – “Erkinlik”, “egamanlik”
+bo‘lmasa, nima foyda o‘rganmoqdan, ilm-u ijoddan?
+Meni saylanglar!
+– Azizlar, – debdi bosiq, donishmandona ovozda “A”. – Bizga hozir eng keragi “adolat”. “Adolat” bo‘lsa, hammasi yaxshi bo‘ladi. Undan tashqari, harflarning avvali menman. Menga ovoz
+bering.
+U paytlar nazorat qiladigan xalqaro tashkilotlar bo‘lmagani bois, saylovning qanchalik adolatli
+o‘tganini bilmaymiz. Oraga korrupsiya aralashganmi, yo‘qmi, undan ham xabardor emasmiz. Xullas,
+yakunda “A” harflar podshohi etib saylanibdi.
+Hukumat ishlari faqat podshohning o‘zi bilan bo‘lmaydi-ku. Harflar mamlakatini bosh qarish
+uchun boshqa lavozimlar ham kerak. “A”ning o‘zi
+qolganlarni tayinlabdi. Unli harflar podshohga
+maslahatchi bo‘lishibdi. “Boshliq”, “boshqaruvchi”
+so‘zlari sabab “A” “B”ni birinchilardan bo‘lib yoniga chaqiribdi va unga ko‘plab vakolatlar beribdi.
+Durustligi, do‘stligi sabab “D” ham uning orqasidan ko‘tarilib ketibdi. “F” farmonlarni e’lon qiluvchi bo‘libdi. “G” garnizon boshlig‘i. “H” hokim.
+“J” va “K”ning qanday qilib lavozimga tayinlangani
+haqida ma’lumotlar yo‘q. Ammo “L” laganbardorligi ortidan “A”ning e’tiboriga tushganmish. “M”
+mulozim, “N” nozir bo‘libdi. “P” ham “A”ning eng
+yaqin mahramiga aylanibdi (bunga “P”ning “paxtakor”ligi, poraxo‘rligi sabab degan mish-mishlar
+yuradi). “Q” qorovul, “R” rahbar, “S” sudya, “T”
+tergovchi, “V” vazir, “X” xavfsizlik xodimi, “Y”
+yordamchi, “Z” zakunchi, “G‘” g‘aznachi bo‘libdi.
+“Sh” shay xulislom, “Ch” esa choparlikka tayinlanibdi. Faqat “NG”gagina so‘z boshida kelmagani bois,
+hech bir lavozim tegmabdi
+Soliq to‘laydigan ham, kattalar kulsa, kuladigan, o‘lsa o‘ladigan ham, pora beradigan ham, paxta teradigan ham, ekin ekadigan, jabr chekadigan
+ham… “NG”. Hamma to‘rda, u poygakda, hamma
+olda, u orqada. Butun hukmdor harflar unga buyruq
+berar, u esa butun harflarga xizmat qilib, orqasidan
+ergashib yurar ekan.
+Mamlakat, hukmdor va amaldorlar bo‘lgandan
+so‘ng, boshqariladigan xalq ham bo‘lishi kerak,
+shunday emasmi? Harflar mamlakatida, boshqariluvchi qora xalq vazifasini “NG” bajaribdi.
+“NG” sabab Harflar mamlakatida janjallar bitibdi,
+xafagarchiliklar ketibdi, hamma murod maqsadiga
+yetibdi.
+Qissadan hissa shuki, aziz kattakonlar, alifbo mizdan “NG”ni olib tashlasangiz, Harflar mamlakatining oyog‘i osmondan bo‘lib ketishi tayin.
+“NG” haqida ertak

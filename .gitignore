@@ -16,7 +16,7 @@ env/
 *.bak
 
 # Ignore media and static files (if not managed by version control)
-media/
+#media/
 static/ # if you collect static files to a local directory and don't want to commit them
 
 # Ignore IDE and editor settings
