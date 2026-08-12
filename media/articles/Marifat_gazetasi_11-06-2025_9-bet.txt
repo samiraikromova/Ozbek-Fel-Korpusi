@@ -1,0 +1,179 @@
+2025-yil 11-iyun, № 23(9556) QR-kodni skanerlang va mobil ilovani yuklab oling. @marifatziyo /marifat.uz www.marifat.uz Ma rifat 9
+Amaliy filologiya har bir millatning
+til boyliklarini, jumladan, soʻzlashuv,
+yozma matnlar, rasmiy hujjatlar, reklama matnlari, ommaviy axborot vositalari tili, veb-saytlar, huquqiy hujjatlar,
+ilmiy maqolalar va shu kabilarni tahlil qilish, tahrir qilish, zarur hollarda
+til siyosatini takomillashtirishga oid
+takliflar berish, lingvistik ekspertiza oʻtkazish, terminologiya yaratish
+va boshqalarda koʻrinadi. Shu bois
+davr talablariga mos holda, filologiya
+doirasida faqat nazariy gʻoyalar emas,
+balki amaliy ishlar ham katta ahamiyat
+kasb etmoqda.
+Hozirgi kunda dunyoning ilg‘or
+universitetlarida filologiya fanlari
+bo‘yicha nafaqat nazariy tadqiqotlar
+o‘tkaziladi, balki yirik korxonalar,
+axborot texnologiyalari kompaniyalari bilan hamkorlikda turli amaliy
+loyihalar bajariladi. Masalan, tabiiy
+tilni tushunish (Natural Language Understanding), nutqni avtomatik tanish
+(ASR – Automatic Speech Recognition), mashina tarjimasi (Machine
+Translation), matnni qayta ishlash
+(NLP – Natural Language Processing)
+bo‘yicha tadqiqotlar – amaliy filologiyaning AT sohasi bilan uzviy
+bog‘liqligini ko‘rsatadi.
+O‘zbekistonda ham yirik AT kompaniyalari yoki davlat muassasalari
+bilan hamkorlik yo‘lga qo‘yilsa, albatta, bu soha tez rivojlanadi, “Davlat tili haqida”gi qonun ijrosi yanada
+mustahkamlanadi. Masalan, “O‘zbek
+tili korpusi”ni yaratish, lug‘atlar bazasini kengaytirish, chatbotlar tilini
+muvofiqlashtirish, matnni avtomatik tahrir qiladigan dasturlarni ishlab
+chiqish orqali davlat idoralari ishi
+yengillashadi, fuqarolar uchun o‘zbek
+tilida xizmat ko‘rsatish qulay bo‘ladi.
+Tilni rivojlantirish masalasi shunchaki texnik yoki rasmiy masala emas,
+balki chuqur ijtimoiy va ma’naviy
+ahamiyatga ega. Agar fuqaro o‘z tilida
+ravon, to‘g‘ri va mazmunli gapirish,
+fikrini aniq ifoda etish, hujjat tuzish,
+e’lonlar yozish, hatto ilmiy ishini o‘z
+ona tilida bitish imkoniyatiga ega bo‘lsa,
+bu millatning ma’naviy darajasi, vatanparvarlik hissi ham yuksaladi. Amaliy
+filologiya aynan shu jihatga ham xizmat
+qiladi – milliy til me’yorlarini mustahFAN, TA’LIM VA ISHLAB CHIQARISH INTEGRATSIYASI
+AMALIY FILOLOGIYA:
+kamlash, undagi “hayotbaxsh” imkoniyatni yuzaga chiqarish, har bir soha
+uchun tilning nozik tomonlarini taqdim
+etish orqali xalqda faxr, g‘urur, mas’uliyat tuyg‘ularini tarbiyalaydi.
+Oliy ta’lim muassasalarida filologiyaning amaliy yo‘nalishini rasmiy ravishda joriy etish masalasi juda
+muhim. Chunki amaliy filolog bo‘lish
+uchun quyidagilar majburiy:
+1) til nazariyasidan xabardorlik.
+Grammatik qonun-qoidalar, leksik sath,
+fonetika va fonologiya, morfologiya, sintaksis, stilistika asoslari puxta
+o‘rganilmasdan turib, amaliy sohada
+ishlash qiyin. Bunda nazariy bazaga
+ega bo‘lish asosiy “poydevor”dir;
+2) amaliy ko‘nikmalar. Faqat
+nazariy bilimlar emas, balki real
+hujjatlar, rasmiy ish yuritish, turli
+matnlarni tahrir qilish, lisoniy ekspertiza, reklama matni tuzish, marketing sohasiga oid o‘ziga xos stilistika, ko‘ptillilik sharoitida tarjima,
+lug‘atchilik, elektron formatlarda ishlash – bularning barchasi sinf (laboratoriya) darajasida ham mashq qilinishi
+lozim;
+3) metodika va tadqiqot usullari.
+Amaliy filolog ta’lim muassasasini
+bitirgach bo‘sh ish o‘rinlari bo‘yicha
+nafaqat o‘qituvchilik yoki ilmiy xodimlik, balki turli idoralar, nashriyotlar, axborot agentliklarida faoliyat
+yurita olishi zarur. Shuning uchun
+metodik yondashuvlar, matn tuzish
+texnologiyalari, dizayn va reklama,
+PR sohalari bilan ham tanish bo‘lishi
+lozim bo‘ladi.
+Bugungi kungacha O‘zbekistonda filologiya fanlaridan ko‘plab dissertatsiyalar himoya qilindi. Ammo
+ularning aksariyati an’anaviy mavzular (masalan, biror adib ijodida
+leksik-semantik xususiyatlarni o‘rganish, grammatik qiyosiy tahlil va h.k.)
+atrofida bo‘lgan. Amaliy filologiya
+mavzusi bo‘yicha esa juda kam, deyarli sanoqli ishlar bor, xolos. Kelajakda bu mavzuda himoya qilinadigan
+dissertatsiyalar quyidagi sohalarni
+qam rab olishi kerak:
+1) sud lingvistikasi. “O‘zbek sudnutq amaliyoti tilining xususiyatlari”,
+“Huquqiy hujjatlar tili va uslubi” va
+shu kabi mavzular;
+2) reklama va marketing tili.
+“O‘zbek tilida reklamaviy matn yaratish usullari”, “Ijtimoiy reklamalar
+lingvistik xususiyatlari” va h.k.;
+3) elektron matnlar tili. “Internet
+nashrlarida o‘zbek tili qo‘llanilishi:
+amaliy tahlil va takomillashtirish istiqbollari”, “Chatbotlar nutqining lisoniy modellari” singari mavzular;
+4) tarjima jarayonlari. “Ilmiy
+matn larni o‘zbek tiliga tarjima qilishda atamalar muammosi”, “Amaliy
+filologiya nuqtayi nazaridan badiiy
+tarjimaning xususiyatlari” va boshqalar;
+5) lingvistik ekspertiza metodikasi. “O‘zbek matnlarida haqorat va
+tahdid ifodalarini aniqlash usullari”,
+“Sudlingvistikasida matn psixologik
+tahlilining o‘rni” va h.k. Bunday mavzulardagi izlanishlar bir tomondan
+jamiyatga real foyda keltirsa, ikkinchi tomondan “Davlat tili haqida”gi
+qonun ijrosi uchun nazariy va amaliy
+ko‘mak bo‘ladi.
+Shu o‘rinda bu boradagi xorij tajribasidan misollar keltirish mumkin:
+1) Rossiya hududida 1990-yillardanoq sud lingvistikasi amali yoti
+shakllangan. Ayrim universitetlar
+“Yurislingvistika” yoki “Prikladnaya
+filologiya” bo‘yicha maxsus mutaxassislar tayyorlaydi. Ular asosan
+huquqni muhofaza qilish, sudekspertiza muassasalarida faoliyat yuritadi, ayrimlari esa nashriyotlar, OAV
+va reklama agentliklarida ish topishlari mumkin;
+2) Germaniyada tilshunoslikni
+amaliyot bilan integratsiya qilish
+an’anasi juda kuchli. Mamlakatda
+yirik tibbiyot korxonalari, texnik zavodlar, farmatsevtika kompaniyalari
+o‘z “amaliy filolog”larini yollaydi.
+Ular texnik hujjatlarni aniq va tushunarli tilda yozadi, qo‘llanmalar tuzadi, o‘qitish modulini ishlab chiqadi.
+Ba’zan ularga “fashional writer” yoki
+“technical writer” deyishadi;
+3) AQSHda huquqshunoslik bilan tilshunoslikning kesishgan joyida
+paydo bo‘lgan “Forensic linguistics”
+(Sud lingvistikasi) so‘nggi yillarda
+juda rivoj topgan. Hatto shaxsni nutqi
+orqali identifikatsiya qilish, turli jinoyatlar yoki kiberhujumlarda gumonlanuvchining matn uslubini tahlil
+qilib, uni fosh qilish bo‘yicha qator
+mexanizmlar ishlab chiqilgan;
+4) Janubiy Koreyada koreys tilidagi AT mahsulotlar, dastur interfeyslari,
+ovozli buyruqlar tizimini takomillashtirish bo‘yicha maxsus markazlar
+bor. Ular ham amaliy filologiya yoki
+tilshunoslik bo‘yicha AT mutaxassislari bilan hamkorlikda ishlashadi.
+Bu misollar shuni ko‘rsatadiki, ko‘plab rivojlangan davlatlarda
+filologiya allaqachon nazariy doiradan chiqib, kundalik hayotdagi turli
+ehtiyojlarga javob beradigan, yirik
+loyihalarni yo‘lga qo‘yadigan, yurt
+rivojida asosiy ustunlardan biriga
+aylangan. “Davlat tili haqida”gi qonun
+O‘zbekistonda ana shu yo‘nalishdagi
+ishlarning qonuniy asosini yaratgan,
+endi uni amaliy filologiya yordamida to‘ldirish, boyitish, keng ko‘lamda
+amalga oshirish zarur.
+“Davlat tili haqida”gi qonun muvaffaqiyatli ishlashi uchun turli idora,
+vazirlik, ilmiy markazlar o‘rtasidagi
+hamkorlikni mustahkamlash, doimiy
+ravishda amaliy filologlarga murojaat qilish, ular bilan birga majlislar,
+davra suhbatlari, anjumanlar o‘tkazish lozim. Masalan, Oliy Majlis
+huzurida til siyosatiga daxldor qo‘mita faoliyati yanada kengaytirilib,
+amaliy filologlar, sotsiolingvistlar,
+huquqshunoslar, jurnalistlar va AT
+sohasi vakillari qatnashsa, juda katta
+samara beradi.
+Mamlakat imijini shakllantirishda
+marketing muhim o‘rin tutadi. Marketingning asosiy quroli – reklama,
+axborot, taklif, jamoatchilik bilan
+aloqalardir (PR). O‘zbekistondagi
+reklama mahsulotlarining ayrimlarida
+hali-hanuz uslubiy, fonetik, imloviy
+xatolar ko‘p uchraydi, ko‘plab xorijiy
+iboralar noo‘rin qo‘llanadi. Reklama matnlarini tuzishda ham filologik
+yondashuv zarur. Xususan, amaliy
+filologiya vakili brend nomi, shiori,
+slogan, banner, ijtimoiy tarmoqlardagi postlar, maqsadli auditoriya bilan ishlash, brend “ovozi”ni yaratish
+singari masalalarda bevosita qatnashishi, xulosa berishi lozim. Milliy brend
+rivoji – faqat dizayn yoki rang be rish
+emas, balki nutqiy tarkibning ham
+puxta o‘ylangan, saviyali va jozibali
+bo‘lishini talab qiladi.
+“Davlat tili haqida”gi qonun nafaqat ichki siyosat masalasi, balki
+xalqaro imijga ham bog‘liq. Xususan, xorijiy davlatlardagi elchixonalar, turli xalqaro konferensiyalar,
+doimiy diplomatik muloqotlarda
+o‘zbek tilining me’yordagi tarjimalari, aniq terminlari, puxta ishlab
+chiqilgan interaktiv platformalari
+bo‘lsa, O‘zbekis tonning dunyodagi obro‘-e’tiboriga ham ijobiy ta’sir
+ko‘rsatadi. Ayni payt da xorijda o‘zbek
+tili o‘rganilayotgan markazlar soni asta-sekin ortib bormoqda. Ular uchun
+metodik qo‘llanma, onlayn platforma,
+darslik, atamalar lug‘ati, audio-video materiallar ishlab chiqishda ham
+amaliy filologlar muhim rol bajarishi
+mumkin.
+Baxtiyor MENGLIYEV,
+filologiya fanlari doktori,
+professor
+Amaliy fi gan bir yoʻnalishi, u til va adabiyot nazariyasidan tashqari, fi huquqiy, ma’naviy-ma’rifi lologiyani bevosita kundalik hayotda, turli ijtimoiy, iqtisodiy, lologiya ‒ filologiyaning tobora ommalashib borayot- y sohalarda qoʻllash masalalariga
+e’tibor qaratadi. An’anaviy tilshunoslik, asosan, tilning ichki qurilishi,
+grammatik tuzilishi, fonetik xususiyatlari, leksik boyligi, ada biy mezonlar
+kabi nazariy masalalarni oʻrganish bilan cheklanib kelgan boʻlsa, amaliy
+tilshunoslik ushbu nazariy bazani hayotiy voqelikka tatbiq etish, til resurslarini real sohalar uchun amaliy qiymatga aylantirishga urgʻu beradi.
