@@ -61,7 +61,7 @@
               <div class="genre-name">Badiiy matnlar</div>
               <div class="genre-desc">Nasriy va she'riy asarlar (quyida ro'yxatda)</div>
               <div class="progress-bar">
-                <div class="progress-fill" style="width: {% widthratio badiiy_count total_texts 100 %}%"></div>
+                <div class="progress-fill" style="width: {% widthratio badiiy_words total_words 100 %}%"></div>
               </div>
             </div>
             <div class="genre-stats">
@@ -76,7 +76,7 @@
               <div class="genre-desc">Gazeta va jurnal maqolalari</div>
               <div class="genre-desc">"Guliston", "Oʻzbekiston", "Tong tuldūzi", "Xalq soʻzi", "XXI asr" gazetalari va "Yoshlik", "Saodat" jurnallari.</div>
               <div class="progress-bar">
-                <div class="progress-fill" style="width: {% widthratio publitsistik_count total_texts 100 %}%"></div>
+                <div class="progress-fill" style="width: {% widthratio publitsistik_words total_words 100 %}%"></div>
               </div>
             </div>
             <div class="genre-stats">
@@ -90,7 +90,7 @@
               <div class="genre-name">Ilmiy matnlar</div>
               <div class="genre-desc">Dissertatsiya, maqola, darslik, o‘quv-uslubiy materiallar</div>
               <div class="progress-bar">
-                <div class="progress-fill" style="width: {% widthratio ilmiy_count total_texts 100 %}%"></div>
+                <div class="progress-fill" style="width: {% widthratio ilmiy_words total_words 100 %}%"></div>
               </div>
             </div>
             <div class="genre-stats">
@@ -104,8 +104,7 @@
               <div class="genre-name">Rasmiy matnlar</div>
               <div class="genre-desc">Qonun, farmon, shartnomalar, tilxat/ariza hamda Konstitutsiya matnlari</div>
               <div class="progress-bar">
-                <div class="progress-fill" style="width: {% widthratio rasmiy_count total_texts 100 %}%"></div>
-              </div>
+                <div class="progress-fill" style="width: {% widthratio rasmiy_words total_words 100 %}%"></div>              </div>
             </div>
             <div class="genre-stats">
               <div><strong>{{ rasmiy_count|intcomma }}</strong> matn</div>
