@@ -1,0 +1,3 @@
+ozfelkorpus.com, www.ozfelkorpus.com {
+    reverse_proxy web:8000
+}
