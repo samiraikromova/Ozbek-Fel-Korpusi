@@ -5,8 +5,8 @@ services:
     mem_limit: 400m
     env_file: .env
     volumes:
-      - db_data:/app/db.sqlite3
-      - media_data:/app/media
+      - ./db.sqlite3:/app/db.sqlite3
+      - ./media:/app/media
     expose:
       - "8000"
 
@@ -25,7 +25,5 @@ services:
       - web
 
 volumes:
-  db_data:
-  media_data:
   caddy_data:
   caddy_config:
