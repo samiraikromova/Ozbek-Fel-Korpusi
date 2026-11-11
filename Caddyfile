@@ -1,3 +1,7 @@
-ozfelkorpus.com, www.ozfelkorpus.com {
+ozfeltanlanma.com, www.ozfeltanlanma.com {
     reverse_proxy web:8000
+}
+
+ozfelkorpus.com, www.ozfelkorpus.com {
+    redir https://ozfeltanlanma.com{uri} permanent
 }

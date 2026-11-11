@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>OʻzFeʼlKorpus</title>
+  <title>OʻzFeʼlTanlanma</title>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{% static 'css/style.css' %}">
 </head>
@@ -15,11 +15,11 @@
     <!-- HEADER -->
     <header>
       <div class="logo-container">
-        <h1>OʻzFeʼlKorpus</h1>
+        <h1>OʻzFeʼlTanlanma</h1>
       </div>
       <div class="nav-links">
         <a href="https://drive.google.com/drive/folders/1MHJ2DutLkzKI8Ms8jTM4HVwEO9jDHshd?usp=sharing" target="_blank" rel="noopener noreferrer">Tadqiqot natijalari</a>
-        <a href="{% url 'index' %}#about">Korpus haqida</a>
+        <a href="{% url 'index' %}#about">Tanlanma haqida</a>
         <a href="{% url 'statistics' %}">Statistika</a>
         <a href="{% url 'index' %}#guide">Foydalanish qoʻllanmasi</a>
       </div>
@@ -78,9 +78,9 @@
 
     <!-- ABOUT -->
     <div class="about-section" id="about">
-      <h2>Korpus haqida</h2>
-      <p>"OʻzFeʼlKorpus" — bu oʻzbek tilidagi 2000–2025-yillar orasida yaratilgan badiiy, ilmiy, publitsistik va rasmiy uslubdagi matnlar asosida tuzilgan 1 million soʻzli elektron matnlar korpusidir. Ushbu korpus oʻzbek tilida feʼl morfologik shakllarining nutqdagi qoʻllanish darajasini tizimli tahlil qilish maqsadida shakllantirilgan boʻlib, u zamonaviy lingvistik tadqiqotlar, uslubiy va grammatik izlanishlar uchun boy empirik manba hisoblanadi.</p>
-      <p>Korpusda turli uslub va janrlardagi matnlar toʻplangan boʻlib, ular orqali feʼlning zamon, mayl, nisbat, shaxs-son shakllari kabi grammatik koʻrsatkichlarning real nutqdagi ishlatilish chastotasi aniqlanadi.</p>
+      <h2>Tanlanma haqida</h2>
+      <p>"OʻzFeʼlTanlanma" — bu oʻzbek tilidagi 2000–2025-yillar orasida yaratilgan badiiy, ilmiy, publitsistik va rasmiy uslubdagi matnlar asosida tuzilgan 1 million soʻzli elektron matnlar tanlanmasidir. Ushbu tanlanma oʻzbek tilida feʼl morfologik shakllarining nutqdagi qoʻllanish darajasini tizimli tahlil qilish maqsadida shakllantirilgan boʻlib, u zamonaviy lingvistik tadqiqotlar, uslubiy va grammatik izlanishlar uchun boy empirik manba hisoblanadi.</p>
+      <p>Tanlamada turli uslub va janrlardagi matnlar toʻplangan boʻlib, ular orqali feʼlning zamon, mayl, nisbat, shaxs-son shakllari kabi grammatik koʻrsatkichlarning real nutqdagi ishlatilish chastotasi aniqlanadi.</p>
       
       <div class="founders-section">
         <h3>Asoschilar</h3>
@@ -96,10 +96,10 @@
     <div class="user-guide" id="guide">
       <h2>Foydalanish qoʻllanmasi</h2>
       <div class="guide-content">
-        <h3>Korpus maqsadi</h3>
-        <p>OʻzFeʼlKorpus oʻzbek tilidagi feʼllarning turli shakllarining qoʻllanishini oʻrganish, ularning chastotasini aniqlash va grammatik tahlil qilish uchun yaratilgan. Korpus lingvistlar, tilshunoslar, talabalar va oʻzbek tilini oʻrganayotganlar uchun foydali manba hisoblanadi.</p>
+        <h3>Tanlanma maqsadi</h3>
+        <p>OʻzFeʼlTanlanma oʻzbek tilidagi feʼllarning turli shakllarining qoʻllanishini oʻrganish, ularning chastotasini aniqlash va grammatik tahlil qilish uchun yaratilgan. Tanlanma lingvistlar, tilshunoslar, talabalar va oʻzbek tilini oʻrganayotganlar uchun foydali manba hisoblanadi.</p>
         
-        <h3>Korpus tuzilishi</h3>
+        <h3>Tanlanma tuzilishi</h3>
         <div class="guide-grid">
           <div class="guide-item">
             <h4>Badiiy uslub</h4>
@@ -123,7 +123,7 @@
         <div class="search-guide">
           <div class="search-type">
             <h4>Soʻz izlash</h4>
-            <p>Toʻliq soʻzni kiriting va korpusda qidiring</p>
+            <p>Toʻliq soʻzni kiriting va tanlanmada qidiring</p>
           </div>
           <div class="search-type">
             <h4>Qoʻshimcha izlash</h4>
@@ -140,10 +140,10 @@
     <!-- FOOTER -->
     <footer>
       <div class="footer-content">
-        <p>© 2025 OʻzFeʼlKorpus Loyihasi</p>
+        <p>© 2025 OʻzFeʼlTanlanma Loyihasi</p>
         <div class="footer-links">
           <a href="https://t.me/Nasirdinova_O">Bogʻlanish</a>
-            <a href="{% url 'index' %}#about">Korpus haqida</a>
+            <a href="{% url 'index' %}#about">Tanlanma haqida</a>
         </div>
       </div>
     </footer>

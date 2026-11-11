@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Korpus statistikasi - To'liq hisobot</title>
+  <title>Tanlanma statistikasi - To'liq hisobot</title>
   <link rel="stylesheet" href="{% static 'css/style.css' %}">
   
 </head>
@@ -14,10 +14,10 @@
   
     <header>
       <div class="logo-container">
-      <h1>Oʻzbek tili korpusi - Matnlar tarkibi</h1>
+      <h1>OʻzFeʼlTanlanma - Matnlar tarkibi</h1>
       </div>
       <div class="nav-links">
-        <a href="{% url 'index' %}#about">Korpus haqida</a>
+        <a href="{% url 'index' %}#about">Tanlanma haqida</a>
         <a href="{% url 'index' %}#guide">Foydalanish qoʻllanmasi</a>
       </div>
     </header>
@@ -38,7 +38,7 @@
       <div class="stat-card">
         <span class="stat-number">{{ total_words|intcomma|default:"1.3M" }}</span>
         <div class="stat-label">Jami so'zlar</div>
-        <div class="stat-description">Korpusdagi barcha so'zlar</div>
+        <div class="stat-description">Tanlanmadagi barcha so'zlar</div>
       </div>
       <div class="stat-card">
         <span class="stat-number">{{ total_authors|intcomma|default:"44" }}</span>
@@ -178,10 +178,10 @@
   <!-- FOOTER -->
     <footer>
       <div class="footer-content">
-        <p>© 2025 OʻzFeʼlKorpus Loyihasi</p>
+        <p>© 2025 OʻzFeʼlTanlanma Loyihasi</p>
         <div class="footer-links">
           <a href="https://t.me/Nasirdinova_O">Bogʻlanish</a>
-            <a href="{% url 'index' %}#about">Korpus haqida</a>
+            <a href="{% url 'index' %}#about">Tanlanma haqida</a>
         </div>
       </div>
     </footer>
